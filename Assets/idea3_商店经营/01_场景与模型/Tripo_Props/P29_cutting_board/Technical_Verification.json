@@ -1,0 +1,155 @@
+{
+  "asset_id": "P29_cutting_board",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P29_cutting_board\\P29_cutting_board_static.blend",
+  "source_sha256_before": "3e50efea50dde269179ec5028554b2354306b25793b5a8f9c1e84d502f4173d9",
+  "source_sha256_after": "3e50efea50dde269179ec5028554b2354306b25793b5a8f9c1e84d502f4173d9",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_6353a66b",
+        "vertices": 640,
+        "triangles": 888,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_6353a66b"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 640,
+    "triangles": 888,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_d2ba3727-eb97-4907-9011-2f4f17c3d759",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.12279923260211945,
+        -0.21000000834465027,
+        0.0
+      ],
+      "max": [
+        0.12279923260211945,
+        0.21000000834465027,
+        0.042471908032894135
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_d2ba3727-eb97-4907-9011-2f4f17c3d759",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P29_cutting_board\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "f5f80e62bb6644776d3bdedc6b48d685ee75272f3f6e1f6766b808840601fd84"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_6353a66b",
+        "vertices": 640,
+        "triangles": 888,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_6353a66b"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 640,
+    "triangles": 888,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_d2ba3727-eb97-4907-9011-2f4f17c3d759",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P29_cutting_board\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.12279925495386124,
+        -0.21000002324581146,
+        -2.0006533318905895e-08
+      ],
+      "max": [
+        0.12279926240444183,
+        0.21000002324581146,
+        0.04247192665934563
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P29_cutting_board\\P29_cutting_board_Editable.blend",
+      "bytes": 26441621,
+      "sha256": "9710790c2ea00b7a54063e0c71ae5759d41dbbd44ef444defb740871d89b196d",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P29_cutting_board\\P29_cutting_board_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P29_cutting_board\\P29_cutting_board_Engine.fbx",
+      "bytes": 807004,
+      "sha256": "94884f34994ed75563126174a0190560cb1b263ee1671f8956de48ee855f4a38",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P29_cutting_board\\P29_cutting_board_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P29_cutting_board\\Textures\\Tex_00.jpg",
+      "bytes": 25947722,
+      "sha256": "f5f80e62bb6644776d3bdedc6b48d685ee75272f3f6e1f6766b808840601fd84",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P29_cutting_board\\P29_cutting_board_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P29_cutting_board\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "b8b748d17b7cc648eae979d5d2aa1830bf2bfe8f9f3b112601cba677e602c3b2",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_d2ba3727-eb97-4907-9011-2f4f17c3d759",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

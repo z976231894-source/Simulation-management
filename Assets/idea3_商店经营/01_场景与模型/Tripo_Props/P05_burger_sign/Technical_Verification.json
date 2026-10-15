@@ -1,0 +1,155 @@
+{
+  "asset_id": "P05_burger_sign",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P05_burger_sign\\P05_burger_sign_static.blend",
+  "source_sha256_before": "f5d51afa238568e6eb45267f2fa44d10b2159bc1b4fd5c86ecf5d6b71a546887",
+  "source_sha256_after": "f5d51afa238568e6eb45267f2fa44d10b2159bc1b4fd5c86ecf5d6b71a546887",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "e223b123_883a_42b8_8685_ec588a81531c",
+        "vertices": 7762,
+        "triangles": 7274,
+        "uv_layers": 1,
+        "materials": [
+          "e223b123_883a_42b8_8685_ec588a81531c"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 7762,
+    "triangles": 7274,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_1420635c-3de5-4bd2-983a-b203b8edfd06",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          4096,
+          4096
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -1.399999976158142,
+        -0.2920372486114502,
+        5.960464477539063e-08
+      ],
+      "max": [
+        1.399999976158142,
+        0.2920372486114502,
+        1.3473374843597412
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_1420635c-3de5-4bd2-983a-b203b8edfd06",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P05_burger_sign\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "sha256": "d05c3b834135b6b03ca13d3e1451014d57bdf4ca7f2704967a4d35cf74e71dfa"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "e223b123_883a_42b8_8685_ec588a81531c",
+        "vertices": 7762,
+        "triangles": 7274,
+        "uv_layers": 1,
+        "materials": [
+          "e223b123_883a_42b8_8685_ec588a81531c"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 7762,
+    "triangles": 7274,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_1420635c-3de5-4bd2-983a-b203b8edfd06",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P05_burger_sign\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -1.4000000953674316,
+        -0.29203739762306213,
+        -1.6848429140736698e-07
+      ],
+      "max": [
+        1.4000000953674316,
+        0.29203739762306213,
+        1.3473377227783203
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P05_burger_sign\\P05_burger_sign_Editable.blend",
+      "bytes": 3960643,
+      "sha256": "f11e0e61507f5ea02b26b003858c053dfd89eb1d3216124a44ece0d332a739be",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P05_burger_sign\\P05_burger_sign_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P05_burger_sign\\P05_burger_sign_Engine.fbx",
+      "bytes": 778204,
+      "sha256": "b8376896b510d9fe7d826ce884ef4f14d41abf6f184722fcf17b90f515aef2c3",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P05_burger_sign\\P05_burger_sign_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P05_burger_sign\\Textures\\Tex_00.jpg",
+      "bytes": 2811787,
+      "sha256": "d05c3b834135b6b03ca13d3e1451014d57bdf4ca7f2704967a4d35cf74e71dfa",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P05_burger_sign\\P05_burger_sign_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P05_burger_sign\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "55b6dee9063a1b42d6269adbfa341c2fd98e722b85e56ace6db2c9df9c700ff5",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_1420635c-3de5-4bd2-983a-b203b8edfd06",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

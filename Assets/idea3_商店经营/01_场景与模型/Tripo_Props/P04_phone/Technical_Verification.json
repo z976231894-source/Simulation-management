@@ -1,0 +1,155 @@
+{
+  "asset_id": "P04_phone",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v1\\P04_phone\\P04_phone_static.blend",
+  "source_sha256_before": "57c02814d428fb16578074bfdacabcc016a3b04fda41b7cb171d5dbe1e7e7397",
+  "source_sha256_after": "57c02814d428fb16578074bfdacabcc016a3b04fda41b7cb171d5dbe1e7e7397",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "e92c40eb_d027_4c3a_8f38_55cd4f0024ea",
+        "vertices": 1439,
+        "triangles": 2619,
+        "uv_layers": 1,
+        "materials": [
+          "e92c40eb_d027_4c3a_8f38_55cd4f0024ea"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1439,
+    "triangles": 2619,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_bcf60925-4b11-46ff-8df2-f1bc29faf0bd.jpg",
+        "path": "//tripo_texture_bcf60925-4b11-46ff-8df2-f1bc29faf0bd.fbm\\tripo_rgb_bcf60925-4b11-46ff-8df2-f1bc29faf0bd.jpg",
+        "packed": true,
+        "dimensions": [
+          4096,
+          4096
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.12000002712011337,
+        -0.10686861723661423,
+        2.205213789352456e-09
+      ],
+      "max": [
+        0.12000002712011337,
+        0.10686861723661423,
+        0.1504250317811966
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_bcf60925-4b11-46ff-8df2-f1bc29faf0bd.jpg",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P04_phone\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "sha256": "4d020b0270b003346217219e2684319cf5a095e57c3b7a4905c5e5c8b3b78787"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "e92c40eb_d027_4c3a_8f38_55cd4f0024ea",
+        "vertices": 1439,
+        "triangles": 2619,
+        "uv_layers": 1,
+        "materials": [
+          "e92c40eb_d027_4c3a_8f38_55cd4f0024ea"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1439,
+    "triangles": 2619,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_bcf60925-4b11-46ff-8df2-f1bc29faf0bd.jpg",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P04_phone\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.12000003457069397,
+        -0.10686862468719482,
+        1.186100995198558e-08
+      ],
+      "max": [
+        0.12000003457069397,
+        0.10686862468719482,
+        0.1504250317811966
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P04_phone\\P04_phone_Editable.blend",
+      "bytes": 5326345,
+      "sha256": "1ade328cd66cdbce68d294927f8f3b58955969156c50ba2ebbd2eb5667e6b833",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v1\\P04_phone\\P04_phone_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P04_phone\\P04_phone_Engine.fbx",
+      "bytes": 526492,
+      "sha256": "5031f528816429584a5845dbac8fd2ae35e710410413b99216010f5cb609e051",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v1\\P04_phone\\P04_phone_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P04_phone\\Textures\\Tex_00.jpg",
+      "bytes": 4742836,
+      "sha256": "4d020b0270b003346217219e2684319cf5a095e57c3b7a4905c5e5c8b3b78787",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v1\\P04_phone\\P04_phone_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P04_phone\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "8ae8d4a837e7dcc4dc8812ae39514516584ae86c1ae8d05e5759ddbbdfc81b21",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_bcf60925-4b11-46ff-8df2-f1bc29faf0bd.jpg",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

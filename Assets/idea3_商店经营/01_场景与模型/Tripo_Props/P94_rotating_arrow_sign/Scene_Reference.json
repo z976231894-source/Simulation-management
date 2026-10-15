@@ -1,0 +1,41 @@
+{
+  "asset_id": "P94_rotating_arrow_sign",
+  "model_id": "59a15fba-f65b-4d5d-8e49-117fa140abe5",
+  "matching_mesh_material_uuid": [
+    "P94_Alley_Arrow__tripo_node_80e63d3c"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P94",
+      "name": "P94_Alley_Arrow",
+      "model_id": "59a15fba-f65b-4d5d-8e49-117fa140abe5",
+      "actual_dimensions_m": [
+        0.6340408325195312,
+        0.619999885559082,
+        0.505764365196228
+      ],
+      "bbox_m": {
+        "min": [
+          12.144999504089355,
+          4.860000133514404,
+          1.5800000429153442
+        ],
+        "max": [
+          12.779040336608887,
+          5.480000019073486,
+          2.0857644081115723
+        ]
+      },
+      "base_position_world_m": [
+        12.462019920349121,
+        5.170000076293945,
+        1.5800000429153442
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "E_Alley"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

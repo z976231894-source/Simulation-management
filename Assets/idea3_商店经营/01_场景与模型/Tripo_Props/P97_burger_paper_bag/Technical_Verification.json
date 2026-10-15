@@ -1,0 +1,155 @@
+{
+  "asset_id": "P97_burger_paper_bag",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P97_burger_paper_bag\\P97_burger_paper_bag_static.blend",
+  "source_sha256_before": "fd570a3eb219c716d0558e19385ca0312ad333d76b5b2ca9de18dde3afde8ebc",
+  "source_sha256_after": "fd570a3eb219c716d0558e19385ca0312ad333d76b5b2ca9de18dde3afde8ebc",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_043957e1",
+        "vertices": 742,
+        "triangles": 986,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_043957e1"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 742,
+    "triangles": 986,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_e7b502e5-caaf-41c6-962b-f74046db1b63",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.11076352000236511,
+        -0.08425880968570709,
+        0.0
+      ],
+      "max": [
+        0.11076352000236511,
+        0.08425880968570709,
+        0.2200000137090683
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_e7b502e5-caaf-41c6-962b-f74046db1b63",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P97_burger_paper_bag\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "a489a8750b32e8ad9455c13e8d4d6016d732f2e3f1d3d86bba3957730c8220fe"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_043957e1",
+        "vertices": 742,
+        "triangles": 986,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_043957e1"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 742,
+    "triangles": 986,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_e7b502e5-caaf-41c6-962b-f74046db1b63",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P97_burger_paper_bag\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.11076352745294571,
+        -0.08425882458686829,
+        -1.7903506233096778e-08
+      ],
+      "max": [
+        0.1107635647058487,
+        0.08425882458686829,
+        0.2200000286102295
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P97_burger_paper_bag\\P97_burger_paper_bag_Editable.blend",
+      "bytes": 14535297,
+      "sha256": "9eb46374da61ef4e72ce06c5231eb7e112ed92df6598cf247824da72cffc737c",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P97_burger_paper_bag\\P97_burger_paper_bag_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P97_burger_paper_bag\\P97_burger_paper_bag_Engine.fbx",
+      "bytes": 332348,
+      "sha256": "5b30d93578ff3bb77411ccdb8ac57cdffc78b03f11b837fd2497a6c50e6ccf7a",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P97_burger_paper_bag\\P97_burger_paper_bag_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P97_burger_paper_bag\\Textures\\Tex_00.jpg",
+      "bytes": 14031472,
+      "sha256": "a489a8750b32e8ad9455c13e8d4d6016d732f2e3f1d3d86bba3957730c8220fe",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P97_burger_paper_bag\\P97_burger_paper_bag_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P97_burger_paper_bag\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "c63883bc7a655c135f282720b296950759ea54231065fcf5d6b3bce798893eea",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_e7b502e5-caaf-41c6-962b-f74046db1b63",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

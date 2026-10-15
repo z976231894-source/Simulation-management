@@ -1,0 +1,27 @@
+{
+  "asset_id": "P07_metal_chair",
+  "model_id": null,
+  "matching_mesh_material_uuid": [
+    "Chair_T01_North__tripo_9fe9ae6e_5b05_4bb3_9790_b2ecf9c93a92",
+    "Chair_T01_South__tripo_9fe9ae6e_5b05_4bb3_9790_b2ecf9c93a92",
+    "Chair_T02_East__tripo_9fe9ae6e_5b05_4bb3_9790_b2ecf9c93a92",
+    "Chair_T02_West__tripo_9fe9ae6e_5b05_4bb3_9790_b2ecf9c93a92",
+    "Chair_T03_East__tripo_9fe9ae6e_5b05_4bb3_9790_b2ecf9c93a92",
+    "Chair_T03_West__tripo_9fe9ae6e_5b05_4bb3_9790_b2ecf9c93a92",
+    "Chair_T04_East__tripo_9fe9ae6e_5b05_4bb3_9790_b2ecf9c93a92",
+    "Chair_T04_West__tripo_9fe9ae6e_5b05_4bb3_9790_b2ecf9c93a92"
+  ],
+  "anchor_custom_property": [
+    "Anchor_Chair_T01_North",
+    "Anchor_Chair_T01_South",
+    "Anchor_Chair_T02_East",
+    "Anchor_Chair_T02_West",
+    "Anchor_Chair_T03_East",
+    "Anchor_Chair_T03_West",
+    "Anchor_Chair_T04_East",
+    "Anchor_Chair_T04_West"
+  ],
+  "matching_tripo_instances": [],
+  "proven_referenced": true,
+  "current_active": true
+}

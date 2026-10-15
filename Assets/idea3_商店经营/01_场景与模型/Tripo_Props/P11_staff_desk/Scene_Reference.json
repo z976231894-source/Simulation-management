@@ -1,0 +1,13 @@
+{
+  "asset_id": "P11_staff_desk",
+  "model_id": null,
+  "matching_mesh_material_uuid": [
+    "Desk_Staff__tripo_0e3995e3_a410_47b9_be93_596c2707fd7a"
+  ],
+  "anchor_custom_property": [
+    "Anchor_Desk_Staff"
+  ],
+  "matching_tripo_instances": [],
+  "proven_referenced": true,
+  "current_active": true
+}

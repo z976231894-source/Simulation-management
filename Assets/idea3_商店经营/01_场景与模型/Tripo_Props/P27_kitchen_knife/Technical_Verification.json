@@ -1,0 +1,155 @@
+{
+  "asset_id": "P27_kitchen_knife",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P27_kitchen_knife\\P27_kitchen_knife_static.blend",
+  "source_sha256_before": "6b6ae1eeadfe584d343d0b769f324d4558b48ec04c7d4690c2130234079b1645",
+  "source_sha256_after": "6b6ae1eeadfe584d343d0b769f324d4558b48ec04c7d4690c2130234079b1645",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_f595ce6d",
+        "vertices": 998,
+        "triangles": 1118,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_f595ce6d"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 998,
+    "triangles": 1118,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_80af8471-248c-4488-b1e1-c5c489b2fba1",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.12250000238418579,
+        -0.11184782534837723,
+        0.0
+      ],
+      "max": [
+        0.12250000238418579,
+        0.11184782534837723,
+        0.1944919377565384
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_80af8471-248c-4488-b1e1-c5c489b2fba1",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P27_kitchen_knife\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "be48071bce42f919cfd9e847e6293d97e66f339c4854e9ebcbaab9eaab23c70c"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_f595ce6d",
+        "vertices": 998,
+        "triangles": 1118,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_f595ce6d"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 998,
+    "triangles": 1118,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_80af8471-248c-4488-b1e1-c5c489b2fba1",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P27_kitchen_knife\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.1224999949336052,
+        -0.11184783279895782,
+        -8.444274612884328e-09
+      ],
+      "max": [
+        0.1224999949336052,
+        0.11184781789779663,
+        0.19449195265769958
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P27_kitchen_knife\\P27_kitchen_knife_Editable.blend",
+      "bytes": 13138802,
+      "sha256": "a85b3294a005523f00bb8b66e3a1b4a6f3d718b344f950917f576437b831cab6",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P27_kitchen_knife\\P27_kitchen_knife_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P27_kitchen_knife\\P27_kitchen_knife_Engine.fbx",
+      "bytes": 447340,
+      "sha256": "df5863d445d7174a81d2477a8fc7402e76eeaab4027bab0d808160c7c269de2b",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P27_kitchen_knife\\P27_kitchen_knife_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P27_kitchen_knife\\Textures\\Tex_00.jpg",
+      "bytes": 12619118,
+      "sha256": "be48071bce42f919cfd9e847e6293d97e66f339c4854e9ebcbaab9eaab23c70c",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P27_kitchen_knife\\P27_kitchen_knife_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P27_kitchen_knife\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "8f0c62681f1db5fc747b0eb0da1081cfef24a3bf06079627763ad5a8480d913b",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_80af8471-248c-4488-b1e1-c5c489b2fba1",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

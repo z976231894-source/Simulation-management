@@ -1,0 +1,131 @@
+{
+  "asset_id": "P41_service_door_leaf",
+  "model_id": "620d2eb9-e01e-431c-ab46-1eab26b6eaa7",
+  "matching_mesh_material_uuid": [
+    "P41_Back_Door__tripo_node_cdcd2256",
+    "P41_Cold_Door__tripo_node_cdcd2256",
+    "P41_Staff_Cold_Door__tripo_node_cdcd2256",
+    "P41_Staff_Door__tripo_node_cdcd2256"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P41",
+      "name": "P41_Staff_Door",
+      "model_id": "620d2eb9-e01e-431c-ab46-1eab26b6eaa7",
+      "actual_dimensions_m": [
+        0.31258392333984375,
+        1.0276601314544678,
+        2.1399998664855957
+      ],
+      "bbox_m": {
+        "min": [
+          8.343708038330078,
+          3.4861700534820557,
+          0.02500000037252903
+        ],
+        "max": [
+          8.656291961669922,
+          4.513830184936523,
+          2.1649999618530273
+        ]
+      },
+      "base_position_world_m": [
+        8.5,
+        4.0,
+        0.02500000037252903
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "D_Staff"
+    },
+    {
+      "id": "P41",
+      "name": "P41_Cold_Door",
+      "model_id": "620d2eb9-e01e-431c-ab46-1eab26b6eaa7",
+      "actual_dimensions_m": [
+        1.0276603698730469,
+        0.31258392333984375,
+        2.1399998664855957
+      ],
+      "bbox_m": {
+        "min": [
+          8.586170196533203,
+          7.043707847595215,
+          0.02500000037252903
+        ],
+        "max": [
+          9.61383056640625,
+          7.356291770935059,
+          2.1649999618530273
+        ]
+      },
+      "base_position_world_m": [
+        9.100000381469727,
+        7.199999809265137,
+        0.02500000037252903
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "C_Cold"
+    },
+    {
+      "id": "P41",
+      "name": "P41_Back_Door",
+      "model_id": "620d2eb9-e01e-431c-ab46-1eab26b6eaa7",
+      "actual_dimensions_m": [
+        1.0245437622070312,
+        0.32513952255249023,
+        2.1399998664855957
+      ],
+      "bbox_m": {
+        "min": [
+          12.089012145996094,
+          5.914226531982422,
+          0.02500000037252903
+        ],
+        "max": [
+          13.113555908203125,
+          6.239366054534912,
+          2.1649999618530273
+        ]
+      },
+      "base_position_world_m": [
+        12.59771728515625,
+        6.052293300628662,
+        0.02500000037252903
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "E_Alley"
+    },
+    {
+      "id": "P41",
+      "name": "P41_Staff_Cold_Door",
+      "model_id": "620d2eb9-e01e-431c-ab46-1eab26b6eaa7",
+      "actual_dimensions_m": [
+        0.31258392333984375,
+        1.0276603698730469,
+        2.1399998664855957
+      ],
+      "bbox_m": {
+        "min": [
+          10.043707847595215,
+          4.28617000579834,
+          0.02500000037252903
+        ],
+        "max": [
+          10.356291770935059,
+          5.313830375671387,
+          2.1649999618530273
+        ]
+      },
+      "base_position_world_m": [
+        10.199999809265137,
+        4.800000190734863,
+        0.02500000037252903
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "D_Staff"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

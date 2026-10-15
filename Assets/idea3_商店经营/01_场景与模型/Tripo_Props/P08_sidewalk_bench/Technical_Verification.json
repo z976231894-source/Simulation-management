@@ -1,0 +1,155 @@
+{
+  "asset_id": "P08_sidewalk_bench",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P08_sidewalk_bench\\P08_sidewalk_bench_static.blend",
+  "source_sha256_before": "ed7fecba4cee3e84a52640140d7ebea51539c815428ab157d7f316c04486abb8",
+  "source_sha256_after": "ed7fecba4cee3e84a52640140d7ebea51539c815428ab157d7f316c04486abb8",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_63fd41b0_2210_48c4_8fb3_afe50a209fe9",
+        "vertices": 3247,
+        "triangles": 2734,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_63fd41b0_2210_48c4_8fb3_afe50a209fe9"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 3247,
+    "triangles": 2734,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_afb253c2-d494-4bec-bd9b-1adbdb123530",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          4096,
+          4096
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.864118218421936,
+        -0.30182933807373047,
+        0.0
+      ],
+      "max": [
+        0.864118218421936,
+        0.30182933807373047,
+        0.44999998807907104
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_afb253c2-d494-4bec-bd9b-1adbdb123530",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P08_sidewalk_bench\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "sha256": "5db5a001df2a0b3873af1a4dd481bf36acb0b781435a32258c21d2c593223ff5"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_63fd41b0_2210_48c4_8fb3_afe50a209fe9",
+        "vertices": 3247,
+        "triangles": 2734,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_63fd41b0_2210_48c4_8fb3_afe50a209fe9"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 3247,
+    "triangles": 2734,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_afb253c2-d494-4bec-bd9b-1adbdb123530",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P08_sidewalk_bench\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.864118218421936,
+        -0.30182939767837524,
+        -1.1098038044110581e-07
+      ],
+      "max": [
+        0.864118218421936,
+        0.30182939767837524,
+        0.4500001072883606
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P08_sidewalk_bench\\P08_sidewalk_bench_Editable.blend",
+      "bytes": 5025933,
+      "sha256": "9f52a54f57850826db6733d5ec5492cb09b508a53eef291eb42a078cd2f0b02d",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P08_sidewalk_bench\\P08_sidewalk_bench_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P08_sidewalk_bench\\P08_sidewalk_bench_Engine.fbx",
+      "bytes": 670956,
+      "sha256": "daa3ee02a5bafb4a75fabf1ee2c5b315f12f0abe9ad32f523406d3668490cb14",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P08_sidewalk_bench\\P08_sidewalk_bench_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P08_sidewalk_bench\\Textures\\Tex_00.jpg",
+      "bytes": 4331797,
+      "sha256": "5db5a001df2a0b3873af1a4dd481bf36acb0b781435a32258c21d2c593223ff5",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P08_sidewalk_bench\\P08_sidewalk_bench_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P08_sidewalk_bench\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "f1cab69d12b3e52d9acf8ad3ec9969215edbca88a0bd4048a057cbaac723993a",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_afb253c2-d494-4bec-bd9b-1adbdb123530",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

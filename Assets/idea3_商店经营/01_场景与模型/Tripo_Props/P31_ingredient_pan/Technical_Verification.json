@@ -1,0 +1,155 @@
+{
+  "asset_id": "P31_ingredient_pan",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P31_ingredient_pan\\P31_ingredient_pan_static.blend",
+  "source_sha256_before": "1cfc4c5451a5d2cf43a0511644c08cdbadf15542156a6e72ab93dacf9538a318",
+  "source_sha256_after": "1cfc4c5451a5d2cf43a0511644c08cdbadf15542156a6e72ab93dacf9538a318",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_96d5b4be",
+        "vertices": 1408,
+        "triangles": 1964,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_96d5b4be"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1408,
+    "triangles": 1964,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_3ad0455e-ea64-44f4-8470-c32caeb6d1ac",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.1600000262260437,
+        -0.10591110587120056,
+        0.0
+      ],
+      "max": [
+        0.1600000262260437,
+        0.10591110587120056,
+        0.10176844149827957
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_3ad0455e-ea64-44f4-8470-c32caeb6d1ac",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P31_ingredient_pan\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "f6ad9b80fc3381fbe9990ba284a1208748bb408ebace98307445592fd883b8bb"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_96d5b4be",
+        "vertices": 1408,
+        "triangles": 1964,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_96d5b4be"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1408,
+    "triangles": 1964,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_3ad0455e-ea64-44f4-8470-c32caeb6d1ac",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P31_ingredient_pan\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.1600000262260437,
+        -0.10591112077236176,
+        -2.606731008825136e-08
+      ],
+      "max": [
+        0.1600000411272049,
+        0.10591112077236176,
+        0.10176846385002136
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P31_ingredient_pan\\P31_ingredient_pan_Editable.blend",
+      "bytes": 7670951,
+      "sha256": "c42b126a88af3426386fe914e036a30a54b54eb509ef66d12095b49b76b43676",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P31_ingredient_pan\\P31_ingredient_pan_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P31_ingredient_pan\\P31_ingredient_pan_Engine.fbx",
+      "bytes": 271164,
+      "sha256": "6ca15e17384d1774bb2a2615542e293bfc9022fae843e11971d16f055e5b4a22",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P31_ingredient_pan\\P31_ingredient_pan_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P31_ingredient_pan\\Textures\\Tex_00.jpg",
+      "bytes": 7075268,
+      "sha256": "f6ad9b80fc3381fbe9990ba284a1208748bb408ebace98307445592fd883b8bb",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P31_ingredient_pan\\P31_ingredient_pan_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P31_ingredient_pan\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "13b34762124ce5e42789db6a84eb83eb21e21094e1fd0ab7db9381b630316ae1",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_3ad0455e-ea64-44f4-8470-c32caeb6d1ac",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

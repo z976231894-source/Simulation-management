@@ -1,0 +1,19 @@
+{
+  "asset_id": "P06_dining_table",
+  "model_id": null,
+  "matching_mesh_material_uuid": [
+    "Table_T01_Memory__tripo_85c8d57b_90c0_4a94_9a93_7c464a234fb3",
+    "Table_T02_Window__tripo_85c8d57b_90c0_4a94_9a93_7c464a234fb3",
+    "Table_T03_Birthday__tripo_85c8d57b_90c0_4a94_9a93_7c464a234fb3",
+    "Table_T04_Ordinary__tripo_85c8d57b_90c0_4a94_9a93_7c464a234fb3"
+  ],
+  "anchor_custom_property": [
+    "Anchor_Table_T01_Memory",
+    "Anchor_Table_T02_Window",
+    "Anchor_Table_T03_Birthday",
+    "Anchor_Table_T04_Ordinary"
+  ],
+  "matching_tripo_instances": [],
+  "proven_referenced": true,
+  "current_active": true
+}

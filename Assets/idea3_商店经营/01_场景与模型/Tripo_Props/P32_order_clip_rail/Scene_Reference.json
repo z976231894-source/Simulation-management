@@ -1,0 +1,41 @@
+{
+  "asset_id": "P32_order_clip_rail",
+  "model_id": "c08680a6-1235-44a0-a01c-1b489a37d433",
+  "matching_mesh_material_uuid": [
+    "P32_Order_Rail__tripo_node_2a619d52"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P32",
+      "name": "P32_Order_Rail",
+      "model_id": "c08680a6-1235-44a0-a01c-1b489a37d433",
+      "actual_dimensions_m": [
+        0.8999996185302734,
+        0.0707864761352539,
+        0.17454814910888672
+      ],
+      "bbox_m": {
+        "min": [
+          4.670000076293945,
+          5.239606857299805,
+          1.2400000095367432
+        ],
+        "max": [
+          5.569999694824219,
+          5.310393333435059,
+          1.4145481586456299
+        ]
+      },
+      "base_position_world_m": [
+        5.119999885559082,
+        5.275000095367432,
+        1.2400000095367432
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "A_Dining"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

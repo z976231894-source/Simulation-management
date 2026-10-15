@@ -1,0 +1,155 @@
+{
+  "asset_id": "P86_street_lamp",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P86_street_lamp\\P86_street_lamp_static.blend",
+  "source_sha256_before": "7aa4c8b41b6cffa1109935b7117e6be4dccb5843f1e8e957bf5a89be9d8b5904",
+  "source_sha256_after": "7aa4c8b41b6cffa1109935b7117e6be4dccb5843f1e8e957bf5a89be9d8b5904",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_033cd9a6",
+        "vertices": 4312,
+        "triangles": 3170,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_033cd9a6"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 4312,
+    "triangles": 3170,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_a1b1fce9-914a-45a3-bd25-6afcaf8aba50",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.30713850259780884,
+        -0.30713850259780884,
+        0.0
+      ],
+      "max": [
+        0.30713850259780884,
+        0.30713850259780884,
+        3.444999933242798
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_a1b1fce9-914a-45a3-bd25-6afcaf8aba50",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P86_street_lamp\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "c3540915ebc36db139ec6b177fe87b091b7a5b4b45a1ae2ea93cb5c3c9e2da7b"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_033cd9a6",
+        "vertices": 4312,
+        "triangles": 3170,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_033cd9a6"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 4312,
+    "triangles": 3170,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_a1b1fce9-914a-45a3-bd25-6afcaf8aba50",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P86_street_lamp\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.30713850259780884,
+        -0.3071387708187103,
+        -2.3188308162502835e-08
+      ],
+      "max": [
+        0.30713850259780884,
+        0.30713850259780884,
+        3.444999933242798
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P86_street_lamp\\P86_street_lamp_Editable.blend",
+      "bytes": 11593705,
+      "sha256": "066273549658fcc85bc52ee7375754ab20a56e17fdc428374e36f2b25c028cc7",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P86_street_lamp\\P86_street_lamp_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P86_street_lamp\\P86_street_lamp_Engine.fbx",
+      "bytes": 687148,
+      "sha256": "764de5abf31fd9c516a525fc53ec17ca6c3c304cfbadb2c59fc50d42db0e213c",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P86_street_lamp\\P86_street_lamp_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P86_street_lamp\\Textures\\Tex_00.jpg",
+      "bytes": 10844137,
+      "sha256": "c3540915ebc36db139ec6b177fe87b091b7a5b4b45a1ae2ea93cb5c3c9e2da7b",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P86_street_lamp\\P86_street_lamp_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P86_street_lamp\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "cbd890fa37ebf56efa2be95efbfdfe113948b59badb4d43f7b4217ef8d5e09e3",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_a1b1fce9-914a-45a3-bd25-6afcaf8aba50",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

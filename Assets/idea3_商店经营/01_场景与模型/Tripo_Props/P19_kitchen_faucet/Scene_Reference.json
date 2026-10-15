@@ -1,0 +1,41 @@
+{
+  "asset_id": "P19_kitchen_faucet",
+  "model_id": "9e648724-1b8f-4aab-a61a-277825dd9b5b",
+  "matching_mesh_material_uuid": [
+    "P19_Faucet__tripo_node_0ec11496"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P19",
+      "name": "P19_Faucet",
+      "model_id": "9e648724-1b8f-4aab-a61a-277825dd9b5b",
+      "actual_dimensions_m": [
+        0.25905418395996094,
+        0.35709381103515625,
+        0.3550000786781311
+      ],
+      "bbox_m": {
+        "min": [
+          6.470472812652588,
+          8.471452713012695,
+          0.9729999899864197
+        ],
+        "max": [
+          6.729526996612549,
+          8.828546524047852,
+          1.3280000686645508
+        ]
+      },
+      "base_position_world_m": [
+        6.599999904632568,
+        8.649999618530273,
+        0.9729999899864197
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

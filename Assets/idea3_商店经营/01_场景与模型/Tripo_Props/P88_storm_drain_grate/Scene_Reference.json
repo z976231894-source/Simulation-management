@@ -1,0 +1,101 @@
+{
+  "asset_id": "P88_storm_drain_grate",
+  "model_id": "602decee-c16d-4d91-8457-b1da25824be6",
+  "matching_mesh_material_uuid": [
+    "P88_Drain_0__tripo_node_12fa52f4",
+    "P88_Drain_1__tripo_node_12fa52f4",
+    "P88_Drain_2__tripo_node_12fa52f4"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P88",
+      "name": "P88_Drain_0",
+      "model_id": "602decee-c16d-4d91-8457-b1da25824be6",
+      "actual_dimensions_m": [
+        0.48000001907348633,
+        0.28490495681762695,
+        0.0644846111536026
+      ],
+      "bbox_m": {
+        "min": [
+          1.059999942779541,
+          -3.0124523639678955,
+          0.014999999664723873
+        ],
+        "max": [
+          1.5399999618530273,
+          -2.7275474071502686,
+          0.07948461174964905
+        ]
+      },
+      "base_position_world_m": [
+        1.2999999523162842,
+        -2.869999885559082,
+        0.014999999664723873
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "E_Alley"
+    },
+    {
+      "id": "P88",
+      "name": "P88_Drain_1",
+      "model_id": "602decee-c16d-4d91-8457-b1da25824be6",
+      "actual_dimensions_m": [
+        0.4799995422363281,
+        0.28490495681762695,
+        0.0644846111536026
+      ],
+      "bbox_m": {
+        "min": [
+          8.15999984741211,
+          -3.0124523639678955,
+          0.014999999664723873
+        ],
+        "max": [
+          8.639999389648438,
+          -2.7275474071502686,
+          0.07948461174964905
+        ]
+      },
+      "base_position_world_m": [
+        8.399999618530273,
+        -2.869999885559082,
+        0.014999999664723873
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "E_Alley"
+    },
+    {
+      "id": "P88",
+      "name": "P88_Drain_2",
+      "model_id": "602decee-c16d-4d91-8457-b1da25824be6",
+      "actual_dimensions_m": [
+        0.4799995422363281,
+        0.28490495681762695,
+        0.0644846111536026
+      ],
+      "bbox_m": {
+        "min": [
+          13.260000228881836,
+          -3.0124523639678955,
+          0.014999999664723873
+        ],
+        "max": [
+          13.739999771118164,
+          -2.7275474071502686,
+          0.07948461174964905
+        ]
+      },
+      "base_position_world_m": [
+        13.5,
+        -2.869999885559082,
+        0.014999999664723873
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "E_Alley"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

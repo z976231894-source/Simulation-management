@@ -1,0 +1,155 @@
+{
+  "asset_id": "P47_condiment_caddy",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P47_condiment_caddy\\P47_condiment_caddy_static.blend",
+  "source_sha256_before": "d146ac867a569d3cb4c309c27432be383c438e0a548ad0c8dd860258d1cdb98e",
+  "source_sha256_after": "d146ac867a569d3cb4c309c27432be383c438e0a548ad0c8dd860258d1cdb98e",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_151bb4b9",
+        "vertices": 2988,
+        "triangles": 2936,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_151bb4b9"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 2988,
+    "triangles": 2936,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_88e1ee25-ba2e-4c02-9755-6cec80fb8582",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.07500000298023224,
+        -0.0456155426800251,
+        0.0
+      ],
+      "max": [
+        0.07499999552965164,
+        0.0456155426800251,
+        0.12303370237350464
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_88e1ee25-ba2e-4c02-9755-6cec80fb8582",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P47_condiment_caddy\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "ec36259be812f63c5e43e7ef8d2b927bc6e1816de40189c0d86c637a2f2cb838"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_151bb4b9",
+        "vertices": 2988,
+        "triangles": 2936,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_151bb4b9"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 2988,
+    "triangles": 2936,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_88e1ee25-ba2e-4c02-9755-6cec80fb8582",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P47_condiment_caddy\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.07499999552965164,
+        -0.0456155426800251,
+        -1.2219048883821415e-08
+      ],
+      "max": [
+        0.07500001788139343,
+        0.0456155426800251,
+        0.12303370982408524
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P47_condiment_caddy\\P47_condiment_caddy_Editable.blend",
+      "bytes": 12158598,
+      "sha256": "74d3e5d1fa20cd5d880d9c77663607b4ec5ecc43b652b0ae5ad5675d16a93b31",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P47_condiment_caddy\\P47_condiment_caddy_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P47_condiment_caddy\\P47_condiment_caddy_Engine.fbx",
+      "bytes": 498572,
+      "sha256": "8330cdf4fd45a7216be40372e5a130e02c9e483040097382d14155e5791f6625",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P47_condiment_caddy\\P47_condiment_caddy_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P47_condiment_caddy\\Textures\\Tex_00.jpg",
+      "bytes": 11453022,
+      "sha256": "ec36259be812f63c5e43e7ef8d2b927bc6e1816de40189c0d86c637a2f2cb838",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P47_condiment_caddy\\P47_condiment_caddy_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P47_condiment_caddy\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "01905c1d1c302dac52d7c7332148e05d8adf88d44cd8c2a1cc26684b418a379d",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_88e1ee25-ba2e-4c02-9755-6cec80fb8582",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

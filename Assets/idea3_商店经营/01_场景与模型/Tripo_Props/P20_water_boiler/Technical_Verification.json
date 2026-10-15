@@ -1,0 +1,155 @@
+{
+  "asset_id": "P20_water_boiler",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P20_water_boiler\\P20_water_boiler_static.blend",
+  "source_sha256_before": "4ba8d8869256dc80801afd70b78f976c2b38d7fcc22a5c14016271ac38eb2866",
+  "source_sha256_after": "4ba8d8869256dc80801afd70b78f976c2b38d7fcc22a5c14016271ac38eb2866",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_a5229963",
+        "vertices": 5569,
+        "triangles": 4645,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_a5229963"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 5569,
+    "triangles": 4645,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_2bd012d8-285a-4d50-9bf3-40c9cf7686ae",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          4096,
+          4096
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.1853639930486679,
+        -0.22522719204425812,
+        0.0
+      ],
+      "max": [
+        0.1853639930486679,
+        0.22522719204425812,
+        0.48000001907348633
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_2bd012d8-285a-4d50-9bf3-40c9cf7686ae",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P20_water_boiler\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "sha256": "454c22d025b6769b107c9fb7e60e6c7a3421b5823fc5635c1335370e91b42edc"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_a5229963",
+        "vertices": 5569,
+        "triangles": 4645,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_a5229963"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 5569,
+    "triangles": 4645,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_2bd012d8-285a-4d50-9bf3-40c9cf7686ae",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P20_water_boiler\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.1853640228509903,
+        -0.2252272069454193,
+        -8.102514215124756e-09
+      ],
+      "max": [
+        0.1853640377521515,
+        0.2252272069454193,
+        0.47999998927116394
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P20_water_boiler\\P20_water_boiler_Editable.blend",
+      "bytes": 3921375,
+      "sha256": "0937cae5a23975c63843d30a11a05cbf3b14e54c05cdcde438fee883383ecb95",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P20_water_boiler\\P20_water_boiler_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P20_water_boiler\\P20_water_boiler_Engine.fbx",
+      "bytes": 587676,
+      "sha256": "b7a12ac024fe0a4f5e54f22c6235a9e12fe972742391ecc83e52986d30bcd27b",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P20_water_boiler\\P20_water_boiler_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P20_water_boiler\\Textures\\Tex_00.jpg",
+      "bytes": 3027339,
+      "sha256": "454c22d025b6769b107c9fb7e60e6c7a3421b5823fc5635c1335370e91b42edc",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P20_water_boiler\\P20_water_boiler_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P20_water_boiler\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "fd67bdb22abbf3b6f26e9f7945d0dc3c9f083a4823275909eef697a0656f0aab",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_2bd012d8-285a-4d50-9bf3-40c9cf7686ae",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

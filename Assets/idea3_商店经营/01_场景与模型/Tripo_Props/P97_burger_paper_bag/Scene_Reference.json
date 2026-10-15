@@ -1,0 +1,41 @@
+{
+  "asset_id": "P97_burger_paper_bag",
+  "model_id": "c2cdfbcc-102b-433f-948e-b0ec7f4c1bdb",
+  "matching_mesh_material_uuid": [
+    "P97_Takeaway_Bag__tripo_node_043957e1"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P97",
+      "name": "P97_Takeaway_Bag",
+      "model_id": "c2cdfbcc-102b-433f-948e-b0ec7f4c1bdb",
+      "actual_dimensions_m": [
+        0.221527099609375,
+        0.16851806640625,
+        0.2200000286102295
+      ],
+      "bbox_m": {
+        "min": [
+          6.229236602783203,
+          4.685740947723389,
+          1.034000039100647
+        ],
+        "max": [
+          6.450763702392578,
+          4.854259014129639,
+          1.2540000677108765
+        ]
+      },
+      "base_position_world_m": [
+        6.340000152587891,
+        4.769999980926514,
+        1.034000039100647
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "A_Dining"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

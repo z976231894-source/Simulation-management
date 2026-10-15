@@ -1,0 +1,155 @@
+{
+  "asset_id": "P13_curved_service_counter",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P13_curved_service_counter\\P13_curved_service_counter_static.blend",
+  "source_sha256_before": "9b9d97dc156f1cafdb79131f49137adc2bd57e15eb11f7061f7f5de1c7768bb4",
+  "source_sha256_after": "9b9d97dc156f1cafdb79131f49137adc2bd57e15eb11f7061f7f5de1c7768bb4",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "ce616837_8f5d_48c3_9361_bc9d611e2346",
+        "vertices": 9663,
+        "triangles": 9690,
+        "uv_layers": 1,
+        "materials": [
+          "ce616837_8f5d_48c3_9361_bc9d611e2346"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 9663,
+    "triangles": 9690,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_6ad1b2ed-c86f-4e21-9eaa-637d03d4cc2c",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          4096,
+          4096
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -2.590184450149536,
+        -0.6643122434616089,
+        -5.960464477539063e-08
+      ],
+      "max": [
+        2.590184450149536,
+        0.6643122434616089,
+        1.0299999713897705
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_6ad1b2ed-c86f-4e21-9eaa-637d03d4cc2c",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P13_curved_service_counter\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "sha256": "cb30054928a3cc72bbce20246486d7d04db5c07902e17b6788526c7f7eecf0f4"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "ce616837_8f5d_48c3_9361_bc9d611e2346",
+        "vertices": 9663,
+        "triangles": 9690,
+        "uv_layers": 1,
+        "materials": [
+          "ce616837_8f5d_48c3_9361_bc9d611e2346"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 9663,
+    "triangles": 9690,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_6ad1b2ed-c86f-4e21-9eaa-637d03d4cc2c",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P13_curved_service_counter\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -2.590184450149536,
+        -0.664312481880188,
+        -4.21994599264508e-07
+      ],
+      "max": [
+        2.590184450149536,
+        0.664312481880188,
+        1.0300004482269287
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P13_curved_service_counter\\P13_curved_service_counter_Editable.blend",
+      "bytes": 5831326,
+      "sha256": "ae8587be8d608bf0718ddd7ad3592deee79445ddc5c54110906aa103b904e91c",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P13_curved_service_counter\\P13_curved_service_counter_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P13_curved_service_counter\\P13_curved_service_counter_Engine.fbx",
+      "bytes": 894604,
+      "sha256": "dc023915ba3c23521d42fe3e95a76d372b9fcbbc4bc1243492ca84c5cecd51d1",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P13_curved_service_counter\\P13_curved_service_counter_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P13_curved_service_counter\\Textures\\Tex_00.jpg",
+      "bytes": 4448864,
+      "sha256": "cb30054928a3cc72bbce20246486d7d04db5c07902e17b6788526c7f7eecf0f4",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P13_curved_service_counter\\P13_curved_service_counter_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P13_curved_service_counter\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "575b83a925509f9778f902176c356154b9dac2f47842cb376c2b0d29f5a51c74",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_6ad1b2ed-c86f-4e21-9eaa-637d03d4cc2c",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

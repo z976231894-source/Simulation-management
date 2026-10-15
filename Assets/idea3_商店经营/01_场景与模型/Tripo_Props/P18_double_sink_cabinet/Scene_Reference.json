@@ -1,0 +1,41 @@
+{
+  "asset_id": "P18_double_sink_cabinet",
+  "model_id": "023ec408-79d2-40f3-9c5f-7252a2ee9931",
+  "matching_mesh_material_uuid": [
+    "P18_Sink__tripo_node_e39f56ad"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P18",
+      "name": "P18_Sink",
+      "model_id": "023ec408-79d2-40f3-9c5f-7252a2ee9931",
+      "actual_dimensions_m": [
+        1.4531450271606445,
+        0.7858486175537109,
+        0.968999981880188
+      ],
+      "bbox_m": {
+        "min": [
+          5.873427391052246,
+          8.069150924682617,
+          0.0
+        ],
+        "max": [
+          7.326572418212891,
+          8.854999542236328,
+          0.968999981880188
+        ]
+      },
+      "base_position_world_m": [
+        6.599999904632568,
+        8.462075233459473,
+        0.0
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

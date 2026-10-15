@@ -1,0 +1,687 @@
+﻿screen,text,kind,font,size_px
+01_MainMenu,GOOD FOOD. BRIGHTER DAYS.,display,Arial,15
+01_MainMenu,ONE MORE,display,Georgia,77
+01_MainMenu,DINER,display,Georgia,115
+01_MainMenu,A little diner. A busy day.,display,Arial,23
+01_MainMenu,Take the order. Make it. Carry it to the table.,display,Arial,23
+01_MainMenu,Continue,display,Arial,21
+01_MainMenu,↵,display,Arial,15
+01_MainMenu,DAY 01  ·  PLANNING  ·  $200,display,Arial,16
+01_MainMenu,New Diner,display,Arial,21
+01_MainMenu,How to Play,display,Arial,21
+01_MainMenu,Settings,display,Arial,21
+01_MainMenu,Save files,display,Arial,19
+01_MainMenu,Import / Export  ›,display,Arial,18
+01_MainMenu,FIRST-PERSON RESTAURANT MANAGEMENT,display,Arial,14
+01_MainMenu,ONE MORE,display,Arial,13
+01_MainMenu,GOOD FOOD,display,Arial,10
+01_MainMenu,WELCOME BACK,display,Arial,15
+01_MainMenu,The counter is yours.,display,Georgia,34
+01_MainMenu,ONE MORE / 01,display,Arial,14
+02_Planning,ONE MORE DINER,display,Arial,15
+02_Planning,DAY 01,display,Arial,16
+02_Planning,Before the first order.,display,Georgia,52
+02_Planning,"Plan your stock, keep the lights on, then welcome them in.",display,Arial,22
+02_Planning,SUPPLY LIST,display,Arial,15
+02_Planning,BUY,display,Arial,15
+02_Planning,TOTAL,display,Arial,15
+02_Planning,Buns,display,Arial,23
+02_Planning,In stock 0  ·  $3 each,display,Arial,16
+02_Planning,−,display,Arial,24
+02_Planning,12,display,Arial,24
+02_Planning,+,display,Arial,24
+02_Planning,$36,display,Arial,24
+02_Planning,Patties,display,Arial,23
+02_Planning,In stock 0  ·  $6 each,display,Arial,16
+02_Planning,−,display,Arial,24
+02_Planning,14,display,Arial,24
+02_Planning,+,display,Arial,24
+02_Planning,$84,display,Arial,24
+02_Planning,Onions,display,Arial,23
+02_Planning,In stock 0  ·  $1 each,display,Arial,16
+02_Planning,−,display,Arial,24
+02_Planning,16,display,Arial,24
+02_Planning,+,display,Arial,24
+02_Planning,$16,display,Arial,24
+02_Planning,Lettuce,display,Arial,23
+02_Planning,In stock 0  ·  $0.5 each,display,Arial,16
+02_Planning,−,display,Arial,24
+02_Planning,6,display,Arial,24
+02_Planning,+,display,Arial,24
+02_Planning,$3,display,Arial,24
+02_Planning,Tomato,display,Arial,23
+02_Planning,In stock 0  ·  $0.5 each,display,Arial,16
+02_Planning,−,display,Arial,24
+02_Planning,6,display,Arial,24
+02_Planning,+,display,Arial,24
+02_Planning,$3,display,Arial,24
+02_Planning,Cheese,display,Arial,23
+02_Planning,In stock 0  ·  $0.5 each,display,Arial,16
+02_Planning,−,display,Arial,24
+02_Planning,8,display,Arial,24
+02_Planning,+,display,Arial,24
+02_Planning,$4,display,Arial,24
+02_Planning,Pickles,display,Arial,23
+02_Planning,In stock 0  ·  $0.5 each,display,Arial,16
+02_Planning,−,display,Arial,24
+02_Planning,6,display,Arial,24
+02_Planning,+,display,Arial,24
+02_Planning,$3,display,Arial,24
+02_Planning,TODAY’S PLAN,display,Arial,15
+02_Planning,$200,display,Georgia,48
+02_Planning,Cash available,display,Arial,18
+02_Planning,Supplies,display,Arial,20
+02_Planning,−$149,display,Arial,24
+02_Planning,After purchase,display,Arial,20
+02_Planning,$51,display,Arial,24
+02_Planning,Operating reserve,display,Arial,20
+02_Planning,$35,display,Arial,24
+02_Planning,Unreserved cash,display,Arial,20
+02_Planning,$16,display,Arial,24
+02_Planning,You need buns and patties to open.,display,Arial,18
+02_Planning,Fresh toppings may spoil overnight.,display,Arial,18
+02_Planning,Confirm Stock & Open,display,Arial,21
+02_Planning,Recipe Book,display,Arial,21
+02_Planning,Upgrades,display,Arial,21
+02_Planning,Recommended quantities selected,display,Arial,17
+02_Planning,7 ingredients / 3 recipes / 3 tables,display,Arial,15
+03_RecipeBook,ONE MORE DINER,display,Arial,15
+03_RecipeBook,DAY 01,display,Arial,16
+03_RecipeBook,Three burgers. Every count matters.,display,Georgia,52
+03_RecipeBook,"Select a recipe at the bun station. Cook, assemble, then plate it exactly.",display,Arial,22
+03_RecipeBook,THE HOUSE FAVOURITE,display,Arial,15
+03_RecipeBook,Classic Burger,display,Georgia,34
+03_RecipeBook,$18,display,Arial,34
+03_RecipeBook,SALE PRICE,display,Arial,14
+03_RecipeBook,Bun,display,Arial,21
+03_RecipeBook,× 1,display,Arial,25
+03_RecipeBook,Patty,display,Arial,21
+03_RecipeBook,× 1,display,Arial,25
+03_RecipeBook,Onion,display,Arial,21
+03_RecipeBook,× 1,display,Arial,25
+03_RecipeBook,Cheese,display,Arial,21
+03_RecipeBook,× 1,display,Arial,25
+03_RecipeBook,Ingredient cost $10.5,display,Arial,18
+03_RecipeBook,EXACT RECIPE,display,Arial,14
+03_RecipeBook,DOUBLE THE ONION,display,Arial,15
+03_RecipeBook,Onion Burger,display,Georgia,34
+03_RecipeBook,$22,display,Arial,34
+03_RecipeBook,SALE PRICE,display,Arial,14
+03_RecipeBook,Bun,display,Arial,21
+03_RecipeBook,× 1,display,Arial,25
+03_RecipeBook,Patty,display,Arial,21
+03_RecipeBook,× 1,display,Arial,25
+03_RecipeBook,Onion,display,Arial,21
+03_RecipeBook,× 2,display,Arial,25
+03_RecipeBook,Pickle,display,Arial,21
+03_RecipeBook,× 1,display,Arial,25
+03_RecipeBook,Ingredient cost $11.5,display,Arial,18
+03_RecipeBook,EXACT RECIPE,display,Arial,14
+03_RecipeBook,TWO PATTIES. BIG APPETITE.,display,Arial,15
+03_RecipeBook,Double Burger,display,Georgia,34
+03_RecipeBook,$28,display,Arial,34
+03_RecipeBook,SALE PRICE,display,Arial,14
+03_RecipeBook,Bun,display,Arial,21
+03_RecipeBook,× 1,display,Arial,25
+03_RecipeBook,Patties,display,Arial,21
+03_RecipeBook,× 2,display,Arial,25
+03_RecipeBook,Lettuce,display,Arial,21
+03_RecipeBook,× 1,display,Arial,25
+03_RecipeBook,Tomato,display,Arial,21
+03_RecipeBook,× 1,display,Arial,25
+03_RecipeBook,Ingredient cost $16,display,Arial,18
+03_RecipeBook,EXACT RECIPE,display,Arial,14
+03_RecipeBook,Standard grill: ready at 6s. Burnt at 14s. Take it off in time.,display,Arial,22
+03_RecipeBook,Back to Diner,display,Arial,21
+03_RecipeBook,Esc,display,Arial,15
+04_LiveService,ONE MORE DINER,display,Arial,15
+04_LiveService,DAY 01,display,Arial,22
+04_LiveService,13:24,display,Arial,22
+04_LiveService,OPEN,display,Arial,14
+04_LiveService,$119,display,Arial,25
+04_LiveService,NEXT STEP,display,Arial,15
+04_LiveService,Walk to Table 04 and take the order.,display,Arial,19
+04_LiveService,WASD,display,Arial,15
+04_LiveService,Move,display,Arial,17
+04_LiveService,E,display,Arial,15
+04_LiveService,Interact,display,Arial,17
+04_LiveService,F,display,Arial,15
+04_LiveService,Recipes,display,Arial,17
+04_LiveService,Tab,display,Arial,15
+04_LiveService,Orders,display,Arial,17
+04_LiveService,Esc,display,Arial,15
+04_LiveService,Pause,display,Arial,17
+04_LiveService,TABLE 03,display,Arial,15
+04_LiveService,WAITING,display,Arial,12
+04_LiveService,Onion Burger,display,Georgia,22
+04_LiveService,92s left,display,Arial,18
+04_LiveService,$22,display,Arial,20
+04_LiveService,2 onions · 1 pickle,display,Arial,16
+04_LiveService,TABLE 02,display,Arial,15
+04_LiveService,WAITING,display,Arial,12
+04_LiveService,Classic Burger,display,Georgia,22
+04_LiveService,118s left,display,Arial,18
+04_LiveService,$18,display,Arial,20
+04_LiveService,1 onion · 1 cheese,display,Arial,16
+04_LiveService,TABLE 04,display,Arial,15
+04_LiveService,Ready to order,display,Georgia,24
+04_LiveService,Meet the guest at the table.,display,Arial,16
+04_LiveService,TAB  HIDE ORDERS,display,Arial,14
+04_LiveService,WORKTOP,display,Arial,15
+04_LiveService,Ready for prep,display,Georgia,26
+04_LiveService,One meal at a time,display,Arial,18
+04_LiveService,TABLE 04,display,Arial,15
+04_LiveService,E,display,Arial,15
+04_LiveService,Take the order,display,Arial,22
+05_TakeOrder,ONE MORE DINER,display,Arial,15
+05_TakeOrder,DAY 01,display,Arial,22
+05_TakeOrder,13:24,display,Arial,22
+05_TakeOrder,OPEN,display,Arial,14
+05_TakeOrder,$119,display,Arial,25
+05_TakeOrder,NEXT STEP,display,Arial,15
+05_TakeOrder,Take the order at Table 04.,display,Arial,19
+05_TakeOrder,WASD,display,Arial,15
+05_TakeOrder,Move,display,Arial,17
+05_TakeOrder,E,display,Arial,15
+05_TakeOrder,Interact,display,Arial,17
+05_TakeOrder,F,display,Arial,15
+05_TakeOrder,Recipes,display,Arial,17
+05_TakeOrder,Tab,display,Arial,15
+05_TakeOrder,Orders,display,Arial,17
+05_TakeOrder,Esc,display,Arial,15
+05_TakeOrder,Pause,display,Arial,17
+05_TakeOrder,NEW ORDER / TABLE 04,display,Arial,15
+05_TakeOrder,Double Burger,display,Georgia,42
+05_TakeOrder,$28,display,Arial,39
+05_TakeOrder,"A fresh bun and two patties,",display,Arial,23
+05_TakeOrder,finished with lettuce and tomato.,display,Arial,23
+05_TakeOrder,Bun,display,Arial,23
+05_TakeOrder,× 1,display,Arial,26
+05_TakeOrder,Patties,display,Arial,23
+05_TakeOrder,× 2,display,Arial,26
+05_TakeOrder,Lettuce,display,Arial,23
+05_TakeOrder,× 1,display,Arial,26
+05_TakeOrder,Tomato,display,Arial,23
+05_TakeOrder,× 1,display,Arial,26
+05_TakeOrder,Take Order,display,Arial,21
+05_TakeOrder,E,display,Arial,15
+05_TakeOrder,150s patience starts when the guest is seated.,display,Arial,17
+05_TakeOrder,TABLE 04,display,Arial,15
+05_TakeOrder,E,display,Arial,15
+05_TakeOrder,Take the order,display,Arial,22
+06_GrillCooking,ONE MORE DINER,display,Arial,15
+06_GrillCooking,DAY 01,display,Arial,22
+06_GrillCooking,13:24,display,Arial,22
+06_GrillCooking,OPEN,display,Arial,14
+06_GrillCooking,$119,display,Arial,25
+06_GrillCooking,NEXT STEP,display,Arial,15
+06_GrillCooking,Take the cooked Onion Burger off the grill.,display,Arial,19
+06_GrillCooking,WASD,display,Arial,15
+06_GrillCooking,Move,display,Arial,17
+06_GrillCooking,E,display,Arial,15
+06_GrillCooking,Interact,display,Arial,17
+06_GrillCooking,F,display,Arial,15
+06_GrillCooking,Recipes,display,Arial,17
+06_GrillCooking,Tab,display,Arial,15
+06_GrillCooking,Orders,display,Arial,17
+06_GrillCooking,Esc,display,Arial,15
+06_GrillCooking,Pause,display,Arial,17
+06_GrillCooking,TABLE 03,display,Arial,15
+06_GrillCooking,WAITING,display,Arial,12
+06_GrillCooking,Onion Burger,display,Georgia,22
+06_GrillCooking,92s left,display,Arial,18
+06_GrillCooking,$22,display,Arial,20
+06_GrillCooking,2 onions · 1 pickle,display,Arial,16
+06_GrillCooking,SINGLE GRILL,display,Arial,15
+06_GrillCooking,READY,display,Arial,14
+06_GrillCooking,Onion Burger,display,Georgia,36
+06_GrillCooking,8.2s,display,Arial,35
+06_GrillCooking,0s,display,Arial,18
+06_GrillCooking,6s READY,display,Arial,18
+06_GrillCooking,14s BURNT,display,Arial,18
+06_GrillCooking,Cooked. Take it off before it burns.,display,Arial,21
+06_GrillCooking,Take Cooked Food,display,Arial,21
+06_GrillCooking,E,display,Arial,15
+06_GrillCooking,GRILL,display,Arial,15
+06_GrillCooking,E,display,Arial,15
+06_GrillCooking,Take cooked food,display,Arial,22
+07_Toppings,ONE MORE DINER,display,Arial,15
+07_Toppings,DAY 01,display,Arial,22
+07_Toppings,13:24,display,Arial,22
+07_Toppings,OPEN,display,Arial,14
+07_Toppings,$119,display,Arial,25
+07_Toppings,NEXT STEP,display,Arial,15
+07_Toppings,"Add the second onion, then add 1 pickle.",display,Arial,19
+07_Toppings,WASD,display,Arial,15
+07_Toppings,Move,display,Arial,17
+07_Toppings,E,display,Arial,15
+07_Toppings,Interact,display,Arial,17
+07_Toppings,F,display,Arial,15
+07_Toppings,Recipes,display,Arial,17
+07_Toppings,Tab,display,Arial,15
+07_Toppings,Orders,display,Arial,17
+07_Toppings,Esc,display,Arial,15
+07_Toppings,Pause,display,Arial,17
+07_Toppings,TABLE 03,display,Arial,15
+07_Toppings,WAITING,display,Arial,12
+07_Toppings,Onion Burger,display,Georgia,22
+07_Toppings,83s left,display,Arial,18
+07_Toppings,$22,display,Arial,20
+07_Toppings,2 onions · 1 pickle,display,Arial,16
+07_Toppings,ASSEMBLY / ONION BURGER,display,Arial,15
+07_Toppings,One more onion.,display,Georgia,36
+07_Toppings,Bun,display,Arial,23
+07_Toppings,1 / 1,display,Arial,25
+07_Toppings,Cooked patty,display,Arial,23
+07_Toppings,1 / 1,display,Arial,25
+07_Toppings,Onions,display,Arial,23
+07_Toppings,1 / 2,display,Arial,25
+07_Toppings,Pickle,display,Arial,23
+07_Toppings,0 / 1,display,Arial,25
+07_Toppings,Every ingredient must match. No extras.,display,Arial,19
+07_Toppings,Plate & Pick Up,display,Arial,21
+07_Toppings,Remove all toppings,display,Arial,18
+07_Toppings,Discard meal,display,Arial,18
+07_Toppings,ONIONS,display,Arial,15
+07_Toppings,E,display,Arial,15
+07_Toppings,Add onion  ·  +1,display,Arial,22
+07_Toppings,Target: 2 onions / Added: 1,display,Arial,17
+08_CarryServe,ONE MORE DINER,display,Arial,15
+08_CarryServe,DAY 01,display,Arial,22
+08_CarryServe,13:24,display,Arial,22
+08_CarryServe,OPEN,display,Arial,14
+08_CarryServe,$119,display,Arial,25
+08_CarryServe,NEXT STEP,display,Arial,15
+08_CarryServe,Carry the Onion Burger to Table 03.,display,Arial,19
+08_CarryServe,WASD,display,Arial,15
+08_CarryServe,Move,display,Arial,17
+08_CarryServe,E,display,Arial,15
+08_CarryServe,Interact,display,Arial,17
+08_CarryServe,F,display,Arial,15
+08_CarryServe,Recipes,display,Arial,17
+08_CarryServe,Tab,display,Arial,15
+08_CarryServe,Orders,display,Arial,17
+08_CarryServe,Esc,display,Arial,15
+08_CarryServe,Pause,display,Arial,17
+08_CarryServe,TABLE 03,display,Arial,15
+08_CarryServe,WAITING,display,Arial,12
+08_CarryServe,Onion Burger,display,Georgia,22
+08_CarryServe,65s left,display,Arial,18
+08_CarryServe,$22,display,Arial,20
+08_CarryServe,2 onions · 1 pickle,display,Arial,16
+08_CarryServe,TABLE 02,display,Arial,15
+08_CarryServe,WAITING,display,Arial,12
+08_CarryServe,Classic Burger,display,Georgia,22
+08_CarryServe,88s left,display,Arial,18
+08_CarryServe,$18,display,Arial,20
+08_CarryServe,1 onion · 1 cheese,display,Arial,16
+08_CarryServe,HOLDING TRAY,display,Arial,15
+08_CarryServe,Onion Burger,display,Georgia,32
+08_CarryServe,TABLE 03,display,Arial,14
+08_CarryServe,TABLE 03,display,Arial,16
+08_CarryServe,Correct order,display,Arial,24
+08_CarryServe,TABLE 03 / MATCH,display,Arial,15
+08_CarryServe,E,display,Arial,15
+08_CarryServe,Serve burger  ·  Receive $22,display,Arial,22
+09_OrderBook,ONE MORE DINER,display,Arial,15
+09_OrderBook,DAY 01,display,Arial,16
+09_OrderBook,Keep every table in view.,display,Georgia,52
+09_OrderBook,Live orders and guest states. Press Tab to return to the diner.,display,Arial,22
+09_OrderBook,TABLE 02,display,Arial,15
+09_OrderBook,WAITING,display,Arial,14
+09_OrderBook,Classic Burger,display,Georgia,34
+09_OrderBook,88s patience,display,Arial,23
+09_OrderBook,1 bun · 1 patty,display,Arial,22
+09_OrderBook,1 onion · 1 cheese,display,Arial,22
+09_OrderBook,SALE,display,Arial,14
+09_OrderBook,$18,display,Arial,33
+09_OrderBook,Serve the matching tray.,display,Arial,18
+09_OrderBook,TABLE 03,display,Arial,15
+09_OrderBook,READY TO SERVE,display,Arial,14
+09_OrderBook,Onion Burger,display,Georgia,34
+09_OrderBook,65s patience,display,Arial,23
+09_OrderBook,1 bun · 1 patty,display,Arial,22
+09_OrderBook,2 onions · 1 pickle,display,Arial,22
+09_OrderBook,SALE,display,Arial,14
+09_OrderBook,$22,display,Arial,33
+09_OrderBook,Serve the matching tray.,display,Arial,18
+09_OrderBook,TABLE 04,display,Arial,15
+09_OrderBook,EATING,display,Arial,14
+09_OrderBook,Double Burger,display,Georgia,34
+09_OrderBook,Served · payment received,display,Arial,23
+09_OrderBook,1 bun · 2 patties,display,Arial,22
+09_OrderBook,1 lettuce · 1 tomato,display,Arial,22
+09_OrderBook,SALE,display,Arial,14
+09_OrderBook,$28,display,Arial,33
+09_OrderBook,The table clears after the guest leaves.,display,Arial,18
+09_OrderBook,3 table slots  ·  5 rotating guests  ·  one active meal,display,Arial,23
+09_OrderBook,Back to Diner,display,Arial,21
+09_OrderBook,Tab,display,Arial,15
+10_Closing,ONE MORE DINER,display,Arial,15
+10_Closing,DAY 01,display,Arial,22
+10_Closing,19:00,display,Arial,22
+10_Closing,CLOSING,display,Arial,14
+10_Closing,$245,display,Arial,25
+10_Closing,NEXT STEP,display,Arial,15
+10_Closing,Finish the orders already inside the diner.,display,Arial,19
+10_Closing,WASD,display,Arial,15
+10_Closing,Move,display,Arial,17
+10_Closing,E,display,Arial,15
+10_Closing,Interact,display,Arial,17
+10_Closing,F,display,Arial,15
+10_Closing,Recipes,display,Arial,17
+10_Closing,Tab,display,Arial,15
+10_Closing,Orders,display,Arial,17
+10_Closing,Esc,display,Arial,15
+10_Closing,Pause,display,Arial,17
+10_Closing,No new arrivals. Finish your guests.,display,Arial,22
+10_Closing,TABLE 03,display,Arial,15
+10_Closing,WAITING,display,Arial,12
+10_Closing,Onion Burger,display,Georgia,22
+10_Closing,42s left,display,Arial,18
+10_Closing,$22,display,Arial,20
+10_Closing,2 onions · 1 pickle,display,Arial,16
+10_Closing,TABLE 02,display,Arial,15
+10_Closing,Eating,display,Georgia,28
+10_Closing,Waiting for the guest to leave.,display,Arial,16
+10_Closing,CLOSING CHECKLIST,display,Arial,15
+10_Closing,1 order waiting  ·  1 guest eating,display,Arial,23
+10_Closing,The shift ends when every guest leaves.,display,Arial,18
+10_Closing,NEXT STEP,display,Arial,15
+10_Closing,E,display,Arial,15
+10_Closing,Finish Table 03’s Onion Burger,display,Arial,22
+11_ShiftSummary,ONE MORE DINER,display,Arial,15
+11_ShiftSummary,DAY 01,display,Arial,16
+11_ShiftSummary,A good day at the diner.,display,Georgia,52
+11_ShiftSummary,Day 01 is closed. Review the books and plan tomorrow.,display,Arial,22
+11_ShiftSummary,NET PROFIT,display,Arial,15
+11_ShiftSummary,+$61,display,Georgia,42
+11_ShiftSummary,Sales less used ingredients and costs,display,Arial,16
+11_ShiftSummary,CLOSING CASH,display,Arial,15
+11_ShiftSummary,$232,display,Georgia,42
+11_ShiftSummary,Available for supplies and upgrades,display,Arial,16
+11_ShiftSummary,GUESTS,display,Arial,15
+11_ShiftSummary,10 served / 2 lost,display,Georgia,42
+11_ShiftSummary,4 Classic · 4 Onion · 2 Double,display,Arial,16
+11_ShiftSummary,PROFIT & LOSS,display,Arial,15
+11_ShiftSummary,CASH MOVEMENT,display,Arial,15
+11_ShiftSummary,Sales,display,Arial,24
+11_ShiftSummary,$216,display,Arial,25
+11_ShiftSummary,Ingredients used,display,Arial,24
+11_ShiftSummary,−$120,display,Arial,25
+11_ShiftSummary,Waste,display,Arial,24
+11_ShiftSummary,$0,display,Arial,25
+11_ShiftSummary,Operating costs,display,Arial,24
+11_ShiftSummary,−$35,display,Arial,25
+11_ShiftSummary,Opening cash,display,Arial,24
+11_ShiftSummary,$200,display,Arial,25
+11_ShiftSummary,Supply purchase,display,Arial,24
+11_ShiftSummary,−$149,display,Arial,25
+11_ShiftSummary,Sales received,display,Arial,24
+11_ShiftSummary,+$216,display,Arial,25
+11_ShiftSummary,Operating costs,display,Arial,24
+11_ShiftSummary,−$35,display,Arial,25
+11_ShiftSummary,NET PROFIT,display,Arial,19
+11_ShiftSummary,+$61,display,Arial,30
+11_ShiftSummary,CLOSING CASH,display,Arial,19
+11_ShiftSummary,$232,display,Arial,30
+11_ShiftSummary,Remaining stock value: $29. Stock spending is not the same as ingredient use.,display,Arial,19
+11_ShiftSummary,View Upgrades,display,Arial,21
+11_ShiftSummary,Plan Day 02,display,Arial,21
+12_Upgrades,ONE MORE DINER,display,Arial,15
+12_Upgrades,DAY 01,display,Arial,16
+12_Upgrades,Make tomorrow a little easier.,display,Georgia,52
+12_Upgrades,Buy between shifts. Your cash: $232. Leave enough for supplies and operating costs.,display,Arial,22
+12_Upgrades,A LITTLE LESS WASTE,display,Arial,15
+12_Upgrades,Cold Storage,display,Georgia,31
+12_Upgrades,Keep unused fresh toppings overnight.,display,Arial,20
+12_Upgrades,Prevents the usual floor(20%) loss.,display,Arial,20
+12_Upgrades,ONE-TIME PURCHASE,display,Arial,14
+12_Upgrades,$100,display,Arial,34
+12_Upgrades,Buy Upgrade,display,Arial,21
+12_Upgrades,A LITTLE MORE PACE,display,Arial,15
+12_Upgrades,Fast Grill,display,Georgia,31
+12_Upgrades,Ready at 3s. Burnt at 8s.,display,Arial,20
+12_Upgrades,A faster grill needs a closer watch.,display,Arial,20
+12_Upgrades,ONE-TIME PURCHASE,display,Arial,14
+12_Upgrades,$120,display,Arial,34
+12_Upgrades,Buy Upgrade,display,Arial,21
+12_Upgrades,A LITTLE MORE TIME,display,Arial,15
+12_Upgrades,Comfortable Seats,display,Georgia,31
+12_Upgrades,Every customer waits 45s longer.,display,Arial,20
+12_Upgrades,Patience increases from 150s to 195s.,display,Arial,20
+12_Upgrades,ONE-TIME PURCHASE,display,Arial,14
+12_Upgrades,$150,display,Arial,34
+12_Upgrades,Buy Upgrade,display,Arial,21
+12_Upgrades,Buying an upgrade does not reserve tomorrow’s supplies.,display,Arial,21
+12_Upgrades,Back,display,Arial,21
+13_Pause,DAY 01 / SHIFT PAUSED,display,Arial,15
+13_Pause,Take a moment.,display,Georgia,53
+13_Pause,Your diner will be here when you are ready.,display,Arial,22
+13_Pause,Resume,display,Arial,21
+13_Pause,Esc,display,Arial,15
+13_Pause,Recipe Book,display,Arial,21
+13_Pause,Settings,display,Arial,21
+13_Pause,How to Play,display,Arial,21
+13_Pause,Save files,display,Arial,22
+13_Pause,Import / Export  ›,display,Arial,19
+13_Pause,Stop Accepting Customers,display,Arial,21
+13_Pause,No new arrivals. Existing guests stay until they finish.,display,Arial,18
+13_Pause,This resumes the shift in Closing mode.,display,Arial,18
+13_Pause,Main Menu,display,Arial,21
+14_Settings,ONE MORE DINER,display,Arial,15
+14_Settings,DAY 01,display,Arial,16
+14_Settings,Sound & controls.,display,Georgia,52
+14_Settings,Preferences are saved on this device. Changes apply immediately.,display,Arial,22
+14_Settings,AUDIO,display,Arial,15
+14_Settings,Master volume,display,Arial,24
+14_Settings,65%,display,Arial,25
+14_Settings,Music,display,Arial,24
+14_Settings,40%,display,Arial,25
+14_Settings,Sound effects,display,Arial,24
+14_Settings,80%,display,Arial,25
+14_Settings,Ambience,display,Arial,24
+14_Settings,30%,display,Arial,25
+14_Settings,Test Audio,display,Arial,21
+14_Settings,Look sensitivity,display,Arial,24
+14_Settings,100%,display,Arial,25
+14_Settings,20%,display,Arial,14
+14_Settings,200%,display,Arial,14
+14_Settings,CONTROLS,display,Arial,15
+14_Settings,WASD,display,Arial,15
+14_Settings,Move,display,Arial,23
+14_Settings,Walk around the diner,display,Arial,18
+14_Settings,Mouse,display,Arial,15
+14_Settings,Look,display,Arial,23
+14_Settings,Mouse / drag to turn,display,Arial,18
+14_Settings,E,display,Arial,15
+14_Settings,Interact,display,Arial,23
+14_Settings,Use the focused station or table,display,Arial,18
+14_Settings,F,display,Arial,15
+14_Settings,Recipes,display,Arial,23
+14_Settings,Open the recipe book,display,Arial,18
+14_Settings,Tab,display,Arial,15
+14_Settings,Orders,display,Arial,23
+14_Settings,Show or hide the order queue,display,Arial,18
+14_Settings,Esc,display,Arial,15
+14_Settings,Pause / Back,display,Arial,23
+14_Settings,Pause the shift or close a panel,display,Arial,18
+14_Settings,Keybindings shown for reference.,display,Arial,18
+14_Settings,Back,display,Arial,21
+14_Settings,Esc,display,Arial,15
+15_HowToPlay,ONE MORE DINER,display,Arial,15
+15_HowToPlay,DAY 01,display,Arial,16
+15_HowToPlay,One order at a time.,display,Georgia,52
+15_HowToPlay,You run the room and the kitchen. Everything happens in first person.,display,Arial,22
+15_HowToPlay,01,display,Arial,15
+15_HowToPlay,Stock & open,display,Georgia,26
+15_HowToPlay,Buy supplies. Keep $35,display,Arial,19
+15_HowToPlay,for operating costs.,display,Arial,19
+15_HowToPlay,02,display,Arial,15
+15_HowToPlay,Take an order,display,Georgia,26
+15_HowToPlay,Walk to a seated guest,display,Arial,19
+15_HowToPlay,and press E.,display,Arial,19
+15_HowToPlay,03,display,Arial,15
+15_HowToPlay,Start at the buns,display,Georgia,26
+15_HowToPlay,Choose the burger,display,Arial,19
+15_HowToPlay,on the ticket.,display,Arial,19
+15_HowToPlay,04,display,Arial,15
+15_HowToPlay,Cook the patty,display,Georgia,26
+15_HowToPlay,Ready at 6s.,display,Arial,19
+15_HowToPlay,Burnt at 14s.,display,Arial,19
+15_HowToPlay,05,display,Arial,15
+15_HowToPlay,Match the toppings,display,Georgia,26
+15_HowToPlay,Use exact quantities.,display,Arial,19
+15_HowToPlay,No extras.,display,Arial,19
+15_HowToPlay,06,display,Arial,15
+15_HowToPlay,Plate & carry,display,Georgia,26
+15_HowToPlay,Pick up the tray when,display,Arial,19
+15_HowToPlay,the recipe matches.,display,Arial,19
+15_HowToPlay,07,display,Arial,15
+15_HowToPlay,Serve the right table,display,Georgia,26
+15_HowToPlay,Match the recipe.,display,Arial,19
+15_HowToPlay,Receive payment.,display,Arial,19
+15_HowToPlay,08,display,Arial,15
+15_HowToPlay,Close & plan,display,Georgia,26
+15_HowToPlay,Finish guests. Review,display,Arial,19
+15_HowToPlay,profit. Restock.,display,Arial,19
+15_HowToPlay,WASD to move  ·  Mouse / drag to look  ·  E to interact,display,Arial,23
+15_HowToPlay,One active meal. Three tables. Keep an eye on guest patience.,display,Arial,19
+15_HowToPlay,Back,display,Arial,21
+15_HowToPlay,Esc,display,Arial,15
+16_LowFunds,ONE MORE DINER,display,Arial,15
+16_LowFunds,DAY 02,display,Arial,16
+16_LowFunds,Keep the diner running.,display,Georgia,52
+16_LowFunds,Your supply purchase leaves too little cash for today’s operating costs.,display,Arial,22
+16_LowFunds,This plan needs $184.,display,Georgia,36
+16_LowFunds,"Supplies cost $149, and the shift needs a $35 reserve.",display,Arial,25
+16_LowFunds,You have $160. Reduce the purchase by at least $24.,display,Arial,25
+16_LowFunds,Cash available,display,Arial,23
+16_LowFunds,$160,display,Arial,25
+16_LowFunds,Selected supplies,display,Arial,23
+16_LowFunds,$149,display,Arial,25
+16_LowFunds,Cash left after purchase,display,Arial,23
+16_LowFunds,$11,display,Arial,25
+16_LowFunds,Reserve shortfall,display,Arial,23
+16_LowFunds,$24,display,Arial,25
+16_LowFunds,A SMALLER PLAN,display,Arial,15
+16_LowFunds,Start with a Classic.,display,Georgia,34
+16_LowFunds,1 bun + 1 patty + 1 onion + 1 cheese,display,Arial,21
+16_LowFunds,Supply cost: $10.50,display,Arial,21
+16_LowFunds,Cash after purchase: $149.50,display,Arial,21
+16_LowFunds,Operating reserve: $35,display,Arial,21
+16_LowFunds,Edit Quantities,display,Arial,21
+16_LowFunds,Choose quantities in the supply list.,display,Arial,18
+16_LowFunds,Cannot afford a complete recipe and the $35 reserve? Import a valid save or begin a New Diner.,display,Arial,20
+16_LowFunds,Back to Supplies,display,Arial,21
+16_LowFunds,Main Menu,display,Arial,21
+17_StateConfirmations,ONE MORE DINER / INTERACTION STATES,display,Arial,15
+17_StateConfirmations,Clear states. Considered decisions.,display,Georgia,48
+17_StateConfirmations,CONFIRMATION,display,Arial,15
+17_StateConfirmations,New Diner?,display,Georgia,29
+17_StateConfirmations,Your current run will be replaced.,display,Arial,19
+17_StateConfirmations,Export your save first if you want to keep it.,display,Arial,19
+17_StateConfirmations,Start New Diner,display,Arial,21
+17_StateConfirmations,Keep Playing,display,Arial,21
+17_StateConfirmations,CONFIRMATION,display,Arial,15
+17_StateConfirmations,Stop accepting customers?,display,Georgia,29
+17_StateConfirmations,No new guests will arrive.,display,Arial,19
+17_StateConfirmations,Finish everyone already inside.,display,Arial,19
+17_StateConfirmations,Begin Closing,display,Arial,21
+17_StateConfirmations,Keep Open,display,Arial,21
+17_StateConfirmations,CONFIRMATION,display,Arial,15
+17_StateConfirmations,Discard this meal?,display,Georgia,29
+17_StateConfirmations,All used ingredients become waste.,display,Arial,19
+17_StateConfirmations,This cannot be undone.,display,Arial,19
+17_StateConfirmations,Discard Meal,display,Arial,21
+17_StateConfirmations,Keep Meal,display,Arial,21
+17_StateConfirmations,CONFIRMATION,display,Arial,15
+17_StateConfirmations,Remove all toppings?,display,Georgia,29
+17_StateConfirmations,Removed toppings become waste.,display,Arial,19
+17_StateConfirmations,The bun and patty stay on the board.,display,Arial,19
+17_StateConfirmations,Remove Toppings,display,Arial,21
+17_StateConfirmations,Keep Toppings,display,Arial,21
+17_StateConfirmations,CONFIRMATION,display,Arial,15
+17_StateConfirmations,Buy Fast Grill for $120?,display,Georgia,29
+17_StateConfirmations,Cash after purchase: $112.,display,Arial,19
+17_StateConfirmations,Plan tomorrow’s supplies before opening.,display,Arial,19
+17_StateConfirmations,Buy Upgrade,display,Arial,21
+17_StateConfirmations,Keep Cash,display,Arial,21
+17_StateConfirmations,CONFIRMATION,display,Arial,15
+17_StateConfirmations,Import this save?,display,Georgia,29
+17_StateConfirmations,The imported run replaces the current run.,display,Arial,19
+17_StateConfirmations,Invalid saves leave your current run intact.,display,Arial,19
+17_StateConfirmations,Import Save,display,Arial,21
+17_StateConfirmations,Cancel,display,Arial,21
+17_StateConfirmations,LIVE FEEDBACK,display,Arial,15
+17_StateConfirmations,READY,display,Arial,15
+17_StateConfirmations,Cooked at 6s. Take it off.,display,Arial,21
+17_StateConfirmations,BURNT,display,Arial,15
+17_StateConfirmations,Discard at the dish return.,display,Arial,21
+17_StateConfirmations,WRONG TABLE,display,Arial,15
+17_StateConfirmations,This guest ordered,display,Arial,21
+17_StateConfirmations,a different burger.,display,Arial,21
+17_StateConfirmations,OUT OF STOCK,display,Arial,15
+17_StateConfirmations,No pickles left.,display,Arial,21
+17_StateConfirmations,Review stock or discard meal.,display,Arial,21
+17_StateConfirmations,All confirmation screens are proposed UI improvements. Game rules and prices remain unchanged.,display,Arial,18
+18_Components,ONE MORE DINER / UI SYSTEM V2,display,Arial,15
+18_Components,Warm paper. Quiet green. Clear actions.,display,Georgia,47
+18_Components,Forest,display,Arial,22
+18_Components,#183E34,display,Arial,18
+18_Components,Mint,display,Arial,22
+18_Components,#BDD6C4,display,Arial,18
+18_Components,Cream,display,Arial,22
+18_Components,#F7F1E4,display,Arial,18
+18_Components,Coral,display,Arial,22
+18_Components,#CC775F,display,Arial,18
+18_Components,Sage,display,Arial,22
+18_Components,#7FA58E,display,Arial,18
+18_Components,Ink,display,Arial,22
+18_Components,#24473B,display,Arial,18
+18_Components,TYPE & HIERARCHY,display,Arial,15
+18_Components,Make it feel like home.,display,Georgia,42
+18_Components,Georgia Bold / display and recipe names,display,Arial,21
+18_Components,"Arial / readable controls, money and counts",display,Arial,24
+18_Components,LABELS  /  15 PX  /  2 PX TRACKING,display,Arial,15
+18_Components,ACTION STATES,display,Arial,15
+18_Components,Confirm Stock & Open,display,Arial,21
+18_Components,Recipe Book,display,Arial,21
+18_Components,Plate & Pick Up,display,Arial,21
+18_Components,Discard Meal,display,Arial,21
+18_Components,RECEIPT / TABLE TICKET,display,Arial,15
+18_Components,TABLE 03,display,Arial,15
+18_Components,WAITING,display,Arial,12
+18_Components,Onion Burger,display,Georgia,22
+18_Components,92s left,display,Arial,18
+18_Components,$22,display,Arial,20
+18_Components,2 onions · 1 pickle,display,Arial,16
+18_Components,OPEN,display,Arial,14
+18_Components,CLOSING,display,Arial,14
+18_Components,E,display,Arial,15
+18_Components,Interact,display,Arial,21
+18_Components,NATIVE ICONS / 64 PX MASTER / STROKE 3 PX,display,Arial,15
+18_Components,burger,display,Arial,14
+18_Components,bread,display,Arial,14
+18_Components,patties,display,Arial,14
+18_Components,onions,display,Arial,14
+18_Components,lettuce,display,Arial,14
+18_Components,tomato,display,Arial,14
+18_Components,cheese,display,Arial,14
+18_Components,pickles,display,Arial,14
+18_Components,grill,display,Arial,14
+18_Components,clock,display,Arial,14
+18_Components,receipt,display,Arial,14
+18_Components,tray,display,Arial,14
+18_Components,table,display,Arial,14
+18_Components,stock,display,Arial,14
+18_Components,cold,display,Arial,14
+18_Components,seat,display,Arial,14
+18_Components,settings,display,Arial,14
+18_Components,check,display,Arial,14
+18_Components,warning,display,Arial,14
+18_Components,save,display,Arial,14
+18_Components,audio,display,Arial,14
+18_Components,arrow,display,Arial,14
+18_Components,pause,display,Arial,14
+18_Components,8 px base rhythm  ·  44 px minimum pointer target  ·  24 px live HUD text  ·  16 px panel corners,display,Arial,20

@@ -1,0 +1,640 @@
+{
+  "assets": [
+    {
+      "id": "panel_paper",
+      "size": [
+        320,
+        240
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "panel_forest",
+      "size": [
+        320,
+        240
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "panel_soft",
+      "size": [
+        320,
+        240
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "ticket_paper",
+      "size": [
+        320,
+        240
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "button_primary",
+      "size": [
+        320,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "button_secondary",
+      "size": [
+        320,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "button_danger",
+      "size": [
+        320,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "button_disabled",
+      "size": [
+        320,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "chip_mint",
+      "size": [
+        180,
+        48
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "chip_coral",
+      "size": [
+        180,
+        48
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "keycap",
+      "size": [
+        64,
+        44
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "progress_track",
+      "size": [
+        320,
+        24
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "burger",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "bread",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "patties",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "onions",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "lettuce",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "tomato",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "cheese",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "pickles",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "grill",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "clock",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "receipt",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "tray",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "table",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "stock",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "cold",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "seat",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "settings",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "check",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "warning",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "save",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "audio",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "arrow",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    },
+    {
+      "id": "pause",
+      "size": [
+        64,
+        64
+      ],
+      "matches_manifest": true,
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "valid_nine_slice_center": true
+    }
+  ],
+  "screens": [
+    {
+      "id": "01_MainMenu",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "02_Planning",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "03_RecipeBook",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "04_LiveService",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "05_TakeOrder",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "06_GrillCooking",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "07_Toppings",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "08_CarryServe",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "09_OrderBook",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "10_Closing",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "11_ShiftSummary",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "12_Upgrades",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "13_Pause",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "14_Settings",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "15_HowToPlay",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "16_LowFunds",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "17_StateConfirmations",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    },
+    {
+      "id": "18_Components",
+      "size": [
+        1920,
+        1080
+      ],
+      "matches_manifest": true
+    }
+  ]
+}

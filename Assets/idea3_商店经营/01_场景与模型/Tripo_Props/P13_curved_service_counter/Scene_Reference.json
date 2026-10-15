@@ -1,0 +1,41 @@
+{
+  "asset_id": "P13_curved_service_counter",
+  "model_id": "8bd9a4ec-b056-4c02-ac0a-5a6794686880",
+  "matching_mesh_material_uuid": [
+    "P13_Counter__ce616837_8f5d_48c3_9361_bc9d611e2346"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P13",
+      "name": "P13_Counter",
+      "model_id": "8bd9a4ec-b056-4c02-ac0a-5a6794686880",
+      "actual_dimensions_m": [
+        5.180368900299072,
+        1.3286244869232178,
+        1.03000009059906
+      ],
+      "bbox_m": {
+        "min": [
+          1.3598155975341797,
+          3.9006879329681396,
+          0.0
+        ],
+        "max": [
+          6.540184497833252,
+          5.229312419891357,
+          1.03000009059906
+        ]
+      },
+      "base_position_world_m": [
+        3.950000047683716,
+        4.565000057220459,
+        0.0
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "A_Dining"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

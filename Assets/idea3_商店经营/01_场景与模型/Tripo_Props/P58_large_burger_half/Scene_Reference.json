@@ -1,0 +1,71 @@
+{
+  "asset_id": "P58_large_burger_half",
+  "model_id": "3cfa567e-68e2-4d18-bf02-7f45d015792f",
+  "matching_mesh_material_uuid": [
+    "P58_Memory_Opposite_Half__tripo_node_fade6e1d",
+    "P58_Memory_Player_Half__tripo_node_fade6e1d"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P58",
+      "name": "P58_Memory_Player_Half",
+      "model_id": "3cfa567e-68e2-4d18-bf02-7f45d015792f",
+      "actual_dimensions_m": [
+        0.13246548175811768,
+        0.11521953344345093,
+        0.09330922365188599
+      ],
+      "bbox_m": {
+        "min": [
+          1.938757061958313,
+          0.9180399775505066,
+          0.7950689196586609
+        ],
+        "max": [
+          2.0712225437164307,
+          1.0332595109939575,
+          0.8883781433105469
+        ]
+      },
+      "base_position_world_m": [
+        2.0,
+        0.9700000286102295,
+        0.7950689196586609
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "A_Dining"
+    },
+    {
+      "id": "P58",
+      "name": "P58_Memory_Opposite_Half",
+      "model_id": "3cfa567e-68e2-4d18-bf02-7f45d015792f",
+      "actual_dimensions_m": [
+        0.10332310199737549,
+        0.08987128734588623,
+        0.07278120517730713
+      ],
+      "bbox_m": {
+        "min": [
+          1.9444464445114136,
+          1.3806575536727905,
+          0.7950689196586609
+        ],
+        "max": [
+          2.047769546508789,
+          1.4705288410186768,
+          0.867850124835968
+        ]
+      },
+      "base_position_world_m": [
+        2.0,
+        1.4299999475479126,
+        0.7950689196586609
+      ],
+      "uniform_instance_scale": 0.78,
+      "zone": "A_Dining"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": false
+}

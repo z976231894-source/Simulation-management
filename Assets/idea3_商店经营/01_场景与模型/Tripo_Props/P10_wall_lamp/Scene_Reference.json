@@ -1,0 +1,17 @@
+{
+  "asset_id": "P10_wall_lamp",
+  "model_id": null,
+  "matching_mesh_material_uuid": [
+    "Lamp_Backdoor__tripo_2821e459_238a_4135_89b7_7c5ca919d5db",
+    "Lamp_Front_Left__tripo_2821e459_238a_4135_89b7_7c5ca919d5db",
+    "Lamp_Front_Right__tripo_2821e459_238a_4135_89b7_7c5ca919d5db"
+  ],
+  "anchor_custom_property": [
+    "Anchor_Lamp_Backdoor",
+    "Anchor_Lamp_Front_Left",
+    "Anchor_Lamp_Front_Right"
+  ],
+  "matching_tripo_instances": [],
+  "proven_referenced": true,
+  "current_active": true
+}

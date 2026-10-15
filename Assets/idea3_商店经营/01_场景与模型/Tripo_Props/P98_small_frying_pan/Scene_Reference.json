@@ -1,0 +1,41 @@
+{
+  "asset_id": "P98_small_frying_pan",
+  "model_id": "6de9f68a-43ae-4030-b434-1ac3712838f6",
+  "matching_mesh_material_uuid": [
+    "P98_Grill_Frying_Pan__tripo_248090cf_143a_43cf_b182_4602aecfaa3"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P98",
+      "name": "P98_Grill_Frying_Pan",
+      "model_id": "6de9f68a-43ae-4030-b434-1ac3712838f6",
+      "actual_dimensions_m": [
+        0.2198338508605957,
+        0.39999961853027344,
+        0.07327795028686523
+      ],
+      "bbox_m": {
+        "min": [
+          3.410083055496216,
+          8.175333976745605,
+          0.9880000352859497
+        ],
+        "max": [
+          3.6299169063568115,
+          8.575333595275879,
+          1.061277985572815
+        ]
+      },
+      "base_position_world_m": [
+        3.5199999809265137,
+        8.375333786010742,
+        0.9879999756813049
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

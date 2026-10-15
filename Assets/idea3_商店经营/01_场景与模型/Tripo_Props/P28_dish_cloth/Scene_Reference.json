@@ -1,0 +1,41 @@
+{
+  "asset_id": "P28_dish_cloth",
+  "model_id": "6738e7fb-8790-43f3-ab5e-45a9baf82e82",
+  "matching_mesh_material_uuid": [
+    "P28_Drying_Cloth__tripo_node_7fa7784a"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P28",
+      "name": "P28_Drying_Cloth",
+      "model_id": "6738e7fb-8790-43f3-ab5e-45a9baf82e82",
+      "actual_dimensions_m": [
+        0.23999977111816406,
+        0.23530960083007812,
+        0.10188573598861694
+      ],
+      "bbox_m": {
+        "min": [
+          5.980000019073486,
+          8.134421348571777,
+          0.9729999899864197
+        ],
+        "max": [
+          6.21999979019165,
+          8.369730949401855,
+          1.0748857259750366
+        ]
+      },
+      "base_position_world_m": [
+        6.099999904632568,
+        8.252076148986816,
+        0.9729999899864197
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

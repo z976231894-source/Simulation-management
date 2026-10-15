@@ -1,0 +1,155 @@
+{
+  "asset_id": "P41_service_door_leaf",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P41_service_door_leaf\\P41_service_door_leaf_static.blend",
+  "source_sha256_before": "7dc0711059e620298aa29c4c067ce7d8ae53047beed5201a258b1be2efa09836",
+  "source_sha256_after": "7dc0711059e620298aa29c4c067ce7d8ae53047beed5201a258b1be2efa09836",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_cdcd2256",
+        "vertices": 1352,
+        "triangles": 1050,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_cdcd2256"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1352,
+    "triangles": 1050,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_819684af-dc16-4fbf-9401-54e47d9c6b9e",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.5138299465179443,
+        -0.1562921702861786,
+        0.0
+      ],
+      "max": [
+        0.5138299465179443,
+        0.1562921702861786,
+        2.1399998664855957
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_819684af-dc16-4fbf-9401-54e47d9c6b9e",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P41_service_door_leaf\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "9ee54cdc510b6971bf12d583ba17bee3ba9e7b89b4ae714a3251492d662c87af"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_cdcd2256",
+        "vertices": 1352,
+        "triangles": 1050,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_cdcd2256"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1352,
+    "triangles": 1050,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_819684af-dc16-4fbf-9401-54e47d9c6b9e",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P41_service_door_leaf\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.5138299465179443,
+        -0.15629221498966217,
+        -8.371351611913269e-08
+      ],
+      "max": [
+        0.5138302445411682,
+        0.15629221498966217,
+        2.1399996280670166
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P41_service_door_leaf\\P41_service_door_leaf_Editable.blend",
+      "bytes": 10237409,
+      "sha256": "705d2a42c4b4f193d254891d45fac05c9c31ff9d6b5706e1c064739de42fb729",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P41_service_door_leaf\\P41_service_door_leaf_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P41_service_door_leaf\\P41_service_door_leaf_Engine.fbx",
+      "bytes": 399820,
+      "sha256": "fac226e6a8ab35ca8a4f0407ec049d581b0d499471a5080d12bb6d3dd02e7059",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P41_service_door_leaf\\P41_service_door_leaf_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P41_service_door_leaf\\Textures\\Tex_00.jpg",
+      "bytes": 9716646,
+      "sha256": "9ee54cdc510b6971bf12d583ba17bee3ba9e7b89b4ae714a3251492d662c87af",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P41_service_door_leaf\\P41_service_door_leaf_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P41_service_door_leaf\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "c2475a3f9795a4523d84fdfbac391f7ad9605d6bdf3b7f07403a720797419881",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_819684af-dc16-4fbf-9401-54e47d9c6b9e",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

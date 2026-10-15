@@ -1,0 +1,155 @@
+{
+  "asset_id": "P10_wall_lamp",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P10_wall_lamp\\P10_wall_lamp_static.blend",
+  "source_sha256_before": "08032bfccfe24e33d9221cd3855c73dc73660e2d7fea3521e83c4aebac54ad58",
+  "source_sha256_after": "08032bfccfe24e33d9221cd3855c73dc73660e2d7fea3521e83c4aebac54ad58",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_2821e459_238a_4135_89b7_7c5ca919d5db",
+        "vertices": 6118,
+        "triangles": 5537,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_2821e459_238a_4135_89b7_7c5ca919d5db"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 6118,
+    "triangles": 5537,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_d795dde9-d28a-4522-a995-9a90c6502421",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          4096,
+          4096
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.09487055987119675,
+        -0.14157305657863617,
+        0.0
+      ],
+      "max": [
+        0.09487055987119675,
+        0.14157305657863617,
+        0.4000000059604645
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_d795dde9-d28a-4522-a995-9a90c6502421",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P10_wall_lamp\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "sha256": "337fd42bebf0d7b53bdb18605086d4fcf88b37c6799e3e337e2cbb5d2e9367e1"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_2821e459_238a_4135_89b7_7c5ca919d5db",
+        "vertices": 6118,
+        "triangles": 5537,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_2821e459_238a_4135_89b7_7c5ca919d5db"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 6118,
+    "triangles": 5537,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_d795dde9-d28a-4522-a995-9a90c6502421",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P10_wall_lamp\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.09487056732177734,
+        -0.14157307147979736,
+        -2.558962997056824e-08
+      ],
+      "max": [
+        0.09487056732177734,
+        0.14157307147979736,
+        0.4000000059604645
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P10_wall_lamp\\P10_wall_lamp_Editable.blend",
+      "bytes": 3878155,
+      "sha256": "d6550a8ea23dcd7b574cb7d44e754b789eb9dfeb9c2a97b618ef861c3da5ac0d",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P10_wall_lamp\\P10_wall_lamp_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P10_wall_lamp\\P10_wall_lamp_Engine.fbx",
+      "bytes": 723948,
+      "sha256": "e7fb328c3c471c9214a2c25a8271426937e0b556fe6a1a56435b84e79275fc0d",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P10_wall_lamp\\P10_wall_lamp_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P10_wall_lamp\\Textures\\Tex_00.jpg",
+      "bytes": 2901126,
+      "sha256": "337fd42bebf0d7b53bdb18605086d4fcf88b37c6799e3e337e2cbb5d2e9367e1",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P10_wall_lamp\\P10_wall_lamp_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P10_wall_lamp\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "74146580a481a5c180dd2ff03287d7a6851bf2180bce5b000dd31bcbe3ecef28",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_d795dde9-d28a-4522-a995-9a90c6502421",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

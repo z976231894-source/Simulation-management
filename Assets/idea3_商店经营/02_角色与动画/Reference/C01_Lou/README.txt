@@ -1,0 +1,5 @@
+CURRENT customer; motion v2 shoe_scale_fix no_pickup; 65 bones; 8 unchanged dynamic clips. Repaired sit_down/stand_up Foot/Toe scale reconstruction while preserving the original Armature uniform scale; new per-character scale and shoe-shape QA accompanies this repair. The action library was not rebuilt; mesh topology, UVs, bind and weights preserved. eat_seated_loop keeps hands at rest and food on table. Editable retains packed original 4096 JPEG; Engine/Runtime embeds derived 512 PNG. Original Tripo FBX, original JPEG and earlier static previews preserved. Use customer_shoe_scale_fix_*.json for current repair proof; older motion v2 reports are pre-repair history. Native Avatar/Animator and chair/table-food state remain pending; no pickup/hand-food socket required.
+
+Current three formats: *_Editable.blend / *_Engine.fbx / *_Animated_Runtime.glb.
+Preview includes newly rendered repaired feet and the current no-pickup customer motions.
+Technical_Verification.json points to fresh shoe-scale checks for these exact new file hashes; old general PASS is not shoe repair proof.

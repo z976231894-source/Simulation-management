@@ -1,0 +1,155 @@
+{
+  "asset_id": "P79_wood_supply_crate",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P79_wood_supply_crate\\P79_wood_supply_crate_static.blend",
+  "source_sha256_before": "7d44ad2dc91057b2ba8d0234a34a65de8ff0a1f69c191f483fdd00f82d154da9",
+  "source_sha256_after": "7d44ad2dc91057b2ba8d0234a34a65de8ff0a1f69c191f483fdd00f82d154da9",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_29d48a32",
+        "vertices": 2703,
+        "triangles": 2967,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_29d48a32"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 2703,
+    "triangles": 2967,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_e85c4ac5-9a1b-4a1e-baa1-826b0fe109c1",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.3050000071525574,
+        -0.23377873003482819,
+        0.0
+      ],
+      "max": [
+        0.3050000071525574,
+        0.23377873003482819,
+        0.27385929226875305
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_e85c4ac5-9a1b-4a1e-baa1-826b0fe109c1",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P79_wood_supply_crate\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "7b02d909278ff08043ca9cb946b2e5d6cac3fa001954dcb4d99260576d05f1f9"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_29d48a32",
+        "vertices": 2703,
+        "triangles": 2967,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_29d48a32"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 2703,
+    "triangles": 2967,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_e85c4ac5-9a1b-4a1e-baa1-826b0fe109c1",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P79_wood_supply_crate\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.30500003695487976,
+        -0.23377875983715057,
+        -4.9690804360125185e-08
+      ],
+      "max": [
+        0.30500006675720215,
+        0.23377875983715057,
+        0.2738593518733978
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P79_wood_supply_crate\\P79_wood_supply_crate_Editable.blend",
+      "bytes": 13541422,
+      "sha256": "6266ea2548ff4dcefe4a1365e5fb6acb403abf07d9759196163786921c12f4fc",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P79_wood_supply_crate\\P79_wood_supply_crate_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P79_wood_supply_crate\\P79_wood_supply_crate_Engine.fbx",
+      "bytes": 532492,
+      "sha256": "e5a8613d4a0f77d11ce56ae18082765356d049d64fca9de9497370700a6ab5a4",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P79_wood_supply_crate\\P79_wood_supply_crate_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P79_wood_supply_crate\\Textures\\Tex_00.jpg",
+      "bytes": 12839350,
+      "sha256": "7b02d909278ff08043ca9cb946b2e5d6cac3fa001954dcb4d99260576d05f1f9",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P79_wood_supply_crate\\P79_wood_supply_crate_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P79_wood_supply_crate\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "9ab126ee1c1e77bf9f5e773349bce25a58d241d64c481a5324c820ffbd166f95",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_e85c4ac5-9a1b-4a1e-baa1-826b0fe109c1",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

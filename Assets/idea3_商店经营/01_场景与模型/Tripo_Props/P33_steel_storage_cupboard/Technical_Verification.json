@@ -1,0 +1,155 @@
+{
+  "asset_id": "P33_steel_storage_cupboard",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P33_steel_storage_cupboard\\P33_steel_storage_cupboard_static.blend",
+  "source_sha256_before": "ac10e54de1c938690363d492a121add078d427d60908b385e18b819dbb48228a",
+  "source_sha256_after": "ac10e54de1c938690363d492a121add078d427d60908b385e18b819dbb48228a",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_407fbcaf",
+        "vertices": 4787,
+        "triangles": 3463,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_407fbcaf"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 4787,
+    "triangles": 3463,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_552e01cf-5846-4d18-8120-33152ed40feb",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.4685882329940796,
+        -0.2903761863708496,
+        0.0
+      ],
+      "max": [
+        0.4685882329940796,
+        0.2903761863708496,
+        1.600000023841858
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_552e01cf-5846-4d18-8120-33152ed40feb",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P33_steel_storage_cupboard\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "c0513f544c3797a4e6e5ccb20c391ce8f75cf6a922dcebc5b887204a87cea4a8"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_407fbcaf",
+        "vertices": 4787,
+        "triangles": 3463,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_407fbcaf"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 4787,
+    "triangles": 3463,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_552e01cf-5846-4d18-8120-33152ed40feb",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P33_steel_storage_cupboard\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.468588262796402,
+        -0.2903762459754944,
+        -7.634270104972529e-08
+      ],
+      "max": [
+        0.46858853101730347,
+        0.2903762459754944,
+        1.6000001430511475
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P33_steel_storage_cupboard\\P33_steel_storage_cupboard_Editable.blend",
+      "bytes": 17745310,
+      "sha256": "6001ae8ff7050ec311e3cf6ba72b172e65e853ea7cd472d637c15864b88aceb0",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P33_steel_storage_cupboard\\P33_steel_storage_cupboard_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P33_steel_storage_cupboard\\P33_steel_storage_cupboard_Engine.fbx",
+      "bytes": 606956,
+      "sha256": "9ae4cd235f6b4cb4acb316f49cf597aa07cffaad4b77b0132033b84b140fb79f",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P33_steel_storage_cupboard\\P33_steel_storage_cupboard_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P33_steel_storage_cupboard\\Textures\\Tex_00.jpg",
+      "bytes": 16963115,
+      "sha256": "c0513f544c3797a4e6e5ccb20c391ce8f75cf6a922dcebc5b887204a87cea4a8",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P33_steel_storage_cupboard\\P33_steel_storage_cupboard_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P33_steel_storage_cupboard\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "aad119818474e9e5f709dad31093b200b5cb4dce07e838dd4597d47d0a352fac",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_552e01cf-5846-4d18-8120-33152ed40feb",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

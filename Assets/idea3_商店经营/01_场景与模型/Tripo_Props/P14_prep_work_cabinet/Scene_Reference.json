@@ -1,0 +1,42 @@
+{
+  "asset_id": "P14_prep_work_cabinet",
+  "model_id": "bbc3ab19-c6b4-4a9f-b00f-b31b039a9992",
+  "matching_mesh_material_uuid": [
+    "P14_Prep__tripo_node_7f55c2ac",
+    "P14_Prep__tripo_node_7f55c2ac.001"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P14",
+      "name": "P14_Prep",
+      "model_id": "bbc3ab19-c6b4-4a9f-b00f-b31b039a9992",
+      "actual_dimensions_m": [
+        1.4983196258544922,
+        0.9522781372070312,
+        0.9230000376701355
+      ],
+      "bbox_m": {
+        "min": [
+          0.7808400988578796,
+          7.902721405029297,
+          0.0
+        ],
+        "max": [
+          2.2791597843170166,
+          8.854999542236328,
+          0.9230000376701355
+        ]
+      },
+      "base_position_world_m": [
+        1.5299999713897705,
+        8.378860473632812,
+        0.0
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

@@ -1,0 +1,41 @@
+{
+  "asset_id": "P35_wood_stool",
+  "model_id": "7c5d879b-04e6-4752-810b-372fd13a9fee",
+  "matching_mesh_material_uuid": [
+    "P35_Staff_Stool__tripo_node_b0c985a2"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P35",
+      "name": "P35_Staff_Stool",
+      "model_id": "7c5d879b-04e6-4752-810b-372fd13a9fee",
+      "actual_dimensions_m": [
+        0.4703712463378906,
+        0.4698925018310547,
+        0.49000000953674316
+      ],
+      "bbox_m": {
+        "min": [
+          10.164813995361328,
+          0.35505372285842896,
+          0.0
+        ],
+        "max": [
+          10.635185241699219,
+          0.8249462246894836,
+          0.49000000953674316
+        ]
+      },
+      "base_position_world_m": [
+        10.399999618530273,
+        0.5899999737739563,
+        0.0
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "D_Staff"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

@@ -1,0 +1,39 @@
+{
+  "asset_id": "P45_glass_food_cover",
+  "model_id": "206f14e2-4354-475e-a441-2e3b029c7b24",
+  "matching_mesh_material_uuid": [],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P45",
+      "name": "P45_Display_Cover",
+      "model_id": "206f14e2-4354-475e-a441-2e3b029c7b24",
+      "actual_dimensions_m": [
+        0.440000057220459,
+        0.3342456817626953,
+        0.2641719579696655
+      ],
+      "bbox_m": {
+        "min": [
+          4.689999580383301,
+          4.602877140045166,
+          1.06850004196167
+        ],
+        "max": [
+          5.12999963760376,
+          4.937122821807861,
+          1.3326719999313354
+        ]
+      },
+      "base_position_world_m": [
+        4.909999847412109,
+        4.769999980926514,
+        1.06850004196167
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "A_Dining"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

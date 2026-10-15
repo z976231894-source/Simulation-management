@@ -1,0 +1,155 @@
+{
+  "asset_id": "P35_wood_stool",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P35_wood_stool\\P35_wood_stool_static.blend",
+  "source_sha256_before": "8fff6bae8b7617c18e2b887534ad89eea624837fdadd7f2d220cb99a7fd80826",
+  "source_sha256_after": "8fff6bae8b7617c18e2b887534ad89eea624837fdadd7f2d220cb99a7fd80826",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_b0c985a2",
+        "vertices": 2051,
+        "triangles": 1730,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_b0c985a2"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 2051,
+    "triangles": 1730,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_19f023e9-3bf2-4bc0-b35c-9268669a5674",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.2351856380701065,
+        -0.23494626581668854,
+        0.0
+      ],
+      "max": [
+        0.2351856380701065,
+        0.23494626581668854,
+        0.49000000953674316
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_19f023e9-3bf2-4bc0-b35c-9268669a5674",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P35_wood_stool\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "5af7fe0390bbff600bced3d2e594b2e51c8df0e59e3356a5740a34501a82725a"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_b0c985a2",
+        "vertices": 2051,
+        "triangles": 1730,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_b0c985a2"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 2051,
+    "triangles": 1730,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_19f023e9-3bf2-4bc0-b35c-9268669a5674",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P35_wood_stool\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.2351856231689453,
+        -0.23494628071784973,
+        -1.7737946222950995e-08
+      ],
+      "max": [
+        0.2351856231689453,
+        0.23494625091552734,
+        0.49000000953674316
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P35_wood_stool\\P35_wood_stool_Editable.blend",
+      "bytes": 12897116,
+      "sha256": "431992c44883a7911ab6278120c3c61de10ff162cbeafa51afa9fcb44b208735",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P35_wood_stool\\P35_wood_stool_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P35_wood_stool\\P35_wood_stool_Engine.fbx",
+      "bytes": 535164,
+      "sha256": "72d2e73e3e3c727c910176da606c0a10f4a401ae2788f9c8e34e72b3ca1de36f",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P35_wood_stool\\P35_wood_stool_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P35_wood_stool\\Textures\\Tex_00.jpg",
+      "bytes": 12307325,
+      "sha256": "5af7fe0390bbff600bced3d2e594b2e51c8df0e59e3356a5740a34501a82725a",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P35_wood_stool\\P35_wood_stool_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P35_wood_stool\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "345e87b1f18dc652a07d29db2c021bff0bcded04cf34afcf7f187d88bc2d8269",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_19f023e9-3bf2-4bc0-b35c-9268669a5674",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

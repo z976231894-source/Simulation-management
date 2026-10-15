@@ -1,0 +1,155 @@
+{
+  "asset_id": "P80_cardboard_carton",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P80_cardboard_carton\\P80_cardboard_carton_static.blend",
+  "source_sha256_before": "87061bdb0142cdcdbf8b7ae52a3341c6fdabba5bee5ef27f22cf108cde66c88d",
+  "source_sha256_after": "87061bdb0142cdcdbf8b7ae52a3341c6fdabba5bee5ef27f22cf108cde66c88d",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_e8468e9a",
+        "vertices": 1082,
+        "triangles": 902,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_e8468e9a"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1082,
+    "triangles": 902,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_fa1de96b-162f-426a-9f26-29381c76be81",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.30000001192092896,
+        -0.23580852150917053,
+        0.0
+      ],
+      "max": [
+        0.30000001192092896,
+        0.23580852150917053,
+        0.35202735662460327
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_fa1de96b-162f-426a-9f26-29381c76be81",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P80_cardboard_carton\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "cd28d5686d4888757ea5b6aefec205de0d699bab7419ca3800570559d4677919"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_e8468e9a",
+        "vertices": 1082,
+        "triangles": 902,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_e8468e9a"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1082,
+    "triangles": 902,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_fa1de96b-162f-426a-9f26-29381c76be81",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P80_cardboard_carton\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.30000001192092896,
+        -0.23580853641033173,
+        -4.887619908799934e-08
+      ],
+      "max": [
+        0.30000004172325134,
+        0.23580853641033173,
+        0.35202738642692566
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P80_cardboard_carton\\P80_cardboard_carton_Editable.blend",
+      "bytes": 18219463,
+      "sha256": "9cff2c70a18aab7a572e0aee5ba35d49d2886ebc8eded43d4fa75687256776a1",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P80_cardboard_carton\\P80_cardboard_carton_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P80_cardboard_carton\\P80_cardboard_carton_Engine.fbx",
+      "bytes": 362604,
+      "sha256": "e0678fd899a82da2f417e7c3e4b560dc7ac38892802ce991870730438804182c",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P80_cardboard_carton\\P80_cardboard_carton_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P80_cardboard_carton\\Textures\\Tex_00.jpg",
+      "bytes": 17715775,
+      "sha256": "cd28d5686d4888757ea5b6aefec205de0d699bab7419ca3800570559d4677919",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P80_cardboard_carton\\P80_cardboard_carton_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P80_cardboard_carton\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "bd36dba29a40653d6976b16d0666f1ce45b9cfa32b5ba78918f3fb42e2e4d474",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_fa1de96b-162f-426a-9f26-29381c76be81",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

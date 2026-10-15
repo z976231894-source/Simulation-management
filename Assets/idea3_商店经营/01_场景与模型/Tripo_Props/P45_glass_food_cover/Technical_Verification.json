@@ -1,0 +1,155 @@
+{
+  "asset_id": "P45_glass_food_cover",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P45_glass_food_cover\\P45_glass_food_cover_static.blend",
+  "source_sha256_before": "ad0d38a301ebee8e64065fce29eaf1b276cba11d752410069ef39379fb259de5",
+  "source_sha256_after": "ad0d38a301ebee8e64065fce29eaf1b276cba11d752410069ef39379fb259de5",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_6ab2b6b1",
+        "vertices": 1600,
+        "triangles": 1986,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_6ab2b6b1"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1600,
+    "triangles": 1986,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_6029ac37-55dc-43ed-8457-e4d533763eb1",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.2200000286102295,
+        -0.16712263226509094,
+        0.0
+      ],
+      "max": [
+        0.2200000286102295,
+        0.16712263226509094,
+        0.2641719579696655
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_6029ac37-55dc-43ed-8457-e4d533763eb1",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P45_glass_food_cover\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "678a9549d1a37a9684c101405705db5ad82a3bdbd5ee7831553f58eba322e884"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_6ab2b6b1",
+        "vertices": 1600,
+        "triangles": 1986,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_6ab2b6b1"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1600,
+    "triangles": 1986,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_6029ac37-55dc-43ed-8457-e4d533763eb1",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P45_glass_food_cover\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.22000004351139069,
+        -0.16712266206741333,
+        -3.584254670840892e-08
+      ],
+      "max": [
+        0.22000008821487427,
+        0.16712266206741333,
+        0.2641719877719879
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P45_glass_food_cover\\P45_glass_food_cover_Editable.blend",
+      "bytes": 7634695,
+      "sha256": "26377320eae35c08da8c1ae6457ff4cd46fab99786b71514031383d176d6d5c3",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P45_glass_food_cover\\P45_glass_food_cover_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P45_glass_food_cover\\P45_glass_food_cover_Engine.fbx",
+      "bytes": 263196,
+      "sha256": "43c4345fdeeed047c75dc2e9c90022ea00fb19b8a13478fed720b58b3855b0c8",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P45_glass_food_cover\\P45_glass_food_cover_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P45_glass_food_cover\\Textures\\Tex_00.jpg",
+      "bytes": 7033246,
+      "sha256": "678a9549d1a37a9684c101405705db5ad82a3bdbd5ee7831553f58eba322e884",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P45_glass_food_cover\\P45_glass_food_cover_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P45_glass_food_cover\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "6aa15caa8425df539069d79832e05e71a290e0b4ab181aed7dd8d5b78e060bc2",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_6029ac37-55dc-43ed-8457-e4d533763eb1",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

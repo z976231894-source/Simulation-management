@@ -1,0 +1,71 @@
+{
+  "asset_id": "P34_staff_locker",
+  "model_id": "5db44292-31ef-4564-8e4f-e180757a1724",
+  "matching_mesh_material_uuid": [
+    "P34_Locker_0__tripo_node_8cb30762",
+    "P34_Locker_1__tripo_node_8cb30762"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P34",
+      "name": "P34_Locker_0",
+      "model_id": "5db44292-31ef-4564-8e4f-e180757a1724",
+      "actual_dimensions_m": [
+        0.5449676513671875,
+        0.4853200912475586,
+        1.850000023841858
+      ],
+      "bbox_m": {
+        "min": [
+          10.62751579284668,
+          4.757339954376221,
+          0.0
+        ],
+        "max": [
+          11.172483444213867,
+          5.242660045623779,
+          1.850000023841858
+        ]
+      },
+      "base_position_world_m": [
+        10.899999618530273,
+        5.0,
+        0.0
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "D_Staff"
+    },
+    {
+      "id": "P34",
+      "name": "P34_Locker_1",
+      "model_id": "5db44292-31ef-4564-8e4f-e180757a1724",
+      "actual_dimensions_m": [
+        0.5449676513671875,
+        0.4853200912475586,
+        1.850000023841858
+      ],
+      "bbox_m": {
+        "min": [
+          11.257515907287598,
+          4.757339954376221,
+          0.0
+        ],
+        "max": [
+          11.802483558654785,
+          5.242660045623779,
+          1.850000023841858
+        ]
+      },
+      "base_position_world_m": [
+        11.529999732971191,
+        5.0,
+        0.0
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "D_Staff"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

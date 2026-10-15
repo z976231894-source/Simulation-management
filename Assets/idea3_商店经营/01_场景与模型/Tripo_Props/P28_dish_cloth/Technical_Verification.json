@@ -1,0 +1,155 @@
+{
+  "asset_id": "P28_dish_cloth",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P28_dish_cloth\\P28_dish_cloth_static.blend",
+  "source_sha256_before": "c6fcddb533487bd5a985dfb229c5859c597a27097cd5b217ef5880e83f690bbf",
+  "source_sha256_after": "c6fcddb533487bd5a985dfb229c5859c597a27097cd5b217ef5880e83f690bbf",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_7fa7784a",
+        "vertices": 1056,
+        "triangles": 1022,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_7fa7784a"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1056,
+    "triangles": 1022,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_92a55cc8-8a69-4dbf-afed-62d293049ca3",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.12000000476837158,
+        -0.11765510588884354,
+        0.0
+      ],
+      "max": [
+        0.12000000476837158,
+        0.11765510588884354,
+        0.10188569128513336
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_92a55cc8-8a69-4dbf-afed-62d293049ca3",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P28_dish_cloth\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "977d1feb373393ac034478c1400833f9d9620563baaa8cdb8a0d5f9d8223717f"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_7fa7784a",
+        "vertices": 1056,
+        "triangles": 1022,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_7fa7784a"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1056,
+    "triangles": 1022,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_92a55cc8-8a69-4dbf-afed-62d293049ca3",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P28_dish_cloth\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.11999999731779099,
+        -0.11765510588884354,
+        -8.882713231628259e-09
+      ],
+      "max": [
+        0.11999999731779099,
+        0.11765509843826294,
+        0.10188569128513336
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P28_dish_cloth\\P28_dish_cloth_Editable.blend",
+      "bytes": 25271210,
+      "sha256": "5dc899f5b2dff196927dfea556124c4ded366dae9caae98cd343c18a5d36efd6",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P28_dish_cloth\\P28_dish_cloth_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P28_dish_cloth\\P28_dish_cloth_Engine.fbx",
+      "bytes": 661484,
+      "sha256": "bcc8cfb802496017b1c5f1ec1f0499631eca0e9e5d84d22cf22fee4a4500fc15",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P28_dish_cloth\\P28_dish_cloth_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P28_dish_cloth\\Textures\\Tex_00.jpg",
+      "bytes": 24758107,
+      "sha256": "977d1feb373393ac034478c1400833f9d9620563baaa8cdb8a0d5f9d8223717f",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P28_dish_cloth\\P28_dish_cloth_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P28_dish_cloth\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "598587fc72f207e1a1bf63bbcf7b8e76c88233b77fb6bfb90d32518b4da95aa1",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_92a55cc8-8a69-4dbf-afed-62d293049ca3",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

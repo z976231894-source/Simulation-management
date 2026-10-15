@@ -1,0 +1,71 @@
+{
+  "asset_id": "P22_cook_pot",
+  "model_id": "9e783e7b-1683-4967-84a7-4cd91dffc146",
+  "matching_mesh_material_uuid": [
+    "P22_Pot_0__tripo_node_99979041",
+    "P22_Pot_1__tripo_node_99979041"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P22",
+      "name": "P22_Pot_0",
+      "model_id": "9e783e7b-1683-4967-84a7-4cd91dffc146",
+      "actual_dimensions_m": [
+        0.4200000762939453,
+        0.3133068084716797,
+        0.18978995084762573
+      ],
+      "bbox_m": {
+        "min": [
+          3.690000057220459,
+          8.178680419921875,
+          0.9879999756813049
+        ],
+        "max": [
+          4.110000133514404,
+          8.491987228393555,
+          1.1777899265289307
+        ]
+      },
+      "base_position_world_m": [
+        3.9000000953674316,
+        8.335333824157715,
+        0.9879999756813049
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    },
+    {
+      "id": "P22",
+      "name": "P22_Pot_1",
+      "model_id": "9e783e7b-1683-4967-84a7-4cd91dffc146",
+      "actual_dimensions_m": [
+        0.4200000762939453,
+        0.3133068084716797,
+        0.18978989124298096
+      ],
+      "bbox_m": {
+        "min": [
+          1.7699999809265137,
+          8.362207412719727,
+          0.9270000457763672
+        ],
+        "max": [
+          2.190000057220459,
+          8.675514221191406,
+          1.1167899370193481
+        ]
+      },
+      "base_position_world_m": [
+        1.9800000190734863,
+        8.518860816955566,
+        0.9270000457763672
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

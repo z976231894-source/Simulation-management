@@ -1,0 +1,155 @@
+{
+  "asset_id": "P19_kitchen_faucet",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P19_kitchen_faucet\\P19_kitchen_faucet_static.blend",
+  "source_sha256_before": "9bd86f33c1a702785e301e6774d42c6dcb92eab3a4bd87d1a3ba87ec593c9da6",
+  "source_sha256_after": "9bd86f33c1a702785e301e6774d42c6dcb92eab3a4bd87d1a3ba87ec593c9da6",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_0ec11496",
+        "vertices": 8182,
+        "triangles": 9348,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_0ec11496"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 8182,
+    "triangles": 9348,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_ca7c4ed9-5bec-4f24-9f96-5b65c72dd1b1",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          4096,
+          4096
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.1295270472764969,
+        -0.1785467118024826,
+        0.0
+      ],
+      "max": [
+        0.1295270472764969,
+        0.1785467118024826,
+        0.35500001907348633
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_ca7c4ed9-5bec-4f24-9f96-5b65c72dd1b1",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P19_kitchen_faucet\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "sha256": "dda0ec611c9fecb87f8d5a5ad53c2ffd150705d4f4dd85f50111aea1d095b414"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_0ec11496",
+        "vertices": 8182,
+        "triangles": 9348,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_0ec11496"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 8182,
+    "triangles": 9348,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_ca7c4ed9-5bec-4f24-9f96-5b65c72dd1b1",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P19_kitchen_faucet\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.12952707707881927,
+        -0.178546741604805,
+        -2.110263608301466e-08
+      ],
+      "max": [
+        0.12952713668346405,
+        0.178546741604805,
+        0.3550000786781311
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P19_kitchen_faucet\\P19_kitchen_faucet_Editable.blend",
+      "bytes": 5439058,
+      "sha256": "b418c923b6281ce778379562e9f4e48f95437562fb367cf11645c8abd6586f6e",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P19_kitchen_faucet\\P19_kitchen_faucet_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P19_kitchen_faucet\\P19_kitchen_faucet_Engine.fbx",
+      "bytes": 884124,
+      "sha256": "4e53cb244e0c4ed47cb1448ad7493ad42a6d4b37fbcb25631fbb98235df7f9fa",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P19_kitchen_faucet\\P19_kitchen_faucet_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P19_kitchen_faucet\\Textures\\Tex_00.jpg",
+      "bytes": 4113252,
+      "sha256": "dda0ec611c9fecb87f8d5a5ad53c2ffd150705d4f4dd85f50111aea1d095b414",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P19_kitchen_faucet\\P19_kitchen_faucet_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P19_kitchen_faucet\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "593fd3a0682a4c9d5099d90112010649faafe189499aa769b0a6bdae5ef6c6e2",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_ca7c4ed9-5bec-4f24-9f96-5b65c72dd1b1",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

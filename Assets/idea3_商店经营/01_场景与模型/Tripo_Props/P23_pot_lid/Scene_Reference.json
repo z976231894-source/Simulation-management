@@ -1,0 +1,71 @@
+{
+  "asset_id": "P23_pot_lid",
+  "model_id": "4b8a79b2-266d-4743-b57d-8ddf6605de97",
+  "matching_mesh_material_uuid": [
+    "P23_Lid_0__tripo_node_555afa1b",
+    "P23_Lid_1__tripo_node_555afa1b"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P23",
+      "name": "P23_Lid_0",
+      "model_id": "4b8a79b2-266d-4743-b57d-8ddf6605de97",
+      "actual_dimensions_m": [
+        0.3039999008178711,
+        0.3040008544921875,
+        0.10588765144348145
+      ],
+      "bbox_m": {
+        "min": [
+          3.498000144958496,
+          8.368000030517578,
+          1.1777899265289307
+        ],
+        "max": [
+          3.802000045776367,
+          8.672000885009766,
+          1.283677577972412
+        ]
+      },
+      "base_position_world_m": [
+        3.6500000953674316,
+        8.520000457763672,
+        1.1777899265289307
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    },
+    {
+      "id": "P23",
+      "name": "P23_Lid_1",
+      "model_id": "4b8a79b2-266d-4743-b57d-8ddf6605de97",
+      "actual_dimensions_m": [
+        0.3039999008178711,
+        0.3040008544921875,
+        0.10588765144348145
+      ],
+      "bbox_m": {
+        "min": [
+          1.5780000686645508,
+          8.507999420166016,
+          1.1167899370193481
+        ],
+        "max": [
+          1.8819999694824219,
+          8.812000274658203,
+          1.2226775884628296
+        ]
+      },
+      "base_position_world_m": [
+        1.7300000190734863,
+        8.65999984741211,
+        1.1167899370193481
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

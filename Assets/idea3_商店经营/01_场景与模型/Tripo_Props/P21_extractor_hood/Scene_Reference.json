@@ -1,0 +1,71 @@
+{
+  "asset_id": "P21_extractor_hood",
+  "model_id": "7e5bd29f-669b-46e1-b546-0b95b46776f7",
+  "matching_mesh_material_uuid": [
+    "P21_Hood__tripo_node_ce316117",
+    "P21_Hood_Fryer__tripo_node_ce316117"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P21",
+      "name": "P21_Hood",
+      "model_id": "7e5bd29f-669b-46e1-b546-0b95b46776f7",
+      "actual_dimensions_m": [
+        1.4969844818115234,
+        0.7554397583007812,
+        0.8899999856948853
+      ],
+      "bbox_m": {
+        "min": [
+          2.5015077590942383,
+          8.09928035736084,
+          1.8600000143051147
+        ],
+        "max": [
+          3.9984922409057617,
+          8.854720115661621,
+          2.75
+        ]
+      },
+      "base_position_world_m": [
+        3.25,
+        8.47700023651123,
+        1.8600000143051147
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    },
+    {
+      "id": "P21",
+      "name": "P21_Hood_Fryer",
+      "model_id": "7e5bd29f-669b-46e1-b546-0b95b46776f7",
+      "actual_dimensions_m": [
+        1.4969844818115234,
+        0.7554397583007812,
+        0.8899999856948853
+      ],
+      "bbox_m": {
+        "min": [
+          4.15150785446167,
+          8.09928035736084,
+          1.8600000143051147
+        ],
+        "max": [
+          5.648492336273193,
+          8.854720115661621,
+          2.75
+        ]
+      },
+      "base_position_world_m": [
+        4.900000095367432,
+        8.47700023651123,
+        1.8600000143051147
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

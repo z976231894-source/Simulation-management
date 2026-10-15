@@ -1,0 +1,155 @@
+{
+  "asset_id": "P58_large_burger_half",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P58_large_burger_half\\P58_large_burger_half_static.blend",
+  "source_sha256_before": "c059307cfff8afe0823b71fdb6204096689e75efe917c3e61a153cb9d7f192c6",
+  "source_sha256_after": "c059307cfff8afe0823b71fdb6204096689e75efe917c3e61a153cb9d7f192c6",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_fade6e1d",
+        "vertices": 3381,
+        "triangles": 2820,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_fade6e1d"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 3381,
+    "triangles": 2820,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_99c6bd4d-a4c3-40e8-a587-295c3674e2eb",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.06600000709295273,
+        -0.04755740240216255,
+        0.0
+      ],
+      "max": [
+        0.06600000709295273,
+        0.04755740240216255,
+        0.09330923855304718
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_99c6bd4d-a4c3-40e8-a587-295c3674e2eb",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P58_large_burger_half\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "986a31e8eae04091c892899417cb6a056667de8075a23f577c11dacd011a5869"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_fade6e1d",
+        "vertices": 3381,
+        "triangles": 2820,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_fade6e1d"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 3381,
+    "triangles": 2820,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_99c6bd4d-a4c3-40e8-a587-295c3674e2eb",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P58_large_burger_half\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.06599999964237213,
+        -0.04755739867687225,
+        -7.748083952208162e-09
+      ],
+      "max": [
+        0.06599999964237213,
+        0.04755741357803345,
+        0.09330923110246658
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P58_large_burger_half\\P58_large_burger_half_Editable.blend",
+      "bytes": 8461416,
+      "sha256": "fb890e48a8b03206e2580eabf7a7f27638bc0f3bfbc6f53eee7a2d4ba49b7c70",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P58_large_burger_half\\P58_large_burger_half_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P58_large_burger_half\\P58_large_burger_half_Engine.fbx",
+      "bytes": 590780,
+      "sha256": "49608c3b0944ce2060124125733ed8598869f6d22d25ce4365761727d0de4305",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P58_large_burger_half\\P58_large_burger_half_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P58_large_burger_half\\Textures\\Tex_00.jpg",
+      "bytes": 7758111,
+      "sha256": "986a31e8eae04091c892899417cb6a056667de8075a23f577c11dacd011a5869",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P58_large_burger_half\\P58_large_burger_half_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P58_large_burger_half\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "331cbf5988f855c1df2e4242e70c2fb61d77c5d04c8b8192b727d4f53fbd7c26",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_99c6bd4d-a4c3-40e8-a587-295c3674e2eb",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

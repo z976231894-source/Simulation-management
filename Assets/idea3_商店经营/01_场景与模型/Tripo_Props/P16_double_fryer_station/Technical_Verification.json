@@ -1,0 +1,155 @@
+{
+  "asset_id": "P16_double_fryer_station",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P16_double_fryer_station\\P16_double_fryer_station_static.blend",
+  "source_sha256_before": "40ec8a6634a92d20594e5acee649e3686b3f4cbeb8ecae43feaf95ca117ab875",
+  "source_sha256_after": "40ec8a6634a92d20594e5acee649e3686b3f4cbeb8ecae43feaf95ca117ab875",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_ba8c2a56",
+        "vertices": 9632,
+        "triangles": 8674,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_ba8c2a56"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 9632,
+    "triangles": 8674,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_2a467e5e-093f-435b-86dc-665b2405c998",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          4096,
+          4096
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.6325000524520874,
+        -0.4254775941371918,
+        0.0
+      ],
+      "max": [
+        0.6325000524520874,
+        0.4254775941371918,
+        1.0449999570846558
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_2a467e5e-093f-435b-86dc-665b2405c998",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P16_double_fryer_station\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "sha256": "5d0cff2e0e2c0de59742fbcd2693f0fd07af6e66b139159036a54b9820477bb3"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_ba8c2a56",
+        "vertices": 9632,
+        "triangles": 8674,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_ba8c2a56"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 9632,
+    "triangles": 8674,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_2a467e5e-093f-435b-86dc-665b2405c998",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P16_double_fryer_station\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.6325000524520874,
+        -0.42547765374183655,
+        -1.0304733422117351e-07
+      ],
+      "max": [
+        0.6325002312660217,
+        0.42547765374183655,
+        1.0450000762939453
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P16_double_fryer_station\\P16_double_fryer_station_Editable.blend",
+      "bytes": 5908227,
+      "sha256": "077103cbad04667c0ce46e0814731b7a0837301b79142321701496e1cb7e9c80",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P16_double_fryer_station\\P16_double_fryer_station_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P16_double_fryer_station\\P16_double_fryer_station_Engine.fbx",
+      "bytes": 798012,
+      "sha256": "355464923031ee7360e41e4467ab7d94c2559a90336c00723ffe6d95a7aeca67",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P16_double_fryer_station\\P16_double_fryer_station_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P16_double_fryer_station\\Textures\\Tex_00.jpg",
+      "bytes": 4609512,
+      "sha256": "5d0cff2e0e2c0de59742fbcd2693f0fd07af6e66b139159036a54b9820477bb3",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P16_double_fryer_station\\P16_double_fryer_station_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P16_double_fryer_station\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "fe4acf1826ba2e5318fa404010f0f0e9f18604aeafa1441f992ac04b66a0df25",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_2a467e5e-093f-435b-86dc-665b2405c998",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

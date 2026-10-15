@@ -1,0 +1,131 @@
+{
+  "asset_id": "P24_metal_storage_shelf",
+  "model_id": "b6fab7a1-84ef-4e09-9993-c0c79af74532",
+  "matching_mesh_material_uuid": [
+    "P24_Cold_1__tripo_node_96e1f6de",
+    "P24_Cold_2__tripo_node_96e1f6de",
+    "P24_West_1__tripo_node_96e1f6de",
+    "P24_West_2__tripo_node_96e1f6de"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P24",
+      "name": "P24_West_1",
+      "model_id": "b6fab7a1-84ef-4e09-9993-c0c79af74532",
+      "actual_dimensions_m": [
+        0.598617672920227,
+        1.3767318725585938,
+        1.8100000619888306
+      ],
+      "bbox_m": {
+        "min": [
+          0.1456911563873291,
+          5.546634197235107,
+          0.0
+        ],
+        "max": [
+          0.7443088293075562,
+          6.923366069793701,
+          1.8100000619888306
+        ]
+      },
+      "base_position_world_m": [
+        0.4449999928474426,
+        6.235000133514404,
+        0.0
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    },
+    {
+      "id": "P24",
+      "name": "P24_West_2",
+      "model_id": "b6fab7a1-84ef-4e09-9993-c0c79af74532",
+      "actual_dimensions_m": [
+        0.598617672920227,
+        1.3767318725585938,
+        1.8100000619888306
+      ],
+      "bbox_m": {
+        "min": [
+          0.1456911563873291,
+          7.01163387298584,
+          0.0
+        ],
+        "max": [
+          0.7443088293075562,
+          8.388365745544434,
+          1.8100000619888306
+        ]
+      },
+      "base_position_world_m": [
+        0.4449999928474426,
+        7.699999809265137,
+        0.0
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    },
+    {
+      "id": "P24",
+      "name": "P24_Cold_1",
+      "model_id": "b6fab7a1-84ef-4e09-9993-c0c79af74532",
+      "actual_dimensions_m": [
+        1.3767318725585938,
+        0.5986175537109375,
+        1.8100000619888306
+      ],
+      "bbox_m": {
+        "min": [
+          8.641633987426758,
+          8.200691223144531,
+          0.0
+        ],
+        "max": [
+          10.018365859985352,
+          8.799308776855469,
+          1.8100000619888306
+        ]
+      },
+      "base_position_world_m": [
+        9.329999923706055,
+        8.5,
+        0.0
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "C_Cold"
+    },
+    {
+      "id": "P24",
+      "name": "P24_Cold_2",
+      "model_id": "b6fab7a1-84ef-4e09-9993-c0c79af74532",
+      "actual_dimensions_m": [
+        1.3767318725585938,
+        0.5986175537109375,
+        1.8100000619888306
+      ],
+      "bbox_m": {
+        "min": [
+          10.16163444519043,
+          8.200691223144531,
+          0.0
+        ],
+        "max": [
+          11.538366317749023,
+          8.799308776855469,
+          1.8100000619888306
+        ]
+      },
+      "base_position_world_m": [
+        10.850000381469727,
+        8.5,
+        0.0
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "C_Cold"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

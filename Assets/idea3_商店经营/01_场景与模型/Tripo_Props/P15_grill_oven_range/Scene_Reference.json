@@ -1,0 +1,41 @@
+{
+  "asset_id": "P15_grill_oven_range",
+  "model_id": "a7caf2ba-42f3-40af-8d47-5d6895b3ed81",
+  "matching_mesh_material_uuid": [
+    "P15_Grill__tripo_node_485815da"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P15",
+      "name": "P15_Grill",
+      "model_id": "a7caf2ba-42f3-40af-8d47-5d6895b3ed81",
+      "actual_dimensions_m": [
+        1.8877677917480469,
+        1.0393333435058594,
+        0.9839999675750732
+      ],
+      "bbox_m": {
+        "min": [
+          2.3061161041259766,
+          7.815667152404785,
+          0.0
+        ],
+        "max": [
+          4.193883895874023,
+          8.855000495910645,
+          0.9839999675750732
+        ]
+      },
+      "base_position_world_m": [
+        3.25,
+        8.335333824157715,
+        0.0
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

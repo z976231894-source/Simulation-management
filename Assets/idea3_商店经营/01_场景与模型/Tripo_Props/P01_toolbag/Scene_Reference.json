@@ -1,0 +1,11 @@
+{
+  "asset_id": "P01_toolbag",
+  "model_id": null,
+  "matching_mesh_material_uuid": [
+    "Toolbag_Memory__f1d2d588_0ca6_49df_8607_031a5a8d2514"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [],
+  "proven_referenced": true,
+  "current_active": true
+}

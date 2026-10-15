@@ -1,0 +1,11 @@
+{
+  "asset_id": "P02_register",
+  "model_id": null,
+  "matching_mesh_material_uuid": [
+    "Register_Counter__tripo_379004fc_02de_4e3c_a34a_56298118c91a"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [],
+  "proven_referenced": true,
+  "current_active": true
+}

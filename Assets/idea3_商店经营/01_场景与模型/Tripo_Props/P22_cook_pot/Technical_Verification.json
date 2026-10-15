@@ -1,0 +1,155 @@
+{
+  "asset_id": "P22_cook_pot",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P22_cook_pot\\P22_cook_pot_static.blend",
+  "source_sha256_before": "772e180ed21a938a61782277cb688517d8138e6bdda267f714436e6f005b2002",
+  "source_sha256_after": "772e180ed21a938a61782277cb688517d8138e6bdda267f714436e6f005b2002",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_99979041",
+        "vertices": 3745,
+        "triangles": 3708,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_99979041"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 3745,
+    "triangles": 3708,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_f9d7e3c3-9661-4d9f-accc-4243c44e018a",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.21000000834465027,
+        -0.15665365755558014,
+        0.0
+      ],
+      "max": [
+        0.21000000834465027,
+        0.15665365755558014,
+        0.18978993594646454
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_f9d7e3c3-9661-4d9f-accc-4243c44e018a",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P22_cook_pot\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "62ab79626bffcf79db18ac41395697002f7de67c6bf2a8d6b6ebaca270e3aaaf"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_99979041",
+        "vertices": 3745,
+        "triangles": 3708,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_99979041"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 3745,
+    "triangles": 3708,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_f9d7e3c3-9661-4d9f-accc-4243c44e018a",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P22_cook_pot\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.21000002324581146,
+        -0.15665368735790253,
+        -3.4213339716870905e-08
+      ],
+      "max": [
+        0.21000005304813385,
+        0.15665368735790253,
+        0.18978996574878693
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P22_cook_pot\\P22_cook_pot_Editable.blend",
+      "bytes": 15685695,
+      "sha256": "fa0f3b78f3e37bec1a3254f00a7061b1caac789c734134daf4ef951b3e476aca",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P22_cook_pot\\P22_cook_pot_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P22_cook_pot\\P22_cook_pot_Engine.fbx",
+      "bytes": 583820,
+      "sha256": "51df4898f8283105cd0ff220532cad4058dad011b530d6187bd1a4cfcb2fc9e5",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P22_cook_pot\\P22_cook_pot_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P22_cook_pot\\Textures\\Tex_00.jpg",
+      "bytes": 14903096,
+      "sha256": "62ab79626bffcf79db18ac41395697002f7de67c6bf2a8d6b6ebaca270e3aaaf",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P22_cook_pot\\P22_cook_pot_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P22_cook_pot\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "54bead7c60c58425ca60f34758d0ab12afbe450d5d9cc3f625fc250105f96a9e",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_f9d7e3c3-9661-4d9f-accc-4243c44e018a",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

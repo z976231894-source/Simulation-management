@@ -1,0 +1,155 @@
+{
+  "asset_id": "P90_corner_tree",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P90_corner_tree\\P90_corner_tree_static.blend",
+  "source_sha256_before": "b920c25524ae24323129235f0d3db837f2ff2bf6dbd10aa42d10e4e10f408567",
+  "source_sha256_after": "b920c25524ae24323129235f0d3db837f2ff2bf6dbd10aa42d10e4e10f408567",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_ce09a1a5",
+        "vertices": 11254,
+        "triangles": 11476,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_ce09a1a5"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 11254,
+    "triangles": 11476,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_dd511867-c183-4f97-9fc9-60a315ea7fe4",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -1.352808952331543,
+        -2.5264289379119873,
+        0.0
+      ],
+      "max": [
+        1.352808952331543,
+        2.5264289379119873,
+        5.599999904632568
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_dd511867-c183-4f97-9fc9-60a315ea7fe4",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P90_corner_tree\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "c012515bbe9b2c3b25602ff3b489df9ec5c2050fe5dc2f77de04ae9926c2ee51"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_ce09a1a5",
+        "vertices": 11254,
+        "triangles": 11476,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_ce09a1a5"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 11254,
+    "triangles": 11476,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_dd511867-c183-4f97-9fc9-60a315ea7fe4",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P90_corner_tree\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -1.352808952331543,
+        -2.5264289379119873,
+        -4.1160751607094426e-07
+      ],
+      "max": [
+        1.352808952331543,
+        2.5264298915863037,
+        5.600000381469727
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P90_corner_tree\\P90_corner_tree_Editable.blend",
+      "bytes": 10119018,
+      "sha256": "bfb75e6a01220095f7f11eeea0733e7844ac56dde153ed7f78d292ce8e57d506",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P90_corner_tree\\P90_corner_tree_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P90_corner_tree\\P90_corner_tree_Engine.fbx",
+      "bytes": 963340,
+      "sha256": "ef9731ddba0885ddcefc234ac84773dd178b6b99091d3c0cb40542a16ad6ca75",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P90_corner_tree\\P90_corner_tree_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P90_corner_tree\\Textures\\Tex_00.jpg",
+      "bytes": 8562424,
+      "sha256": "c012515bbe9b2c3b25602ff3b489df9ec5c2050fe5dc2f77de04ae9926c2ee51",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P90_corner_tree\\P90_corner_tree_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P90_corner_tree\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "b310e669e61e7d8b98b8d79d458db72599e08e78028168b03bc27d5e9b0b930e",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_dd511867-c183-4f97-9fc9-60a315ea7fe4",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

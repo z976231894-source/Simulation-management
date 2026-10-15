@@ -1,0 +1,155 @@
+{
+  "asset_id": "P07_metal_chair",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P07_metal_chair\\P07_metal_chair_static.blend",
+  "source_sha256_before": "f88961c4c14fce1bf6230ac09005e9f108e000a060e1234b475d2ca4250ee3c8",
+  "source_sha256_after": "f88961c4c14fce1bf6230ac09005e9f108e000a060e1234b475d2ca4250ee3c8",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_9fe9ae6e_5b05_4bb3_9790_b2ecf9c93a92",
+        "vertices": 5974,
+        "triangles": 6119,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_9fe9ae6e_5b05_4bb3_9790_b2ecf9c93a92"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 5974,
+    "triangles": 6119,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_b058ccc4-f525-40c6-b839-984b4d3e2b89",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          4096,
+          4096
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.26430144906044006,
+        -0.28174158930778503,
+        2.9802322387695312e-08
+      ],
+      "max": [
+        0.26430144906044006,
+        0.28174158930778503,
+        0.8500000238418579
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_b058ccc4-f525-40c6-b839-984b4d3e2b89",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P07_metal_chair\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "sha256": "59c362ef936732882212a8146789716158ccffe1753e5933ae893dc6f02c58cf"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_9fe9ae6e_5b05_4bb3_9790_b2ecf9c93a92",
+        "vertices": 5974,
+        "triangles": 6119,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_9fe9ae6e_5b05_4bb3_9790_b2ecf9c93a92"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 5974,
+    "triangles": 6119,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_b058ccc4-f525-40c6-b839-984b4d3e2b89",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P07_metal_chair\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.26430150866508484,
+        -0.28174158930778503,
+        1.6544484893188383e-08
+      ],
+      "max": [
+        0.26430150866508484,
+        0.28174158930778503,
+        0.8499999642372131
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P07_metal_chair\\P07_metal_chair_Editable.blend",
+      "bytes": 3606495,
+      "sha256": "60e3cc9b3d37c629386f71d59e90d8ff11731b20c76c53718e7ba83d250f4f61",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P07_metal_chair\\P07_metal_chair_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P07_metal_chair\\P07_metal_chair_Engine.fbx",
+      "bytes": 640876,
+      "sha256": "9a2c58017559dd4c29393a46e61f228051daf075295143b6fb99892ba3a67074",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P07_metal_chair\\P07_metal_chair_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P07_metal_chair\\Textures\\Tex_00.jpg",
+      "bytes": 2585214,
+      "sha256": "59c362ef936732882212a8146789716158ccffe1753e5933ae893dc6f02c58cf",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P07_metal_chair\\P07_metal_chair_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P07_metal_chair\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "b245233f7c38fea8fbba2978fa96eebec4003c2ec46b6d166613f1e7f00dd4e1",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_b058ccc4-f525-40c6-b839-984b4d3e2b89",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

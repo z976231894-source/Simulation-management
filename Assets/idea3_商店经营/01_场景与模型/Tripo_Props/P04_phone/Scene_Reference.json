@@ -1,0 +1,11 @@
+{
+  "asset_id": "P04_phone",
+  "model_id": null,
+  "matching_mesh_material_uuid": [
+    "Phone_Staff__e92c40eb_d027_4c3a_8f38_55cd4f0024ea"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [],
+  "proven_referenced": true,
+  "current_active": true
+}

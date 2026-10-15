@@ -1,0 +1,41 @@
+{
+  "asset_id": "P81_alley_bin",
+  "model_id": "decf98c5-708b-45aa-9728-34eca5c54a09",
+  "matching_mesh_material_uuid": [
+    "P81_Alley_Bin__tripo_node_a686a0b6"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P81",
+      "name": "P81_Alley_Bin",
+      "model_id": "decf98c5-708b-45aa-9728-34eca5c54a09",
+      "actual_dimensions_m": [
+        0.6450176239013672,
+        0.7835919857025146,
+        0.7300000190734863
+      ],
+      "bbox_m": {
+        "min": [
+          14.307491302490234,
+          0.8082040548324585,
+          0.010999999940395355
+        ],
+        "max": [
+          14.952508926391602,
+          1.5917960405349731,
+          0.7409999966621399
+        ]
+      },
+      "base_position_world_m": [
+        14.630000114440918,
+        1.2000000476837158,
+        0.010999999940395355
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "E_Alley"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

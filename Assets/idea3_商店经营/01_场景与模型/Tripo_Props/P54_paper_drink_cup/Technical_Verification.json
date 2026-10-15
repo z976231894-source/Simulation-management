@@ -1,0 +1,155 @@
+{
+  "asset_id": "P54_paper_drink_cup",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P54_paper_drink_cup\\P54_paper_drink_cup_static.blend",
+  "source_sha256_before": "f285ccf1fe8e3d9c149849feda24a7a7677d2e20e249e49062e3c6de0991cab6",
+  "source_sha256_after": "f285ccf1fe8e3d9c149849feda24a7a7677d2e20e249e49062e3c6de0991cab6",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_5a7ef474",
+        "vertices": 933,
+        "triangles": 1056,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_5a7ef474"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 933,
+    "triangles": 1056,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_2a97784b-83a2-4f7b-abde-769f349c48fc",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.052716657519340515,
+        -0.052716657519340515,
+        0.0
+      ],
+      "max": [
+        0.052716657519340515,
+        0.052716657519340515,
+        0.11800000071525574
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_2a97784b-83a2-4f7b-abde-769f349c48fc",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P54_paper_drink_cup\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "46fb2079682163f0094aeace6c18f7847d73f55ef7a4db5cdd246d28593ccf4f"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_5a7ef474",
+        "vertices": 933,
+        "triangles": 1056,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_5a7ef474"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 933,
+    "triangles": 1056,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_2a97784b-83a2-4f7b-abde-769f349c48fc",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P54_paper_drink_cup\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.05271665379405022,
+        -0.052716661244630814,
+        -3.979996776592998e-09
+      ],
+      "max": [
+        0.05271665379405022,
+        0.05271665379405022,
+        0.11800000071525574
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P54_paper_drink_cup\\P54_paper_drink_cup_Editable.blend",
+      "bytes": 9369695,
+      "sha256": "25256b6e0d19752e4768df9c8acc11187f7cbb708aa9fd246e56afb08565de94",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P54_paper_drink_cup\\P54_paper_drink_cup_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P54_paper_drink_cup\\P54_paper_drink_cup_Engine.fbx",
+      "bytes": 332236,
+      "sha256": "a432310e015f9d949e1129d37ea352b9bd7fa6655a22142d4bdda0cfa687526e",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P54_paper_drink_cup\\P54_paper_drink_cup_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P54_paper_drink_cup\\Textures\\Tex_00.jpg",
+      "bytes": 8856238,
+      "sha256": "46fb2079682163f0094aeace6c18f7847d73f55ef7a4db5cdd246d28593ccf4f",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P54_paper_drink_cup\\P54_paper_drink_cup_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P54_paper_drink_cup\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "6f4bde51f4faccc484dabe2b2a3b7e9cd75ea0b83c241da6cf66b83b103d0da4",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_2a97784b-83a2-4f7b-abde-769f349c48fc",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

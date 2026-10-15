@@ -1,0 +1,71 @@
+{
+  "asset_id": "P90_corner_tree",
+  "model_id": "4d4c3e42-3c1b-4a1a-95f5-2a1a73847429",
+  "matching_mesh_material_uuid": [
+    "P90_Alley_Distant_Tree__tripo_node_ce09a1a5",
+    "P90_Maple_Corner_Tree__tripo_node_ce09a1a5"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P90",
+      "name": "P90_Maple_Corner_Tree",
+      "model_id": "4d4c3e42-3c1b-4a1a-95f5-2a1a73847429",
+      "actual_dimensions_m": [
+        2.705617904663086,
+        5.052857875823975,
+        5.599999904632568
+      ],
+      "bbox_m": {
+        "min": [
+          -3.652808904647827,
+          -1.5264289379119873,
+          0.0
+        ],
+        "max": [
+          -0.9471909999847412,
+          3.5264289379119873,
+          5.599999904632568
+        ]
+      },
+      "base_position_world_m": [
+        -2.299999952316284,
+        1.0,
+        0.0
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "Context_Nonplayable"
+    },
+    {
+      "id": "P90",
+      "name": "P90_Alley_Distant_Tree",
+      "model_id": "4d4c3e42-3c1b-4a1a-95f5-2a1a73847429",
+      "actual_dimensions_m": [
+        2.2997751235961914,
+        4.294929504394531,
+        4.759999752044678
+      ],
+      "bbox_m": {
+        "min": [
+          15.150111198425293,
+          8.552535057067871,
+          0.0
+        ],
+        "max": [
+          17.449886322021484,
+          12.847464561462402,
+          4.759999752044678
+        ]
+      },
+      "base_position_world_m": [
+        16.299999237060547,
+        10.699999809265137,
+        0.0
+      ],
+      "uniform_instance_scale": 0.85,
+      "zone": "Context_Nonplayable"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

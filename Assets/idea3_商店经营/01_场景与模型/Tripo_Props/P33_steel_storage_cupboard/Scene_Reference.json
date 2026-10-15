@@ -1,0 +1,41 @@
+{
+  "asset_id": "P33_steel_storage_cupboard",
+  "model_id": "43056518-1fdd-4b6f-9032-0214751c8d82",
+  "matching_mesh_material_uuid": [
+    "P33_Cold_Cupboard__tripo_node_407fbcaf"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P33",
+      "name": "P33_Cold_Cupboard",
+      "model_id": "43056518-1fdd-4b6f-9032-0214751c8d82",
+      "actual_dimensions_m": [
+        0.5807533264160156,
+        0.9371767044067383,
+        1.600000023841858
+      ],
+      "bbox_m": {
+        "min": [
+          11.2736234664917,
+          6.951411724090576,
+          0.0
+        ],
+        "max": [
+          11.854376792907715,
+          7.8885884284973145,
+          1.600000023841858
+        ]
+      },
+      "base_position_world_m": [
+        11.564000129699707,
+        7.420000076293945,
+        0.0
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "C_Cold"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

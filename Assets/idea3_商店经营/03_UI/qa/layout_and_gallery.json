@@ -1,0 +1,100 @@
+{
+  "screens": [
+    {
+      "id": "01_MainMenu",
+      "text_nodes": 19,
+      "viewport_overflow": []
+    },
+    {
+      "id": "02_Planning",
+      "text_nodes": 67,
+      "viewport_overflow": []
+    },
+    {
+      "id": "03_RecipeBook",
+      "text_nodes": 49,
+      "viewport_overflow": []
+    },
+    {
+      "id": "04_LiveService",
+      "text_nodes": 39,
+      "viewport_overflow": []
+    },
+    {
+      "id": "05_TakeOrder",
+      "text_nodes": 36,
+      "viewport_overflow": []
+    },
+    {
+      "id": "06_GrillCooking",
+      "text_nodes": 36,
+      "viewport_overflow": []
+    },
+    {
+      "id": "07_Toppings",
+      "text_nodes": 41,
+      "viewport_overflow": []
+    },
+    {
+      "id": "08_CarryServe",
+      "text_nodes": 37,
+      "viewport_overflow": []
+    },
+    {
+      "id": "09_OrderBook",
+      "text_nodes": 34,
+      "viewport_overflow": []
+    },
+    {
+      "id": "10_Closing",
+      "text_nodes": 33,
+      "viewport_overflow": []
+    },
+    {
+      "id": "11_ShiftSummary",
+      "text_nodes": 38,
+      "viewport_overflow": []
+    },
+    {
+      "id": "12_Upgrades",
+      "text_nodes": 27,
+      "viewport_overflow": []
+    },
+    {
+      "id": "13_Pause",
+      "text_nodes": 14,
+      "viewport_overflow": []
+    },
+    {
+      "id": "14_Settings",
+      "text_nodes": 40,
+      "viewport_overflow": []
+    },
+    {
+      "id": "15_HowToPlay",
+      "text_nodes": 40,
+      "viewport_overflow": []
+    },
+    {
+      "id": "16_LowFunds",
+      "text_nodes": 26,
+      "viewport_overflow": []
+    },
+    {
+      "id": "17_StateConfirmations",
+      "text_nodes": 50,
+      "viewport_overflow": []
+    },
+    {
+      "id": "18_Components",
+      "text_nodes": 60,
+      "viewport_overflow": []
+    }
+  ],
+  "gallery": {
+    "dialog_open": true,
+    "title": "02 Planning",
+    "screen_cards": 18,
+    "filtered_boards": 2
+  }
+}

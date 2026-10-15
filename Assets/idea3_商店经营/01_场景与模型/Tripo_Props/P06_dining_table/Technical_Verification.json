@@ -1,0 +1,155 @@
+{
+  "asset_id": "P06_dining_table",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P06_dining_table\\P06_dining_table_static.blend",
+  "source_sha256_before": "ed6f785ed1c5a326c24bc8436e876693a1814bed4006668058f02fa67c6da316",
+  "source_sha256_after": "ed6f785ed1c5a326c24bc8436e876693a1814bed4006668058f02fa67c6da316",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_85c8d57b_90c0_4a94_9a93_7c464a234fb3",
+        "vertices": 4139,
+        "triangles": 3841,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_85c8d57b_90c0_4a94_9a93_7c464a234fb3"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 4139,
+    "triangles": 3841,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_9a6bb992-6f47-46ef-a2d4-c7285fb33857",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          4096,
+          4096
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.3935472071170807,
+        -0.3954792022705078,
+        0.0
+      ],
+      "max": [
+        0.3935472071170807,
+        0.3954792022705078,
+        0.75
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_9a6bb992-6f47-46ef-a2d4-c7285fb33857",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P06_dining_table\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "sha256": "9f2b5b36d6cb4a803edaa1025361e789719d0bcb2b8e2e6cf26f0322d06039f7"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_85c8d57b_90c0_4a94_9a93_7c464a234fb3",
+        "vertices": 4139,
+        "triangles": 3841,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_85c8d57b_90c0_4a94_9a93_7c464a234fb3"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 4139,
+    "triangles": 3841,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_9a6bb992-6f47-46ef-a2d4-c7285fb33857",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P06_dining_table\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.3935472369194031,
+        -0.3954792022705078,
+        1.2599833176807351e-08
+      ],
+      "max": [
+        0.3935472369194031,
+        0.3954792022705078,
+        0.75
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P06_dining_table\\P06_dining_table_Editable.blend",
+      "bytes": 3979378,
+      "sha256": "07e80c458b824ca0b393bc81dc48a646ccecfd682550b10c89434eeab0112673",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P06_dining_table\\P06_dining_table_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P06_dining_table\\P06_dining_table_Engine.fbx",
+      "bytes": 558412,
+      "sha256": "c65f8c0be6add5476a5fdfc18bdb98fdb3c519653e6a3a4a336b674f4871fefb",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P06_dining_table\\P06_dining_table_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P06_dining_table\\Textures\\Tex_00.jpg",
+      "bytes": 3178086,
+      "sha256": "9f2b5b36d6cb4a803edaa1025361e789719d0bcb2b8e2e6cf26f0322d06039f7",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v2\\P06_dining_table\\P06_dining_table_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P06_dining_table\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "310db99fb02df4450464c9c383e3ed90e1d5f40527f3c927f2ba1475e8a910b6",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_9a6bb992-6f47-46ef-a2d4-c7285fb33857",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

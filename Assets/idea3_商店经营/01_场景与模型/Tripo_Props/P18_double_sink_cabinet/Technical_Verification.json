@@ -1,0 +1,155 @@
+{
+  "asset_id": "P18_double_sink_cabinet",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P18_double_sink_cabinet\\P18_double_sink_cabinet_static.blend",
+  "source_sha256_before": "bd83a804eeb0b3c3259bcb6977924b19a26dc17d9376f7542c491d76f6a965e0",
+  "source_sha256_after": "bd83a804eeb0b3c3259bcb6977924b19a26dc17d9376f7542c491d76f6a965e0",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_e39f56ad",
+        "vertices": 11069,
+        "triangles": 10680,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_e39f56ad"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 11069,
+    "triangles": 10680,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_bc5ec40b-4acf-4cc6-b269-973b2b0a2188",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          4096,
+          4096
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.726572573184967,
+        -0.39292430877685547,
+        0.0
+      ],
+      "max": [
+        0.726572573184967,
+        0.39292430877685547,
+        0.968999981880188
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_bc5ec40b-4acf-4cc6-b269-973b2b0a2188",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P18_double_sink_cabinet\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "sha256": "58ba651015a3ac73319555bc4d2408a069ecfec9ed7159ae230378c7df2de4ef"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_e39f56ad",
+        "vertices": 11069,
+        "triangles": 10680,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_e39f56ad"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 11069,
+    "triangles": 10680,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_bc5ec40b-4acf-4cc6-b269-973b2b0a2188",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P18_double_sink_cabinet\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.726572573184967,
+        -0.39292436838150024,
+        -3.175948748435076e-08
+      ],
+      "max": [
+        0.7265726327896118,
+        0.39292436838150024,
+        0.968999981880188
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P18_double_sink_cabinet\\P18_double_sink_cabinet_Editable.blend",
+      "bytes": 4528056,
+      "sha256": "0fc39d4d24ed72bc9cba939bd0636b09ed6f851f1b0615d885564a46c7b809fb",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P18_double_sink_cabinet\\P18_double_sink_cabinet_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P18_double_sink_cabinet\\P18_double_sink_cabinet_Engine.fbx",
+      "bytes": 772332,
+      "sha256": "6be3c5100bc05435beb11f81b16c1ebbb865ddfa9ab01620dbabb6808f8cfd54",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P18_double_sink_cabinet\\P18_double_sink_cabinet_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P18_double_sink_cabinet\\Textures\\Tex_00.jpg",
+      "bytes": 3039101,
+      "sha256": "58ba651015a3ac73319555bc4d2408a069ecfec9ed7159ae230378c7df2de4ef",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P18_double_sink_cabinet\\P18_double_sink_cabinet_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P18_double_sink_cabinet\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "b7e954c7cbffac6c56b53a0a9310245fc3ae9bc1296d00d0ea26e554b88cafbe",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_bc5ec40b-4acf-4cc6-b269-973b2b0a2188",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

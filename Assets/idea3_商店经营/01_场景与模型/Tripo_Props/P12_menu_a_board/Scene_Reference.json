@@ -1,0 +1,13 @@
+{
+  "asset_id": "P12_menu_a_board",
+  "model_id": null,
+  "matching_mesh_material_uuid": [
+    "Board_Entry__b1bd0b98_fea0_4b48_bdd6_60bf208bf258"
+  ],
+  "anchor_custom_property": [
+    "Anchor_Board_Entry"
+  ],
+  "matching_tripo_instances": [],
+  "proven_referenced": true,
+  "current_active": true
+}

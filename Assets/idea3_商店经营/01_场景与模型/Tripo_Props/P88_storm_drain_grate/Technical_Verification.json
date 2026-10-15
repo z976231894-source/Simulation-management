@@ -1,0 +1,155 @@
+{
+  "asset_id": "P88_storm_drain_grate",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P88_storm_drain_grate\\P88_storm_drain_grate_static.blend",
+  "source_sha256_before": "9e36b00b3ecea82ec2b860446983c5774ec66674874f00027a11f0f0d5f7e7a9",
+  "source_sha256_after": "9e36b00b3ecea82ec2b860446983c5774ec66674874f00027a11f0f0d5f7e7a9",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_12fa52f4",
+        "vertices": 1023,
+        "triangles": 1100,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_12fa52f4"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1023,
+    "triangles": 1100,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_6093288c-ae60-40ef-92a4-2ea109514cc3",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.24000003933906555,
+        -0.1424524188041687,
+        0.0
+      ],
+      "max": [
+        0.24000003933906555,
+        0.1424524188041687,
+        0.0644846111536026
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_6093288c-ae60-40ef-92a4-2ea109514cc3",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P88_storm_drain_grate\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "cf6ae6143ff72c6153202025e0be8594e6271f2f18290a0e40182442270ca413"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_12fa52f4",
+        "vertices": 1023,
+        "triangles": 1100,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_12fa52f4"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1023,
+    "triangles": 1100,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_6093288c-ae60-40ef-92a4-2ea109514cc3",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P88_storm_drain_grate\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.24000003933906555,
+        -0.1424524337053299,
+        -1.0490730062429066e-08
+      ],
+      "max": [
+        0.24000003933906555,
+        0.1424524337053299,
+        0.0644846186041832
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P88_storm_drain_grate\\P88_storm_drain_grate_Editable.blend",
+      "bytes": 15493681,
+      "sha256": "293333e0b77d3a738d830ba1ee3d656f234cd8555acd19602088534ad650041a",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P88_storm_drain_grate\\P88_storm_drain_grate_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P88_storm_drain_grate\\P88_storm_drain_grate_Engine.fbx",
+      "bytes": 481532,
+      "sha256": "f06477b7c649f9d19b2ce13594eeedf304fb73f1bc31ba65dbdf6988e6b02623",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P88_storm_drain_grate\\P88_storm_drain_grate_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P88_storm_drain_grate\\Textures\\Tex_00.jpg",
+      "bytes": 14975000,
+      "sha256": "cf6ae6143ff72c6153202025e0be8594e6271f2f18290a0e40182442270ca413",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P88_storm_drain_grate\\P88_storm_drain_grate_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P88_storm_drain_grate\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "752da22f9f412b9ccd8f0574b1e0f6d1858014f8874306f06ced9e83ff3eed61",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_6093288c-ae60-40ef-92a4-2ea109514cc3",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

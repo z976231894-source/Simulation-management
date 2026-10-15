@@ -1,0 +1,155 @@
+{
+  "asset_id": "P24_metal_storage_shelf",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P24_metal_storage_shelf\\P24_metal_storage_shelf_static.blend",
+  "source_sha256_before": "4958b6b704ba54542d456a2c33320f7a387a15b86fce3a27374cf64f699145f4",
+  "source_sha256_after": "4958b6b704ba54542d456a2c33320f7a387a15b86fce3a27374cf64f699145f4",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_96e1f6de",
+        "vertices": 5465,
+        "triangles": 3564,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_96e1f6de"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 5465,
+    "triangles": 3564,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_92e53911-5977-4731-83e6-3317e5debbd1",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.6883659362792969,
+        -0.29930880665779114,
+        0.0
+      ],
+      "max": [
+        0.6883659362792969,
+        0.29930880665779114,
+        1.8100000619888306
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_92e53911-5977-4731-83e6-3317e5debbd1",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P24_metal_storage_shelf\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "e7e6545efedd67788f2e8358000684cd87f2ba765373a3481401e1669b96ccfc"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_96e1f6de",
+        "vertices": 5465,
+        "triangles": 3564,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_96e1f6de"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 5465,
+    "triangles": 3564,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_92e53911-5977-4731-83e6-3317e5debbd1",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P24_metal_storage_shelf\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.6883659958839417,
+        -0.2993088662624359,
+        -1.1214903850031988e-07
+      ],
+      "max": [
+        0.6883662939071655,
+        0.2993088662624359,
+        1.8100001811981201
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P24_metal_storage_shelf\\P24_metal_storage_shelf_Editable.blend",
+      "bytes": 11095782,
+      "sha256": "1de0eecb22f03cf6efe29c799f5d61ad7398920c33d57f50d4291fdb05bdafed",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P24_metal_storage_shelf\\P24_metal_storage_shelf_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P24_metal_storage_shelf\\P24_metal_storage_shelf_Engine.fbx",
+      "bytes": 572716,
+      "sha256": "18a4494fa293a3a56af5297e34b41693a55d241b50b555e7bfb7513a982c8546",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P24_metal_storage_shelf\\P24_metal_storage_shelf_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P24_metal_storage_shelf\\Textures\\Tex_00.jpg",
+      "bytes": 10293098,
+      "sha256": "e7e6545efedd67788f2e8358000684cd87f2ba765373a3481401e1669b96ccfc",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P24_metal_storage_shelf\\P24_metal_storage_shelf_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P24_metal_storage_shelf\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "bd835ef1c17a196f9bc8bd1949233a06f605fc37d1e4e8e7967d73de30aa1065",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_92e53911-5977-4731-83e6-3317e5debbd1",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

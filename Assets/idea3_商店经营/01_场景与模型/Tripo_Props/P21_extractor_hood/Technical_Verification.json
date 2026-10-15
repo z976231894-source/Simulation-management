@@ -1,0 +1,155 @@
+{
+  "asset_id": "P21_extractor_hood",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P21_extractor_hood\\P21_extractor_hood_static.blend",
+  "source_sha256_before": "d8ca7b15b779aa1c6445e50c18cdf66247c10a9f40318685273f2acbc2fa9ea2",
+  "source_sha256_after": "d8ca7b15b779aa1c6445e50c18cdf66247c10a9f40318685273f2acbc2fa9ea2",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_ce316117",
+        "vertices": 3183,
+        "triangles": 2473,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_ce316117"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 3183,
+    "triangles": 2473,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_67104d6b-ecc3-42c1-b34c-27a01ed9763b",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.7484921813011169,
+        -0.3777198791503906,
+        0.0
+      ],
+      "max": [
+        0.7484921813011169,
+        0.3777198791503906,
+        0.8899999856948853
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_67104d6b-ecc3-42c1-b34c-27a01ed9763b",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P21_extractor_hood\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "fdea12b5443940b892144324d702fc3cd3af74e991d4c94b5ff50eef5458065e"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_ce316117",
+        "vertices": 3183,
+        "triangles": 2473,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_ce316117"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 3183,
+    "triangles": 2473,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_67104d6b-ecc3-42c1-b34c-27a01ed9763b",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P21_extractor_hood\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.7484921813011169,
+        -0.3777199387550354,
+        -1.219448506617482e-07
+      ],
+      "max": [
+        0.7484923601150513,
+        0.3777199387550354,
+        0.89000004529953
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P21_extractor_hood\\P21_extractor_hood_Editable.blend",
+      "bytes": 9037844,
+      "sha256": "3507a780e2be743493991484207d12f29477c58e7f8b77e3d9870b564c2f8bfd",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P21_extractor_hood\\P21_extractor_hood_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P21_extractor_hood\\P21_extractor_hood_Engine.fbx",
+      "bytes": 461596,
+      "sha256": "3b08bb373db8344e0620856742a41210244f48db1b3ac1d934ec24435ee5e9e0",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P21_extractor_hood\\P21_extractor_hood_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P21_extractor_hood\\Textures\\Tex_00.jpg",
+      "bytes": 8366635,
+      "sha256": "fdea12b5443940b892144324d702fc3cd3af74e991d4c94b5ff50eef5458065e",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P21_extractor_hood\\P21_extractor_hood_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P21_extractor_hood\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "bf0adc0d82d3b8b8866378ddb4b3600fcd69ba4e36d19a19e30a6092af96fd90",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_67104d6b-ecc3-42c1-b34c-27a01ed9763b",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

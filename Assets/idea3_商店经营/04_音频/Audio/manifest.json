@@ -1,0 +1,213 @@
+{
+  "version": 1,
+  "name": "ONE MORE DINER — Original Management Audio",
+  "created": "2026-10-13",
+  "sampleRate": 44100,
+  "origin": "Original deterministic DSP composition; no third-party recordings or music.",
+  "music": {
+    "menu": {
+      "url": "./assets/audio/management_v1/menu.mp3",
+      "seconds": 48.0,
+      "gain": 1,
+      "loop": true,
+      "bytes": 672957,
+      "sha256": "6e1425b8d31618877a7a37f7000912e8bdd01ad1960c6cab58e8d9870afcbb3c",
+      "bpm": 80,
+      "bars": 16,
+      "key": "C major",
+      "beatsPerBar": 4,
+      "syncGroup": "menu_80"
+    },
+    "service": {
+      "url": "./assets/audio/management_v1/service.mp3",
+      "seconds": 60.0,
+      "gain": 1,
+      "loop": true,
+      "bytes": 840820,
+      "sha256": "22d7258ccaeebd5ace9f68cd618e7b0bb76c163812d400b5ba74536703079527",
+      "bpm": 96,
+      "bars": 24,
+      "key": "C major",
+      "beatsPerBar": 4,
+      "syncGroup": "service_96_cmajor_24bars"
+    },
+    "rush": {
+      "url": "./assets/audio/management_v1/rush.mp3",
+      "seconds": 60.0,
+      "gain": 1,
+      "loop": true,
+      "bytes": 840820,
+      "sha256": "e4b8b3b1ecda43c4595f278c3f538629aa3e6fe8bb36e614bc1457cd5a142db7",
+      "bpm": 96,
+      "bars": 24,
+      "key": "C major",
+      "beatsPerBar": 4,
+      "syncGroup": "service_96_cmajor_24bars"
+    }
+  },
+  "sfx": {
+    "ui_click": {
+      "url": "./assets/audio/management_v1/ui_click.mp3",
+      "seconds": 0.09,
+      "gain": 0.45,
+      "loop": false,
+      "bytes": 1296,
+      "sha256": "7e43f0e0df5bf0aa4f05b3a50de07e054ef5790d7576a66cc667b6db9f2db7c0"
+    },
+    "door_bell": {
+      "url": "./assets/audio/management_v1/door_bell.mp3",
+      "seconds": 1.25,
+      "gain": 0.7,
+      "loop": false,
+      "bytes": 10492,
+      "sha256": "46905acf9a738fcd3e42e07de2d064f91beb06c8fda3f53dce4e0062039849f8"
+    },
+    "ticket_paper": {
+      "url": "./assets/audio/management_v1/ticket_paper.mp3",
+      "seconds": 0.38,
+      "gain": 0.72,
+      "loop": false,
+      "bytes": 3595,
+      "sha256": "de97eb03367dd97aa80517c8e739c0ba60237c44bb388eb504ad0ffb74f34609"
+    },
+    "patty_down": {
+      "url": "./assets/audio/management_v1/patty_down.mp3",
+      "seconds": 0.26,
+      "gain": 0.72,
+      "loop": false,
+      "bytes": 2550,
+      "sha256": "7989ccb0191182b2997bac396e25f749d700c057b5f9dd55a38fa803f6adcfd6"
+    },
+    "grill_sizzle": {
+      "url": "./assets/audio/management_v1/grill_sizzle.mp3",
+      "seconds": 4.0,
+      "gain": 0.22,
+      "loop": true,
+      "bytes": 40795,
+      "sha256": "19db177d8df6b9a2de50fed34d1ad20286433169d05e811ffbb1ba1d4d415811"
+    },
+    "food_ready": {
+      "url": "./assets/audio/management_v1/food_ready.mp3",
+      "seconds": 0.9,
+      "gain": 0.85,
+      "loop": false,
+      "bytes": 7775,
+      "sha256": "5abcacbd4c47a623668dc2b180cd8c977bf6a7cb0d114f96278d34170b31f7b6"
+    },
+    "food_burnt": {
+      "url": "./assets/audio/management_v1/food_burnt.mp3",
+      "seconds": 0.75,
+      "gain": 0.85,
+      "loop": false,
+      "bytes": 6521,
+      "sha256": "d3efc084e99f001c45ffec7ce4607ed28d5d0d35c89dc6b1e969c7437981dc4b"
+    },
+    "onion_crunch": {
+      "url": "./assets/audio/management_v1/onion_crunch.mp3",
+      "seconds": 0.34,
+      "gain": 0.7,
+      "loop": false,
+      "bytes": 3386,
+      "sha256": "2798bdafe2950093f8274bdbd6bd179b716573094f921e8c23e437fe55b95d69"
+    },
+    "leaf_rustle": {
+      "url": "./assets/audio/management_v1/leaf_rustle.mp3",
+      "seconds": 0.48,
+      "gain": 0.72,
+      "loop": false,
+      "bytes": 4431,
+      "sha256": "cb2a84c63852656dd1ff7d944333c553d9da2602742d63acafd60a216f2bb0bc"
+    },
+    "wet_topping": {
+      "url": "./assets/audio/management_v1/wet_topping.mp3",
+      "seconds": 0.32,
+      "gain": 0.7,
+      "loop": false,
+      "bytes": 3177,
+      "sha256": "a59727416d3485038630d977004715e1ecfbe84c7ddd2f3dbcded3d18e8db565"
+    },
+    "cheese_fold": {
+      "url": "./assets/audio/management_v1/cheese_fold.mp3",
+      "seconds": 0.4,
+      "gain": 0.72,
+      "loop": false,
+      "bytes": 3804,
+      "sha256": "6a23c7010aa7d0092ee0179195d2ff3337e35d639f5d16850a223956ec66a93f"
+    },
+    "tray_pickup": {
+      "url": "./assets/audio/management_v1/tray_pickup.mp3",
+      "seconds": 0.45,
+      "gain": 0.68,
+      "loop": false,
+      "bytes": 4222,
+      "sha256": "4302196513fa8ea6453d590dfa0de85db6c85f9aff5cb43c8abe89db326946ca"
+    },
+    "serve_cash": {
+      "url": "./assets/audio/management_v1/serve_cash.mp3",
+      "seconds": 0.9,
+      "gain": 0.8,
+      "loop": false,
+      "bytes": 7775,
+      "sha256": "60129d0b2f7603ce93736301d3ef65e899295cb0721056fb46003080661242a5"
+    },
+    "wrong_action": {
+      "url": "./assets/audio/management_v1/wrong_action.mp3",
+      "seconds": 0.27,
+      "gain": 0.7,
+      "loop": false,
+      "bytes": 2759,
+      "sha256": "e7812a521968bdd02621f68f6d1aa8be340e033334d63901801a4a57dd09a7c1"
+    },
+    "customer_left": {
+      "url": "./assets/audio/management_v1/customer_left.mp3",
+      "seconds": 0.7,
+      "gain": 0.55,
+      "loop": false,
+      "bytes": 6103,
+      "sha256": "0f849b642e40cd525fedc1c05fcdbc3c5f60608b9c854b3df670edfb95d67b67"
+    },
+    "shift_closed": {
+      "url": "./assets/audio/management_v1/shift_closed.mp3",
+      "seconds": 1.6,
+      "gain": 0.78,
+      "loop": false,
+      "bytes": 13417,
+      "sha256": "a7a8a70e0ce16f6b1eee5b6a090c9d82eb95d2379512a320d0b605cc64cc4646"
+    },
+    "upgrade": {
+      "url": "./assets/audio/management_v1/upgrade.mp3",
+      "seconds": 1.1,
+      "gain": 0.78,
+      "loop": false,
+      "bytes": 9447,
+      "sha256": "5349e0aad5e16550e9360aa780fb7925fe2d2139125db8d27114d4efdba50e80"
+    },
+    "footstep_tile": {
+      "url": "./assets/audio/management_v1/footstep_tile.mp3",
+      "seconds": 0.21,
+      "gain": 0.26,
+      "loop": false,
+      "bytes": 2341,
+      "sha256": "b81e5efc40b7f479a5072fa4d86fb6a0d15c917d8d5b3bfd8735c27ea014792f"
+    }
+  },
+  "ambience": {
+    "room": {
+      "url": "./assets/audio/management_v1/ambient_room.mp3",
+      "seconds": 8.0,
+      "gain": 1,
+      "loop": true,
+      "bytes": 80762,
+      "sha256": "1862ef0edacc783c47784a4202b7127d08f9defff0be28f01f3548a39479a461"
+    }
+  },
+  "mix": {
+    "musicBus": 0.34,
+    "sfxBus": 0.75,
+    "ambienceBus": 0.08,
+    "master": 0.8,
+    "rushCrossfadeSeconds": 2.5,
+    "syncGroup": "service_96_cmajor_24bars",
+    "alertDuckDb": -5
+  }
+}

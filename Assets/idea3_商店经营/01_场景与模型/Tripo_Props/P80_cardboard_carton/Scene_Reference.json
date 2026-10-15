@@ -1,0 +1,71 @@
+{
+  "asset_id": "P80_cardboard_carton",
+  "model_id": "759bb1e1-b136-4c9e-baac-7b36cb60340b",
+  "matching_mesh_material_uuid": [
+    "P80_Delivery_Carton__tripo_node_e8468e9a",
+    "P80_Dry_Stock_Carton__tripo_node_e8468e9a"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P80",
+      "name": "P80_Delivery_Carton",
+      "model_id": "759bb1e1-b136-4c9e-baac-7b36cb60340b",
+      "actual_dimensions_m": [
+        0.6000003814697266,
+        0.4716167449951172,
+        0.35202735662460327
+      ],
+      "bbox_m": {
+        "min": [
+          13.179999351501465,
+          8.164191246032715,
+          0.2888593077659607
+        ],
+        "max": [
+          13.779999732971191,
+          8.635807991027832,
+          0.640886664390564
+        ]
+      },
+      "base_position_world_m": [
+        13.479999542236328,
+        8.399999618530273,
+        0.2888593077659607
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "E_Alley"
+    },
+    {
+      "id": "P80",
+      "name": "P80_Dry_Stock_Carton",
+      "model_id": "759bb1e1-b136-4c9e-baac-7b36cb60340b",
+      "actual_dimensions_m": [
+        0.6000003814697266,
+        0.4716167449951172,
+        0.35202735662460327
+      ],
+      "bbox_m": {
+        "min": [
+          9.149999618530273,
+          7.064191818237305,
+          0.0
+        ],
+        "max": [
+          9.75,
+          7.535808563232422,
+          0.35202735662460327
+        ]
+      },
+      "base_position_world_m": [
+        9.449999809265137,
+        7.300000190734863,
+        0.0
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "C_Cold"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

@@ -1,0 +1,101 @@
+{
+  "asset_id": "P56_whole_burger",
+  "model_id": "5df35842-a100-496d-a18d-0c50c69a371e",
+  "matching_mesh_material_uuid": [
+    "P56_Counter_Burger__tripo_node_c978d64d",
+    "P56_Display_Burger__tripo_node_c978d64d",
+    "P56_Ordinary_Burger__tripo_node_c978d64d"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P56",
+      "name": "P56_Ordinary_Burger",
+      "model_id": "5df35842-a100-496d-a18d-0c50c69a371e",
+      "actual_dimensions_m": [
+        0.1359996795654297,
+        0.13493704795837402,
+        0.11008888483047485
+      ],
+      "bbox_m": {
+        "min": [
+          4.952000141143799,
+          1.1325315237045288,
+          0.7950689196586609
+        ],
+        "max": [
+          5.0879998207092285,
+          1.2674685716629028,
+          0.9051578044891357
+        ]
+      },
+      "base_position_world_m": [
+        5.019999980926514,
+        1.2000000476837158,
+        0.7950689196586609
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "A_Dining"
+    },
+    {
+      "id": "P56",
+      "name": "P56_Counter_Burger",
+      "model_id": "5df35842-a100-496d-a18d-0c50c69a371e",
+      "actual_dimensions_m": [
+        0.1359996795654297,
+        0.13493728637695312,
+        0.11008894443511963
+      ],
+      "bbox_m": {
+        "min": [
+          5.872000217437744,
+          4.712531566619873,
+          1.0600000619888306
+        ],
+        "max": [
+          6.007999897003174,
+          4.847468852996826,
+          1.1700890064239502
+        ]
+      },
+      "base_position_world_m": [
+        5.940000057220459,
+        4.78000020980835,
+        1.0600000619888306
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "A_Dining"
+    },
+    {
+      "id": "P56",
+      "name": "P56_Display_Burger",
+      "model_id": "5df35842-a100-496d-a18d-0c50c69a371e",
+      "actual_dimensions_m": [
+        0.1169595718383789,
+        0.11604595184326172,
+        0.09467649459838867
+      ],
+      "bbox_m": {
+        "min": [
+          4.85152006149292,
+          4.711977005004883,
+          1.0714999437332153
+        ],
+        "max": [
+          4.968479633331299,
+          4.8280229568481445,
+          1.166176438331604
+        ]
+      },
+      "base_position_world_m": [
+        4.909999847412109,
+        4.769999980926514,
+        1.0714999437332153
+      ],
+      "uniform_instance_scale": 0.86,
+      "zone": "A_Dining"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

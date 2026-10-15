@@ -1,0 +1,11 @@
+{
+  "asset_id": "P03_fan",
+  "model_id": null,
+  "matching_mesh_material_uuid": [
+    "Fan_Staff__fbc1ea08_dcbc_4d45_9ca7_174e6c749c83"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [],
+  "proven_referenced": true,
+  "current_active": true
+}

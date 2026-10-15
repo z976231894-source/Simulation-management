@@ -1,0 +1,155 @@
+{
+  "asset_id": "P34_staff_locker",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P34_staff_locker\\P34_staff_locker_static.blend",
+  "source_sha256_before": "51e76d36b4ff530a92ed61d6c586877f98b137150f166d999dc528c64fe9db48",
+  "source_sha256_after": "51e76d36b4ff530a92ed61d6c586877f98b137150f166d999dc528c64fe9db48",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_8cb30762",
+        "vertices": 4384,
+        "triangles": 3844,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_8cb30762"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 4384,
+    "triangles": 3844,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_7b160051-94b2-47e0-8304-812804caf01f",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.2724841833114624,
+        -0.2426600456237793,
+        0.0
+      ],
+      "max": [
+        0.2724841833114624,
+        0.2426600456237793,
+        1.850000023841858
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_7b160051-94b2-47e0-8304-812804caf01f",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P34_staff_locker\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "e7aa7050fb45bb915212bbcfb1a431f6afb8ddcc15bb0ea0231e48275f3d2f89"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_8cb30762",
+        "vertices": 4384,
+        "triangles": 3844,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_8cb30762"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 4384,
+    "triangles": 3844,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_7b160051-94b2-47e0-8304-812804caf01f",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P34_staff_locker\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.2724842429161072,
+        -0.24266010522842407,
+        -1.1910658237468397e-08
+      ],
+      "max": [
+        0.27248430252075195,
+        0.24266010522842407,
+        1.850000262260437
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P34_staff_locker\\P34_staff_locker_Editable.blend",
+      "bytes": 12049960,
+      "sha256": "c6dc57336f9f2d757130fd40eaa1bc49e3df31f6603472d0fa47cdba23583983",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P34_staff_locker\\P34_staff_locker_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P34_staff_locker\\P34_staff_locker_Engine.fbx",
+      "bytes": 520284,
+      "sha256": "cfc966e99191487b82ff47a55a3ce1a499d8b4d7f7b91cd4d908775742ec0339",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P34_staff_locker\\P34_staff_locker_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P34_staff_locker\\Textures\\Tex_00.jpg",
+      "bytes": 11244112,
+      "sha256": "e7aa7050fb45bb915212bbcfb1a431f6afb8ddcc15bb0ea0231e48275f3d2f89",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P34_staff_locker\\P34_staff_locker_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P34_staff_locker\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "78d677f98e96d637e933f9554cc261daee5903ca9336b137c3e5467116a05293",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_7b160051-94b2-47e0-8304-812804caf01f",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

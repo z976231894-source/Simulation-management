@@ -1,0 +1,833 @@
+{
+  "version": 2,
+  "product": "ONE MORE DINER",
+  "purpose": "Editable design handoff; not integrated runtime UI",
+  "screen_count": 16,
+  "board_count": 2,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "screen_text_language": "en",
+  "fonts": {
+    "display": "Georgia Bold",
+    "body": "Arial",
+    "license_note": "System font references only; no font redistribution"
+  },
+  "background_provenance": "D:\\idea美术资产详解\\outputs\\Idea3_20261013_FullProject\\Game_Art_Submission\\01_Scenes_场景\\Previews\\After",
+  "screens": [
+    {
+      "id": "01_MainMenu",
+      "title": "Main menu",
+      "category": "screen",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/01_MainMenu.svg",
+      "png": "screens/01_MainMenu.png",
+      "html": "html/01_MainMenu.html",
+      "native_text": true
+    },
+    {
+      "id": "02_Planning",
+      "title": "Before the first order.",
+      "category": "screen",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/02_Planning.svg",
+      "png": "screens/02_Planning.png",
+      "html": "html/02_Planning.html",
+      "native_text": true
+    },
+    {
+      "id": "03_RecipeBook",
+      "title": "Three burgers. Every count matters.",
+      "category": "screen",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/03_RecipeBook.svg",
+      "png": "screens/03_RecipeBook.png",
+      "html": "html/03_RecipeBook.html",
+      "native_text": true
+    },
+    {
+      "id": "04_LiveService",
+      "title": "Live service",
+      "category": "screen",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/04_LiveService.svg",
+      "png": "screens/04_LiveService.png",
+      "html": "html/04_LiveService.html",
+      "native_text": true
+    },
+    {
+      "id": "05_TakeOrder",
+      "title": "Take an order",
+      "category": "screen",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/05_TakeOrder.svg",
+      "png": "screens/05_TakeOrder.png",
+      "html": "html/05_TakeOrder.html",
+      "native_text": true
+    },
+    {
+      "id": "06_GrillCooking",
+      "title": "Watch the grill",
+      "category": "screen",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/06_GrillCooking.svg",
+      "png": "screens/06_GrillCooking.png",
+      "html": "html/06_GrillCooking.html",
+      "native_text": true
+    },
+    {
+      "id": "07_Toppings",
+      "title": "Finish the toppings",
+      "category": "screen",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/07_Toppings.svg",
+      "png": "screens/07_Toppings.png",
+      "html": "html/07_Toppings.html",
+      "native_text": true
+    },
+    {
+      "id": "08_CarryServe",
+      "title": "Carry and serve",
+      "category": "screen",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/08_CarryServe.svg",
+      "png": "screens/08_CarryServe.png",
+      "html": "html/08_CarryServe.html",
+      "native_text": true
+    },
+    {
+      "id": "09_OrderBook",
+      "title": "Keep every table in view.",
+      "category": "screen",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/09_OrderBook.svg",
+      "png": "screens/09_OrderBook.png",
+      "html": "html/09_OrderBook.html",
+      "native_text": true
+    },
+    {
+      "id": "10_Closing",
+      "title": "Finish the shift",
+      "category": "screen",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/10_Closing.svg",
+      "png": "screens/10_Closing.png",
+      "html": "html/10_Closing.html",
+      "native_text": true
+    },
+    {
+      "id": "11_ShiftSummary",
+      "title": "A good day at the diner.",
+      "category": "screen",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/11_ShiftSummary.svg",
+      "png": "screens/11_ShiftSummary.png",
+      "html": "html/11_ShiftSummary.html",
+      "native_text": true
+    },
+    {
+      "id": "12_Upgrades",
+      "title": "Make tomorrow a little easier.",
+      "category": "screen",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/12_Upgrades.svg",
+      "png": "screens/12_Upgrades.png",
+      "html": "html/12_Upgrades.html",
+      "native_text": true
+    },
+    {
+      "id": "13_Pause",
+      "title": "Pause menu",
+      "category": "screen",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/13_Pause.svg",
+      "png": "screens/13_Pause.png",
+      "html": "html/13_Pause.html",
+      "native_text": true
+    },
+    {
+      "id": "14_Settings",
+      "title": "Sound & controls.",
+      "category": "screen",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/14_Settings.svg",
+      "png": "screens/14_Settings.png",
+      "html": "html/14_Settings.html",
+      "native_text": true
+    },
+    {
+      "id": "15_HowToPlay",
+      "title": "One order at a time.",
+      "category": "screen",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/15_HowToPlay.svg",
+      "png": "screens/15_HowToPlay.png",
+      "html": "html/15_HowToPlay.html",
+      "native_text": true
+    },
+    {
+      "id": "16_LowFunds",
+      "title": "Keep the diner running.",
+      "category": "screen",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/16_LowFunds.svg",
+      "png": "screens/16_LowFunds.png",
+      "html": "html/16_LowFunds.html",
+      "native_text": true
+    },
+    {
+      "id": "17_StateConfirmations",
+      "title": "States & confirmations",
+      "category": "board",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/17_StateConfirmations.svg",
+      "png": "screens/17_StateConfirmations.png",
+      "html": "html/17_StateConfirmations.html",
+      "native_text": true
+    },
+    {
+      "id": "18_Components",
+      "title": "Components & visual language",
+      "category": "board",
+      "width": 1920,
+      "height": 1080,
+      "svg": "svg/18_Components.svg",
+      "png": "screens/18_Components.png",
+      "html": "html/18_Components.html",
+      "native_text": true
+    }
+  ],
+  "assets": [
+    {
+      "id": "panel_paper",
+      "type": "background_only",
+      "svg": "assets/panels/panel_paper.svg",
+      "png": "assets/panels/panel_paper.png",
+      "size": [
+        320,
+        240
+      ],
+      "transparent": true,
+      "text_included": false,
+      "nine_slice": {
+        "left": 27,
+        "right": 27,
+        "top": 27,
+        "bottom": 27,
+        "unit": "source pixels",
+        "center": "stretch",
+        "edges": "stretch",
+        "corners": "fixed"
+      },
+      "minimum_target_size": [
+        55,
+        55
+      ]
+    },
+    {
+      "id": "panel_forest",
+      "type": "background_only",
+      "svg": "assets/panels/panel_forest.svg",
+      "png": "assets/panels/panel_forest.png",
+      "size": [
+        320,
+        240
+      ],
+      "transparent": true,
+      "text_included": false,
+      "nine_slice": {
+        "left": 27,
+        "right": 27,
+        "top": 27,
+        "bottom": 27,
+        "unit": "source pixels",
+        "center": "stretch",
+        "edges": "stretch",
+        "corners": "fixed"
+      },
+      "minimum_target_size": [
+        55,
+        55
+      ]
+    },
+    {
+      "id": "panel_soft",
+      "type": "background_only",
+      "svg": "assets/panels/panel_soft.svg",
+      "png": "assets/panels/panel_soft.png",
+      "size": [
+        320,
+        240
+      ],
+      "transparent": true,
+      "text_included": false,
+      "nine_slice": {
+        "left": 27,
+        "right": 27,
+        "top": 27,
+        "bottom": 27,
+        "unit": "source pixels",
+        "center": "stretch",
+        "edges": "stretch",
+        "corners": "fixed"
+      },
+      "minimum_target_size": [
+        55,
+        55
+      ]
+    },
+    {
+      "id": "ticket_paper",
+      "type": "background_only",
+      "svg": "assets/panels/ticket_paper.svg",
+      "png": "assets/panels/ticket_paper.png",
+      "size": [
+        320,
+        240
+      ],
+      "transparent": true,
+      "text_included": false,
+      "nine_slice": {
+        "left": 11,
+        "right": 11,
+        "top": 11,
+        "bottom": 11,
+        "unit": "source pixels",
+        "center": "stretch",
+        "edges": "stretch",
+        "corners": "fixed"
+      },
+      "minimum_target_size": [
+        23,
+        23
+      ]
+    },
+    {
+      "id": "button_primary",
+      "type": "background_only",
+      "svg": "assets/panels/button_primary.svg",
+      "png": "assets/panels/button_primary.png",
+      "size": [
+        320,
+        64
+      ],
+      "transparent": true,
+      "text_included": false,
+      "nine_slice": {
+        "left": 15,
+        "right": 15,
+        "top": 15,
+        "bottom": 15,
+        "unit": "source pixels",
+        "center": "stretch",
+        "edges": "stretch",
+        "corners": "fixed"
+      },
+      "minimum_target_size": [
+        31,
+        31
+      ]
+    },
+    {
+      "id": "button_secondary",
+      "type": "background_only",
+      "svg": "assets/panels/button_secondary.svg",
+      "png": "assets/panels/button_secondary.png",
+      "size": [
+        320,
+        64
+      ],
+      "transparent": true,
+      "text_included": false,
+      "nine_slice": {
+        "left": 15,
+        "right": 15,
+        "top": 15,
+        "bottom": 15,
+        "unit": "source pixels",
+        "center": "stretch",
+        "edges": "stretch",
+        "corners": "fixed"
+      },
+      "minimum_target_size": [
+        31,
+        31
+      ]
+    },
+    {
+      "id": "button_danger",
+      "type": "background_only",
+      "svg": "assets/panels/button_danger.svg",
+      "png": "assets/panels/button_danger.png",
+      "size": [
+        320,
+        64
+      ],
+      "transparent": true,
+      "text_included": false,
+      "nine_slice": {
+        "left": 15,
+        "right": 15,
+        "top": 15,
+        "bottom": 15,
+        "unit": "source pixels",
+        "center": "stretch",
+        "edges": "stretch",
+        "corners": "fixed"
+      },
+      "minimum_target_size": [
+        31,
+        31
+      ]
+    },
+    {
+      "id": "button_disabled",
+      "type": "background_only",
+      "svg": "assets/panels/button_disabled.svg",
+      "png": "assets/panels/button_disabled.png",
+      "size": [
+        320,
+        64
+      ],
+      "transparent": true,
+      "text_included": false,
+      "nine_slice": {
+        "left": 15,
+        "right": 15,
+        "top": 15,
+        "bottom": 15,
+        "unit": "source pixels",
+        "center": "stretch",
+        "edges": "stretch",
+        "corners": "fixed"
+      },
+      "minimum_target_size": [
+        31,
+        31
+      ]
+    },
+    {
+      "id": "chip_mint",
+      "type": "background_only",
+      "svg": "assets/panels/chip_mint.svg",
+      "png": "assets/panels/chip_mint.png",
+      "size": [
+        180,
+        48
+      ],
+      "transparent": true,
+      "text_included": false,
+      "nine_slice": {
+        "left": 21,
+        "right": 21,
+        "top": 21,
+        "bottom": 21,
+        "unit": "source pixels",
+        "center": "stretch",
+        "edges": "stretch",
+        "corners": "fixed"
+      },
+      "minimum_target_size": [
+        43,
+        43
+      ]
+    },
+    {
+      "id": "chip_coral",
+      "type": "background_only",
+      "svg": "assets/panels/chip_coral.svg",
+      "png": "assets/panels/chip_coral.png",
+      "size": [
+        180,
+        48
+      ],
+      "transparent": true,
+      "text_included": false,
+      "nine_slice": {
+        "left": 21,
+        "right": 21,
+        "top": 21,
+        "bottom": 21,
+        "unit": "source pixels",
+        "center": "stretch",
+        "edges": "stretch",
+        "corners": "fixed"
+      },
+      "minimum_target_size": [
+        43,
+        43
+      ]
+    },
+    {
+      "id": "keycap",
+      "type": "background_only",
+      "svg": "assets/panels/keycap.svg",
+      "png": "assets/panels/keycap.png",
+      "size": [
+        64,
+        44
+      ],
+      "transparent": true,
+      "text_included": false,
+      "nine_slice": {
+        "left": 9,
+        "right": 9,
+        "top": 9,
+        "bottom": 9,
+        "unit": "source pixels",
+        "center": "stretch",
+        "edges": "stretch",
+        "corners": "fixed"
+      },
+      "minimum_target_size": [
+        19,
+        19
+      ]
+    },
+    {
+      "id": "progress_track",
+      "type": "background_only",
+      "svg": "assets/panels/progress_track.svg",
+      "png": "assets/panels/progress_track.png",
+      "size": [
+        320,
+        24
+      ],
+      "transparent": true,
+      "text_included": false,
+      "nine_slice": {
+        "left": 11,
+        "right": 11,
+        "top": 11,
+        "bottom": 11,
+        "unit": "source pixels",
+        "center": "stretch",
+        "edges": "stretch",
+        "corners": "fixed"
+      },
+      "minimum_target_size": [
+        23,
+        23
+      ]
+    },
+    {
+      "id": "burger",
+      "type": "icon",
+      "svg": "assets/icons/burger.svg",
+      "png": "assets/icons/burger.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "bread",
+      "type": "icon",
+      "svg": "assets/icons/bread.svg",
+      "png": "assets/icons/bread.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "patties",
+      "type": "icon",
+      "svg": "assets/icons/patties.svg",
+      "png": "assets/icons/patties.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "onions",
+      "type": "icon",
+      "svg": "assets/icons/onions.svg",
+      "png": "assets/icons/onions.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "lettuce",
+      "type": "icon",
+      "svg": "assets/icons/lettuce.svg",
+      "png": "assets/icons/lettuce.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "tomato",
+      "type": "icon",
+      "svg": "assets/icons/tomato.svg",
+      "png": "assets/icons/tomato.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "cheese",
+      "type": "icon",
+      "svg": "assets/icons/cheese.svg",
+      "png": "assets/icons/cheese.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "pickles",
+      "type": "icon",
+      "svg": "assets/icons/pickles.svg",
+      "png": "assets/icons/pickles.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "grill",
+      "type": "icon",
+      "svg": "assets/icons/grill.svg",
+      "png": "assets/icons/grill.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "clock",
+      "type": "icon",
+      "svg": "assets/icons/clock.svg",
+      "png": "assets/icons/clock.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "receipt",
+      "type": "icon",
+      "svg": "assets/icons/receipt.svg",
+      "png": "assets/icons/receipt.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "tray",
+      "type": "icon",
+      "svg": "assets/icons/tray.svg",
+      "png": "assets/icons/tray.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "table",
+      "type": "icon",
+      "svg": "assets/icons/table.svg",
+      "png": "assets/icons/table.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "stock",
+      "type": "icon",
+      "svg": "assets/icons/stock.svg",
+      "png": "assets/icons/stock.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "cold",
+      "type": "icon",
+      "svg": "assets/icons/cold.svg",
+      "png": "assets/icons/cold.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "seat",
+      "type": "icon",
+      "svg": "assets/icons/seat.svg",
+      "png": "assets/icons/seat.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "settings",
+      "type": "icon",
+      "svg": "assets/icons/settings.svg",
+      "png": "assets/icons/settings.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "check",
+      "type": "icon",
+      "svg": "assets/icons/check.svg",
+      "png": "assets/icons/check.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "warning",
+      "type": "icon",
+      "svg": "assets/icons/warning.svg",
+      "png": "assets/icons/warning.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "save",
+      "type": "icon",
+      "svg": "assets/icons/save.svg",
+      "png": "assets/icons/save.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "audio",
+      "type": "icon",
+      "svg": "assets/icons/audio.svg",
+      "png": "assets/icons/audio.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "arrow",
+      "type": "icon",
+      "svg": "assets/icons/arrow.svg",
+      "png": "assets/icons/arrow.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    },
+    {
+      "id": "pause",
+      "type": "icon",
+      "svg": "assets/icons/pause.svg",
+      "png": "assets/icons/pause.png",
+      "size": [
+        64,
+        64
+      ],
+      "transparent": true,
+      "nine_slice": null
+    }
+  ],
+  "colors": {
+    "cream": "#F7F1E4",
+    "paper": "#FFF9ED",
+    "forest": "#183E34",
+    "mint": "#BDD6C4",
+    "sage": "#7FA58E",
+    "coral": "#CC775F",
+    "ink": "#24473B",
+    "muted": "#617669",
+    "line": "#D7DAC8",
+    "soft": "#E9EADB",
+    "danger": "#A94F3E",
+    "white": "#FFFFFF"
+  },
+  "source_builder": "../../tools/build_ui_management_v2.py",
+  "proposed_ui_changes": [
+    "Objective HUD",
+    "Compact contextual action panels",
+    "How to Play entry",
+    "Confirmation dialogs",
+    "Low-funds recovery guidance",
+    "Upgrade cash warning",
+    "Save submenu"
+  ],
+  "gameplay_rules_unchanged": true
+}

@@ -1,0 +1,41 @@
+{
+  "asset_id": "P50_delivery_wall_sign",
+  "model_id": "0cccd962-1096-41e0-8df4-c4fb035a27d4",
+  "matching_mesh_material_uuid": [
+    "P50_Delivery_Plaque__tripo_node_11a1539b"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P50",
+      "name": "P50_Delivery_Plaque",
+      "model_id": "0cccd962-1096-41e0-8df4-c4fb035a27d4",
+      "actual_dimensions_m": [
+        0.05232048034667969,
+        0.6999998092651367,
+        0.2691255807876587
+      ],
+      "bbox_m": {
+        "min": [
+          12.145000457763672,
+          7.550000190734863,
+          1.399999976158142
+        ],
+        "max": [
+          12.197320938110352,
+          8.25,
+          1.6691255569458008
+        ]
+      },
+      "base_position_world_m": [
+        12.171160697937012,
+        7.900000095367432,
+        1.399999976158142
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "E_Alley"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

@@ -1,0 +1,41 @@
+{
+  "asset_id": "P51_photo_frame",
+  "model_id": "06b1c0c8-7201-416b-a08d-4246f13f294d",
+  "matching_mesh_material_uuid": [
+    "P51_Staff_Frame__tripo_node_06cd1791"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P51",
+      "name": "P51_Staff_Frame",
+      "model_id": "06b1c0c8-7201-416b-a08d-4246f13f294d",
+      "actual_dimensions_m": [
+        0.20725440979003906,
+        0.20994138717651367,
+        0.25
+      ],
+      "bbox_m": {
+        "min": [
+          10.816372871398926,
+          1.555029273033142,
+          0.7439999580383301
+        ],
+        "max": [
+          11.023627281188965,
+          1.7649706602096558,
+          0.9939999580383301
+        ]
+      },
+      "base_position_world_m": [
+        10.920000076293945,
+        1.659999966621399,
+        0.7439999580383301
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "D_Staff"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

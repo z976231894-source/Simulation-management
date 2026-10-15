@@ -1,0 +1,155 @@
+{
+  "asset_id": "P53_dining_plate",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P53_dining_plate\\P53_dining_plate_static.blend",
+  "source_sha256_before": "348f00091f70aaf2b6005a9d818a1577c5e82364377fa3664c53972d7a6e7443",
+  "source_sha256_after": "348f00091f70aaf2b6005a9d818a1577c5e82364377fa3664c53972d7a6e7443",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_ef8e0cd3",
+        "vertices": 738,
+        "triangles": 1024,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_ef8e0cd3"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 738,
+    "triangles": 1024,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_a95dd063-0d7b-458a-a557-2e80264753ea",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.14000000059604645,
+        -0.13876894116401672,
+        0.0
+      ],
+      "max": [
+        0.14000000059604645,
+        0.13876894116401672,
+        0.03706888109445572
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_a95dd063-0d7b-458a-a557-2e80264753ea",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P53_dining_plate\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "a303dcdf9015e297f432d1a7a43e90358f6d40f3b8aea3b9d58696496aa79926"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_ef8e0cd3",
+        "vertices": 738,
+        "triangles": 1024,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_ef8e0cd3"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 738,
+    "triangles": 1024,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_a95dd063-0d7b-458a-a557-2e80264753ea",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P53_dining_plate\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.14000000059604645,
+        -0.13876894116401672,
+        -2.2608329430795493e-08
+      ],
+      "max": [
+        0.14000000059604645,
+        0.13876894116401672,
+        0.03706890344619751
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P53_dining_plate\\P53_dining_plate_Editable.blend",
+      "bytes": 8737348,
+      "sha256": "1ce92cdaf9b014f915200026757ab51c0c174d400c3c07e2a67d3b49c3159b79",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P53_dining_plate\\P53_dining_plate_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P53_dining_plate\\P53_dining_plate_Engine.fbx",
+      "bytes": 264908,
+      "sha256": "96c507d59f65968a48d7d201cb15664eecc9731feee516624ac4fa25603376f7",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P53_dining_plate\\P53_dining_plate_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P53_dining_plate\\Textures\\Tex_00.jpg",
+      "bytes": 8230496,
+      "sha256": "a303dcdf9015e297f432d1a7a43e90358f6d40f3b8aea3b9d58696496aa79926",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P53_dining_plate\\P53_dining_plate_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P53_dining_plate\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "68b1c4caf222ba52f025f066ceb7ca76ef190b547538e015556c7e9d3aa59f8d",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_a95dd063-0d7b-458a-a557-2e80264753ea",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "asset_id": "P29_cutting_board",
+  "model_id": "c52eea12-76f7-436e-947e-0ebcce552a4b",
+  "matching_mesh_material_uuid": [
+    "P29_Cutting_Board__tripo_node_6353a66b"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P29",
+      "name": "P29_Cutting_Board",
+      "model_id": "c52eea12-76f7-436e-947e-0ebcce552a4b",
+      "actual_dimensions_m": [
+        0.24559831619262695,
+        0.4200000762939453,
+        0.042471885681152344
+      ],
+      "bbox_m": {
+        "min": [
+          1.347200870513916,
+          7.9988603591918945,
+          0.9270000457763672
+        ],
+        "max": [
+          1.592799186706543,
+          8.41886043548584,
+          0.9694719314575195
+        ]
+      },
+      "base_position_world_m": [
+        1.4700000286102295,
+        8.208860397338867,
+        0.9270000457763672
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

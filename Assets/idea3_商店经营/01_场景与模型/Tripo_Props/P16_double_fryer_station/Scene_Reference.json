@@ -1,0 +1,41 @@
+{
+  "asset_id": "P16_double_fryer_station",
+  "model_id": "8eef9456-11d2-4844-a04a-48ca7e0c4d03",
+  "matching_mesh_material_uuid": [
+    "P16_Fryer__tripo_node_ba8c2a56"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P16",
+      "name": "P16_Fryer",
+      "model_id": "8eef9456-11d2-4844-a04a-48ca7e0c4d03",
+      "actual_dimensions_m": [
+        1.265000343322754,
+        0.8509559631347656,
+        1.0449999570846558
+      ],
+      "bbox_m": {
+        "min": [
+          4.267499923706055,
+          8.004044532775879,
+          0.0
+        ],
+        "max": [
+          5.532500267028809,
+          8.855000495910645,
+          1.0449999570846558
+        ]
+      },
+      "base_position_world_m": [
+        4.900000095367432,
+        8.429522514343262,
+        0.0
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

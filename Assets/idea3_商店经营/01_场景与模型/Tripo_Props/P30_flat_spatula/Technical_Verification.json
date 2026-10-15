@@ -1,0 +1,155 @@
+{
+  "asset_id": "P30_flat_spatula",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P30_flat_spatula\\P30_flat_spatula_static.blend",
+  "source_sha256_before": "6f4d71bd561fb30bfcf86502c0a60f3eae5aa5999ca972f51c1d4b52238c507d",
+  "source_sha256_after": "6f4d71bd561fb30bfcf86502c0a60f3eae5aa5999ca972f51c1d4b52238c507d",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_29c376e3",
+        "vertices": 1093,
+        "triangles": 1025,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_29c376e3"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1093,
+    "triangles": 1025,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_ed00215e-b9e3-4ca4-bbfc-900259252593",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.09870543330907822,
+        -0.15000000596046448,
+        0.0
+      ],
+      "max": [
+        0.09870543330907822,
+        0.15000000596046448,
+        0.11123595386743546
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_ed00215e-b9e3-4ca4-bbfc-900259252593",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P30_flat_spatula\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "601f4e81e958e761ffb48adf7cca5283a10f831030396335f33c4944bfb6459f"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_29c376e3",
+        "vertices": 1093,
+        "triangles": 1025,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_29c376e3"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1093,
+    "triangles": 1025,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_ed00215e-b9e3-4ca4-bbfc-900259252593",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P30_flat_spatula\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.09870544075965881,
+        -0.14999999105930328,
+        -1.6081154186053936e-08
+      ],
+      "max": [
+        0.09870545566082001,
+        0.14999999105930328,
+        0.11123595386743546
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P30_flat_spatula\\P30_flat_spatula_Editable.blend",
+      "bytes": 16057086,
+      "sha256": "5876b152b49136be3c79dbed63ed0a5278b69d10ee437f9b9be29786ac5c8684",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P30_flat_spatula\\P30_flat_spatula_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P30_flat_spatula\\P30_flat_spatula_Engine.fbx",
+      "bytes": 645692,
+      "sha256": "93fb8192bc74a8e588eca1486d6bb76164dece287d5c20410b71a5eead264783",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P30_flat_spatula\\P30_flat_spatula_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P30_flat_spatula\\Textures\\Tex_00.jpg",
+      "bytes": 15542975,
+      "sha256": "601f4e81e958e761ffb48adf7cca5283a10f831030396335f33c4944bfb6459f",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P30_flat_spatula\\P30_flat_spatula_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P30_flat_spatula\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "ce0e9ececfa2973f35ea76f048d4eab5c684308e22698c68769631c43bb4648a",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_ed00215e-b9e3-4ca4-bbfc-900259252593",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

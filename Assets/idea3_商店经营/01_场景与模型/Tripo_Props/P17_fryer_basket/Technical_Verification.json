@@ -1,0 +1,155 @@
+{
+  "asset_id": "P17_fryer_basket",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P17_fryer_basket\\P17_fryer_basket_static.blend",
+  "source_sha256_before": "338a961ea02d8e2b3c776ca4e7ffb28e2751a159f4c787d32d1be6acbb9aa936",
+  "source_sha256_after": "338a961ea02d8e2b3c776ca4e7ffb28e2751a159f4c787d32d1be6acbb9aa936",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_881bb1b1",
+        "vertices": 10565,
+        "triangles": 9335,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_881bb1b1"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 10565,
+    "triangles": 9335,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_007c0694-41a1-449d-9529-818e174fd546",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          4096,
+          4096
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.09982657432556152,
+        -0.2849999964237213,
+        0.0
+      ],
+      "max": [
+        0.09982657432556152,
+        0.2849999964237213,
+        0.22304348647594452
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_007c0694-41a1-449d-9529-818e174fd546",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P17_fryer_basket\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "sha256": "4bbfaa18946bbf633649be83e6d0d4cfda807a1e5b785fb32b034a9e66c7772d"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_881bb1b1",
+        "vertices": 10565,
+        "triangles": 9335,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_881bb1b1"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 10565,
+    "triangles": 9335,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_007c0694-41a1-449d-9529-818e174fd546",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P17_fryer_basket\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.09982657432556152,
+        -0.2849999964237213,
+        -4.643239392976284e-08
+      ],
+      "max": [
+        0.09982657432556152,
+        0.2850000262260437,
+        0.2230435311794281
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P17_fryer_basket\\P17_fryer_basket_Editable.blend",
+      "bytes": 5431022,
+      "sha256": "28571ea4ed8bf8c6783e945f9f9ee88ac8adc633ee7c6268568f00e1d3466f16",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P17_fryer_basket\\P17_fryer_basket_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P17_fryer_basket\\P17_fryer_basket_Engine.fbx",
+      "bytes": 963612,
+      "sha256": "c40183eb59bac318fca41a2b6e02e79e48751d803e2b05067205715f57563448",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P17_fryer_basket\\P17_fryer_basket_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P17_fryer_basket\\Textures\\Tex_00.jpg",
+      "bytes": 4062054,
+      "sha256": "4bbfaa18946bbf633649be83e6d0d4cfda807a1e5b785fb32b034a9e66c7772d",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P17_fryer_basket\\P17_fryer_basket_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P17_fryer_basket\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "dc65655f440dc54cf4327b33d1694270392bf5fff09635616c5ca28b3150ae26",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_007c0694-41a1-449d-9529-818e174fd546",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

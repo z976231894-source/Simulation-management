@@ -1,0 +1,41 @@
+{
+  "asset_id": "P30_flat_spatula",
+  "model_id": "ffc30d8d-3656-40ce-86fd-627c6390b212",
+  "matching_mesh_material_uuid": [
+    "P30_Grill_Spatula__tripo_node_29c376e3"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P30",
+      "name": "P30_Grill_Spatula",
+      "model_id": "ffc30d8d-3656-40ce-86fd-627c6390b212",
+      "actual_dimensions_m": [
+        0.12845158576965332,
+        0.31456518173217773,
+        0.07413917779922485
+      ],
+      "bbox_m": {
+        "min": [
+          2.573920488357544,
+          7.95776891708374,
+          0.9879999756813049
+        ],
+        "max": [
+          2.7023720741271973,
+          8.272334098815918,
+          1.0621391534805298
+        ]
+      },
+      "base_position_world_m": [
+        2.640000104904175,
+        8.10533332824707,
+        0.9879999756813049
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

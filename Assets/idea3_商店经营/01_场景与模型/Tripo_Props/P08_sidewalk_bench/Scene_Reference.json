@@ -1,0 +1,13 @@
+{
+  "asset_id": "P08_sidewalk_bench",
+  "model_id": null,
+  "matching_mesh_material_uuid": [
+    "Bench_Window__tripo_63fd41b0_2210_48c4_8fb3_afe50a209fe9"
+  ],
+  "anchor_custom_property": [
+    "Anchor_Bench_Window"
+  ],
+  "matching_tripo_instances": [],
+  "proven_referenced": true,
+  "current_active": true
+}

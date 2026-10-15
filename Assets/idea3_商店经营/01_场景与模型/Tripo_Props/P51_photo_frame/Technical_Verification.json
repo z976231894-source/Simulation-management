@@ -1,0 +1,155 @@
+{
+  "asset_id": "P51_photo_frame",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P51_photo_frame\\P51_photo_frame_static.blend",
+  "source_sha256_before": "c1eee3fa5a132b67489fb9cf61d95e8f16e75cd1ed4f80878173d3fcd3aa3ac8",
+  "source_sha256_after": "c1eee3fa5a132b67489fb9cf61d95e8f16e75cd1ed4f80878173d3fcd3aa3ac8",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_06cd1791",
+        "vertices": 960,
+        "triangles": 917,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_06cd1791"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 960,
+    "triangles": 917,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_15628881-1584-44ad-ad61-f4b20fa36766",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.1036272644996643,
+        -0.10497069358825684,
+        0.0
+      ],
+      "max": [
+        0.1036272644996643,
+        0.10497069358825684,
+        0.25
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_15628881-1584-44ad-ad61-f4b20fa36766",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P51_photo_frame\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "85fb6e2056a7cb4281395d3ab825efe8bbfea2e178f84bac22e4b0d531d0a7b6"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_06cd1791",
+        "vertices": 960,
+        "triangles": 917,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_06cd1791"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 960,
+    "triangles": 917,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_15628881-1584-44ad-ad61-f4b20fa36766",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P51_photo_frame\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.1036272794008255,
+        -0.10497070848941803,
+        -1.6883024755998122e-08
+      ],
+      "max": [
+        0.10362731665372849,
+        0.10497070848941803,
+        0.2500000298023224
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P51_photo_frame\\P51_photo_frame_Editable.blend",
+      "bytes": 13937872,
+      "sha256": "8225b885ddd5717577ea25d2e3f2009785ae3e4741b5d5bf1eaa2cea00c795b2",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P51_photo_frame\\P51_photo_frame_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P51_photo_frame\\P51_photo_frame_Engine.fbx",
+      "bytes": 434012,
+      "sha256": "131255caa6fd4027b3fe42118705e29dbd45542dfabee83af3be2cdf04baa6c2",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P51_photo_frame\\P51_photo_frame_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P51_photo_frame\\Textures\\Tex_00.jpg",
+      "bytes": 13435247,
+      "sha256": "85fb6e2056a7cb4281395d3ab825efe8bbfea2e178f84bac22e4b0d531d0a7b6",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P51_photo_frame\\P51_photo_frame_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P51_photo_frame\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "430c0f6f0bebb65d7b26ca079712fff6f34ae5f583256fb091e75ae3cbe00a94",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_15628881-1584-44ad-ad61-f4b20fa36766",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "asset_id": "P56_whole_burger",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P56_whole_burger\\P56_whole_burger_static.blend",
+  "source_sha256_before": "06c90cfc09b0a385c29b2db9aef2ea628ec2f8334a400faf89f62bd3cd5007f2",
+  "source_sha256_after": "06c90cfc09b0a385c29b2db9aef2ea628ec2f8334a400faf89f62bd3cd5007f2",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_c978d64d",
+        "vertices": 3468,
+        "triangles": 2696,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_c978d64d"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 3468,
+    "triangles": 2696,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_1c653bad-af67-4963-b7cb-bc1ff441212c",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.06799999624490738,
+        -0.06746848672628403,
+        0.0
+      ],
+      "max": [
+        0.06799999624490738,
+        0.06746848672628403,
+        0.11008890718221664
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_1c653bad-af67-4963-b7cb-bc1ff441212c",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P56_whole_burger\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "d737f5b04fe02f480c38c80055fdf015043f79865c8e96b441e0366b80d8661d"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_c978d64d",
+        "vertices": 3468,
+        "triangles": 2696,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_c978d64d"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 3468,
+    "triangles": 2696,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_1c653bad-af67-4963-b7cb-bc1ff441212c",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P56_whole_burger\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.06799999624490738,
+        -0.06746848672628403,
+        -1.0992011745258878e-08
+      ],
+      "max": [
+        0.06799999624490738,
+        0.06746850162744522,
+        0.11008891463279724
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P56_whole_burger\\P56_whole_burger_Editable.blend",
+      "bytes": 8574522,
+      "sha256": "5b57d5a22631ee1c6c4cc0535992f6347e162111dc25630a9491cdef37f4d818",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P56_whole_burger\\P56_whole_burger_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P56_whole_burger\\P56_whole_burger_Engine.fbx",
+      "bytes": 574156,
+      "sha256": "4c5a785b24f1d651d0fc9e3cc346d585c15247260e51c5020ff61169d9394ed9",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P56_whole_burger\\P56_whole_burger_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P56_whole_burger\\Textures\\Tex_00.jpg",
+      "bytes": 7879950,
+      "sha256": "d737f5b04fe02f480c38c80055fdf015043f79865c8e96b441e0366b80d8661d",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P56_whole_burger\\P56_whole_burger_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P56_whole_burger\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "9135769ece94f3c2b2dcb45bb7badf96634e93fa01674aeafa2a09cd0e56506d",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_1c653bad-af67-4963-b7cb-bc1ff441212c",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

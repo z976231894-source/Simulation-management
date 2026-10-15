@@ -1,0 +1,13 @@
+{
+  "asset_id": "P05_burger_sign",
+  "model_id": null,
+  "matching_mesh_material_uuid": [
+    "Sign_Front__e223b123_883a_42b8_8685_ec588a81531c"
+  ],
+  "anchor_custom_property": [
+    "Anchor_Sign_Front"
+  ],
+  "matching_tripo_instances": [],
+  "proven_referenced": true,
+  "current_active": true
+}

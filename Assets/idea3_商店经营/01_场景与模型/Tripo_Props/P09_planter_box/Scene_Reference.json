@@ -1,0 +1,15 @@
+{
+  "asset_id": "P09_planter_box",
+  "model_id": null,
+  "matching_mesh_material_uuid": [
+    "Planter_Entry__tripo_8e195a7a_e9a9_407c_94da_6dba8f4e3a36",
+    "Planter_Left__tripo_8e195a7a_e9a9_407c_94da_6dba8f4e3a36"
+  ],
+  "anchor_custom_property": [
+    "Anchor_Planter_Entry",
+    "Anchor_Planter_Left"
+  ],
+  "matching_tripo_instances": [],
+  "proven_referenced": true,
+  "current_active": true
+}

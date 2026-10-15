@@ -1,0 +1,155 @@
+{
+  "asset_id": "P15_grill_oven_range",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P15_grill_oven_range\\P15_grill_oven_range_static.blend",
+  "source_sha256_before": "54b6da7fa36d0037d27f590e0576e2e9a9344a823ebbba2855cca875444e1721",
+  "source_sha256_after": "54b6da7fa36d0037d27f590e0576e2e9a9344a823ebbba2855cca875444e1721",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_485815da",
+        "vertices": 11220,
+        "triangles": 9724,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_485815da"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 11220,
+    "triangles": 9724,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_babc378c-679a-4aed-9209-bb0758d45a2a",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          4096,
+          4096
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.9438838362693787,
+        -0.5196664333343506,
+        0.0
+      ],
+      "max": [
+        0.9438838362693787,
+        0.5196664333343506,
+        0.9839999675750732
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_babc378c-679a-4aed-9209-bb0758d45a2a",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P15_grill_oven_range\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "sha256": "f2443353b4e56b40a73767aa4ca6365977eb4bb0475db7a047013cda996aac71"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_485815da",
+        "vertices": 11220,
+        "triangles": 9724,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_485815da"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 11220,
+    "triangles": 9724,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_babc378c-679a-4aed-9209-bb0758d45a2a",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P15_grill_oven_range\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.9438838958740234,
+        -0.5196665525436401,
+        -1.537782026161949e-07
+      ],
+      "max": [
+        0.943884015083313,
+        0.5196665525436401,
+        0.9840001463890076
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P15_grill_oven_range\\P15_grill_oven_range_Editable.blend",
+      "bytes": 5064207,
+      "sha256": "cab19b9dc0e134e137094dd51dd5376be307902d179d228be8705517ab214503",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P15_grill_oven_range\\P15_grill_oven_range_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P15_grill_oven_range\\P15_grill_oven_range_Engine.fbx",
+      "bytes": 849420,
+      "sha256": "07e95b6199010827088ac61ff55a21e329753ac2c878a1e6042ee88b48c7198f",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P15_grill_oven_range\\P15_grill_oven_range_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P15_grill_oven_range\\Textures\\Tex_00.jpg",
+      "bytes": 3650544,
+      "sha256": "f2443353b4e56b40a73767aa4ca6365977eb4bb0475db7a047013cda996aac71",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P15_grill_oven_range\\P15_grill_oven_range_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P15_grill_oven_range\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "aa0343a4eb57b8d78e5d6479495c6b395eb2b3cf67810784e6c020a482a64559",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_babc378c-679a-4aed-9209-bb0758d45a2a",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

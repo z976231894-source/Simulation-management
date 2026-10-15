@@ -1,0 +1,41 @@
+{
+  "asset_id": "P86_street_lamp",
+  "model_id": "b77afc98-fae3-490e-b64d-a6fb8ff9959f",
+  "matching_mesh_material_uuid": [
+    "P86_Corner_Street_Lamp__tripo_node_033cd9a6"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P86",
+      "name": "P86_Corner_Street_Lamp",
+      "model_id": "b77afc98-fae3-490e-b64d-a6fb8ff9959f",
+      "actual_dimensions_m": [
+        0.6142770648002625,
+        0.6142768859863281,
+        3.444999933242798
+      ],
+      "bbox_m": {
+        "min": [
+          -1.1571385860443115,
+          -2.307138442993164,
+          0.010999999940395355
+        ],
+        "max": [
+          -0.5428615212440491,
+          -1.692861557006836,
+          3.4559998512268066
+        ]
+      },
+      "base_position_world_m": [
+        -0.8500000238418579,
+        -2.0,
+        0.010999999940395355
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "E_Alley"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

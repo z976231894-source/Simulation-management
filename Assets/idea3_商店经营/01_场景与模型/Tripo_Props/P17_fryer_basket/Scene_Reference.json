@@ -1,0 +1,71 @@
+{
+  "asset_id": "P17_fryer_basket",
+  "model_id": "61cd903c-9f86-4a73-bd6b-73770a501cd6",
+  "matching_mesh_material_uuid": [
+    "P17_Basket_0__tripo_node_881bb1b1",
+    "P17_Basket_1__tripo_node_881bb1b1"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P17",
+      "name": "P17_Basket_0",
+      "model_id": "61cd903c-9f86-4a73-bd6b-73770a501cd6",
+      "actual_dimensions_m": [
+        0.19965362548828125,
+        0.5699996948242188,
+        0.22304344177246094
+      ],
+      "bbox_m": {
+        "min": [
+          4.570173263549805,
+          8.084522247314453,
+          1.0489999055862427
+        ],
+        "max": [
+          4.769826889038086,
+          8.654521942138672,
+          1.2720433473587036
+        ]
+      },
+      "base_position_world_m": [
+        4.670000076293945,
+        8.369522094726562,
+        1.0489999055862427
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    },
+    {
+      "id": "P17",
+      "name": "P17_Basket_1",
+      "model_id": "61cd903c-9f86-4a73-bd6b-73770a501cd6",
+      "actual_dimensions_m": [
+        0.19965362548828125,
+        0.5699996948242188,
+        0.22304344177246094
+      ],
+      "bbox_m": {
+        "min": [
+          4.980173110961914,
+          8.084522247314453,
+          1.0489999055862427
+        ],
+        "max": [
+          5.179826736450195,
+          8.654521942138672,
+          1.2720433473587036
+        ]
+      },
+      "base_position_world_m": [
+        5.079999923706055,
+        8.369522094726562,
+        1.0489999055862427
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

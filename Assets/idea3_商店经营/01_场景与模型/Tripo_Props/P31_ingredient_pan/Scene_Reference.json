@@ -1,0 +1,71 @@
+{
+  "asset_id": "P31_ingredient_pan",
+  "model_id": "a583a860-50f1-41e0-b381-3e0814f12d58",
+  "matching_mesh_material_uuid": [
+    "P31_Ingredient_Pan_0__tripo_node_96d5b4be",
+    "P31_Ingredient_Pan_1__tripo_node_96d5b4be"
+  ],
+  "anchor_custom_property": [],
+  "matching_tripo_instances": [
+    {
+      "id": "P31",
+      "name": "P31_Ingredient_Pan_0",
+      "model_id": "a583a860-50f1-41e0-b381-3e0814f12d58",
+      "actual_dimensions_m": [
+        0.32000017166137695,
+        0.211822509765625,
+        0.10176849365234375
+      ],
+      "bbox_m": {
+        "min": [
+          1.0899999141693115,
+          8.402949333190918,
+          0.9270000457763672
+        ],
+        "max": [
+          1.4100000858306885,
+          8.614771842956543,
+          1.028768539428711
+        ]
+      },
+      "base_position_world_m": [
+        1.25,
+        8.50886058807373,
+        0.9270000457763672
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    },
+    {
+      "id": "P31",
+      "name": "P31_Ingredient_Pan_1",
+      "model_id": "a583a860-50f1-41e0-b381-3e0814f12d58",
+      "actual_dimensions_m": [
+        0.32000017166137695,
+        0.211822509765625,
+        0.10176849365234375
+      ],
+      "bbox_m": {
+        "min": [
+          1.4799998998641968,
+          8.412949562072754,
+          0.9270000457763672
+        ],
+        "max": [
+          1.8000000715255737,
+          8.624772071838379,
+          1.028768539428711
+        ]
+      },
+      "base_position_world_m": [
+        1.6399999856948853,
+        8.518860816955566,
+        0.9270000457763672
+      ],
+      "uniform_instance_scale": 1,
+      "zone": "B_Kitchen"
+    }
+  ],
+  "proven_referenced": true,
+  "current_active": true
+}

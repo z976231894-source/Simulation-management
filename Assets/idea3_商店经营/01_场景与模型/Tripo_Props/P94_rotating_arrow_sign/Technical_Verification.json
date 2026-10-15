@@ -1,0 +1,155 @@
+{
+  "asset_id": "P94_rotating_arrow_sign",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P94_rotating_arrow_sign\\P94_rotating_arrow_sign_static.blend",
+  "source_sha256_before": "51d6fe07763619428212b0213354d3dcdf5b74d72c18baf04627dd6457511ef0",
+  "source_sha256_after": "51d6fe07763619428212b0213354d3dcdf5b74d72c18baf04627dd6457511ef0",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_80e63d3c",
+        "vertices": 3115,
+        "triangles": 2846,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_80e63d3c"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 3115,
+    "triangles": 2846,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_2c716ed6-cf0c-4095-af59-b084e0bd7b68",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.3100000321865082,
+        -0.31702011823654175,
+        0.0
+      ],
+      "max": [
+        0.3100000321865082,
+        0.31702011823654175,
+        0.5057643055915833
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_2c716ed6-cf0c-4095-af59-b084e0bd7b68",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P94_rotating_arrow_sign\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "bfead859505575708c6e2a589901ab4e18bb99dcd754feb7f5d1b391c22e83cf"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_node_80e63d3c",
+        "vertices": 3115,
+        "triangles": 2846,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_mat_80e63d3c"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 3115,
+    "triangles": 2846,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_2c716ed6-cf0c-4095-af59-b084e0bd7b68",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P94_rotating_arrow_sign\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.31000009179115295,
+        -0.3170201778411865,
+        -5.050542029039207e-08
+      ],
+      "max": [
+        0.3100001811981201,
+        0.3170201778411865,
+        0.5057644248008728
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P94_rotating_arrow_sign\\P94_rotating_arrow_sign_Editable.blend",
+      "bytes": 11536875,
+      "sha256": "1631b03aedc50464f88d2a8fc6df45e5c2fd8628141db899c2102eec842752f0",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P94_rotating_arrow_sign\\P94_rotating_arrow_sign_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P94_rotating_arrow_sign\\P94_rotating_arrow_sign_Engine.fbx",
+      "bytes": 551420,
+      "sha256": "1255a3ed13a54a962ce1c232d9856b37460587574ae75ba0562994c8574a6bbd",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P94_rotating_arrow_sign\\P94_rotating_arrow_sign_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P94_rotating_arrow_sign\\Textures\\Tex_00.jpg",
+      "bytes": 10835773,
+      "sha256": "bfead859505575708c6e2a589901ab4e18bb99dcd754feb7f5d1b391c22e83cf",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P94_rotating_arrow_sign\\P94_rotating_arrow_sign_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P94_rotating_arrow_sign\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "a00f16969d14551cde80b9c0ec91bd13f12ec19997536e19e5a197bf7c922aff",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_2c716ed6-cf0c-4095-af59-b084e0bd7b68",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "asset_id": "P98_small_frying_pan",
+  "source_blend": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P98_small_frying_pan\\P98_small_frying_pan_static.blend",
+  "source_sha256_before": "55a9795577c9817a916f7588cf4f63f2e87614a8d7471b205acaee47ac8fcc29",
+  "source_sha256_after": "55a9795577c9817a916f7588cf4f63f2e87614a8d7471b205acaee47ac8fcc29",
+  "source_unchanged": true,
+  "source_inspection": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_248090cf_143a_43cf_b182_4602aecfaa3d",
+        "vertices": 1721,
+        "triangles": 1927,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_248090cf_143a_43cf_b182_4602aecfaa3d"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1721,
+    "triangles": 1927,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_b171219a-23e0-4616-9770-acb0f458fdaf",
+        "path": "",
+        "packed": true,
+        "dimensions": [
+          8192,
+          8192
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.10991695523262024,
+        -0.20000000298023224,
+        -3.725290298461914e-09
+      ],
+      "max": [
+        0.10991695523262024,
+        0.20000000298023224,
+        0.07327796518802643
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "textures": [
+    {
+      "name": "tripo_rgb_b171219a-23e0-4616-9770-acb0f458fdaf",
+      "delivered": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P98_small_frying_pan\\Textures\\Tex_00.jpg",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "sha256": "648442c6749e169c16fa300d29d2e0601295c055c99d1b6d1bb7f59e33f9d0f6"
+    }
+  ],
+  "fbx_reimport": {
+    "objects": 2,
+    "meshes": [
+      {
+        "name": "tripo_248090cf_143a_43cf_b182_4602aecfaa3d",
+        "vertices": 1721,
+        "triangles": 1927,
+        "uv_layers": 1,
+        "materials": [
+          "tripo_248090cf_143a_43cf_b182_4602aecfaa3d"
+        ],
+        "vertex_groups": 0,
+        "armature_modifiers": []
+      }
+    ],
+    "vertices": 1721,
+    "triangles": 1927,
+    "armatures": [],
+    "actions": [],
+    "images": [
+      {
+        "name": "tripo_rgb_b171219a-23e0-4616-9770-acb0f458fdaf",
+        "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P98_small_frying_pan\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "has_pixels": true
+      }
+    ],
+    "bounds_m": {
+      "min": [
+        -0.10991695523262024,
+        -0.20000000298023224,
+        -3.258413627804657e-08
+      ],
+      "max": [
+        0.10991695523262024,
+        0.20000000298023224,
+        0.07327800244092941
+      ]
+    },
+    "units": {
+      "system": "METRIC",
+      "scale_length": 1.0
+    },
+    "libraries": []
+  },
+  "fbx_clip_mapping": {},
+  "files": [
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P98_small_frying_pan\\P98_small_frying_pan_Editable.blend",
+      "bytes": 19568360,
+      "sha256": "6ef93e73c6ce5f510c0485c65879169273554d31b0ef8bd698bec5c3a335f43b",
+      "role": "editable_source",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P98_small_frying_pan\\P98_small_frying_pan_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P98_small_frying_pan\\P98_small_frying_pan_Engine.fbx",
+      "bytes": 639836,
+      "sha256": "e9148f40847e6c82335ac7fd945cb3af35216b1e4a013c749af120e00abfa05b",
+      "role": "engine_fbx",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P98_small_frying_pan\\P98_small_frying_pan_static.blend"
+    },
+    {
+      "path": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P98_small_frying_pan\\Textures\\Tex_00.jpg",
+      "bytes": 18969261,
+      "sha256": "648442c6749e169c16fa300d29d2e0601295c055c99d1b6d1bb7f59e33f9d0f6",
+      "role": "external_texture",
+      "source_path": "D:\\idea美术资产详解\\idea3\\assets\\tripo_v3\\P98_small_frying_pan\\P98_small_frying_pan_static.blend"
+    }
+  ],
+  "errors": [],
+  "verified": true,
+  "export_axis": "FBX -Z forward / +Y up, meters; glTF uses +Z front / +Y up",
+  "engine_texture": {
+    "existing_runtime_file": "D:\\idea美术资产详解\\outputs\\Idea3_20261013\\Game_Art_Submission\\03_Models_模型\\Tripo_Props\\P98_small_frying_pan\\Textures\\Runtime_1k\\Runtime_Tex_00.jpg",
+    "sha256": "309565d27dd701eb011cef1a9135640046befef0e0c3fd51c7f002041d606a45",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "maximum_dimension": 1024,
+    "source_material_image": "tripo_rgb_b171219a-23e0-4616-9770-acb0f458fdaf",
+    "embedded_fbx_raw_bytes_match_existing_runtime": true,
+    "editable_original_resolution_unchanged": true
+  }
+}
